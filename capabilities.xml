@@ -1,0 +1,112 @@
+<!--
+    Theme capabilities for slate-DE
+-->
+
+<themeCapabilities>
+
+    <suppressTransitionProfiles>
+        <entry>builtin-instant</entry>
+        <entry>builtin-slide</entry>
+        <entry>builtin-fade</entry>
+    </suppressTransitionProfiles>
+    
+    <language>en_US</language>
+    <language>en_GB</language>
+    <language>ca_ES</language>
+    <language>de_DE</language>
+    <language>es_ES</language>
+    <language>fr_FR</language>
+    <language>it_IT</language>
+    <language>nl_NL</language>
+    <language>pl_PL</language>
+    <language>pt_BR</language>
+    <language>ro_RO</language>
+    <language>ru_RU</language>
+    <language>sv_SE</language>
+    <language>ja_JP</language>
+    <language>ko_KR</language>
+    <language>zh_CN</language> 
+    <language>zh_TW</language>
+
+    <transitions name="instantfade">
+        <label>Instant w/Fade</label>
+        <selectable>true</selectable>
+        <systemToSystem>instant</systemToSystem>
+        <systemToGamelist>fade</systemToGamelist>
+        <gamelistToGamelist>instant</gamelistToGamelist>
+        <gamelistToSystem>fade</gamelistToSystem>
+        <startupToSystem>slide</startupToSystem>
+        <startupToGamelist>slide</startupToGamelist>
+    </transitions>
+
+    <transitions name="instant">
+        <label>Instant</label>
+        <selectable>true</selectable>
+        <systemToSystem>instant</systemToSystem>
+        <systemToGamelist>instant</systemToGamelist>
+        <gamelistToGamelist>instant</gamelistToGamelist>
+        <gamelistToSystem>instant</gamelistToSystem>
+        <startupToSystem>instant</startupToSystem>
+        <startupToGamelist>instant</startupToGamelist>
+    </transitions>
+    
+    <themeName>TateGriddy</themeName>
+    <aspectRatio>16:9_vertical</aspectRatio>
+    <aspectRatio>4:3_vertical</aspectRatio>
+    <aspectRatio>16:10_vertical</aspectRatio>
+
+    <colorScheme name="grey">
+        <label>Greyscale</label>
+    </colorScheme>
+
+    <colorScheme name="blue">
+        <label>Blue</label>
+    </colorScheme>
+
+    <colorScheme name="gold">
+        <label>Gold</label>
+    </colorScheme>
+
+    <colorScheme name="retro">
+        <label>Retro</label>
+    </colorScheme>
+    
+    <colorScheme name="classy">
+        <label>Stay Classy</label>
+    </colorScheme>
+
+    <colorScheme name="chill">
+        <label>Chilled</label>
+    </colorScheme>
+
+    <colorScheme name="purplerain">
+        <label>Purple Rain</label>
+    </colorScheme>
+
+    <colorScheme name="primary">
+        <label>Primary</label>
+    </colorScheme>
+
+    <variant name="withVideos">
+        <label>Grid with videos</label>
+        <selectable>true</selectable>
+    </variant>
+
+    <variant name="withoutVideos">
+        <label>Grid without videos</label>
+        <selectable>true</selectable>
+    </variant>
+
+    <variant name="textwithVideos">
+        <label>Carousel with videos</label>
+        <selectable>true</selectable>
+        
+    </variant>
+
+    <variant name="textwithoutVideos">
+        <label>Carousel without videos</label>
+        <selectable>true</selectable>
+       
+    </variant>
+
+</themeCapabilities>

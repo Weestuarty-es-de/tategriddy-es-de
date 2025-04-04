@@ -1,0 +1,77 @@
+<theme>
+    <view name="gamelist">
+        <image name="logo">
+            <pos>0.6 0.04</pos>
+            <maxSize>0.65 0.06</maxSize>
+            <origin>0.5 0</origin>
+            <path>./core/systems/${system.theme}.svg</path>
+            <color>${gamelogoColor}</color>
+            <colorEnd>${gamelogoEndColor}</colorEnd>
+        </image> 
+        
+        <image name="backtile">
+            <pos>0.0375 0.028</pos>
+            <size>0.93 0.12</size>
+            <path>./core/images/outline.svg</path>
+            <color>${boxColor}</color>
+            <zIndex>5</zIndex>
+        </image>
+        <image name="backtile2">
+            <pos>0.06 0.035</pos>
+            <size>0.175 0.105</size>
+            <path>./core/images/frame.png</path>
+            <color>${boxColor}</color>
+            <zIndex>5</zIndex>
+        </image>
+        <image name="handheld">
+            <pos>0.15 0.0875</pos>
+            <maxSize>0.1 0.09</maxSize>
+            <origin>0.5 0.5</origin>
+            <path>./core/handhelds/${system.theme}.png</path>
+        </image>  
+            <badges name="md_badges4">
+                <pos>0.085 0.0425</pos>
+                <size>0.15 0.09</size>
+                <horizontalAlignment>left</horizontalAlignment>
+                <direction>row</direction>
+                <lines>1</lines>
+                <itemsPerLine>1</itemsPerLine>
+                <slots>controller</slots>
+                <customBadgeIcon badge="controller">./core/badge/controller.svg</customBadgeIcon>   
+                <controllerPos>0.5 0.5</controllerPos>
+                <controllerSize>1.1</controllerSize>
+            </badges>   
+            <text name="md_lbl_players">
+                <pos>0.3 0.10</pos>
+                <text>players:</text>
+                <fontSize>0.04</fontSize>
+                <metadataElement>true</metadataElement>
+                <fontPath>${secondaryFont}</fontPath>
+                
+                <color>${headerColor}</color>
+                <letterCase>uppercase</letterCase>
+            </text>
+            <text name="md_players">
+                <pos>0.48 0.10</pos>
+                <horizontalAlignment>right</horizontalAlignment>
+                <metadata>players</metadata>
+                <defaultValue>1</defaultValue>
+                <fontSize>0.04</fontSize>
+                <fontPath>${secondaryFont}</fontPath>
+                
+                <color>${headerColor}</color>
+                <letterCase>uppercase</letterCase>
+            </text>
+            
+            <rating name="md_rating">
+                <pos>0.65 0.105</pos>
+                <size>0 0.03</size>
+                <interpolation>nearest</interpolation>
+                <color>${headerColor}</color>
+                <filledPath>./core/images/rating_filled.svg</filledPath>
+                <unfilledPath>./core/images/rating_empty.svg</unfilledPath>
+                <overlay>false</overlay>
+            </rating>
+            </view>
+        
+</theme>
