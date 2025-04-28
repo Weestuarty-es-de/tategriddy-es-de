@@ -464,4 +464,33 @@
             <langUnknown>未知</langUnknown>
         </variables>
     </language>
+    <language name="zh_TW">
+        <variables>
+        <langLabelRating>評級</langLabelRating>
+        <langLabelReleasedate>發佈</langLabelReleasedate>
+        <langLabelPlayers>玩家</langLabelPlayers>
+        <langLabelGenre>類型</langLabelGenre>
+        <langLabelDeveloper>開發人員</langLabelDeveloper>
+        <langLabelPublisher>發佈者</langLabelPublisher>
+        <langLabelManufacturer>製造商</langLabelManufacturer>
+        <langLabelHardwareType>型別</langLabelHardwareType>
+        <langLabelGames>遊戲</langLabelGames>
+        <langLabelFavorites>收藏夾</langLabelFavorites>
+        <langLabelLastPlay>上次播放</langLabelLastPlay>
+        <langLabelTimePlay>播放次數</langLabelTimePlay>
+        <langLabelSysName>系統名稱</langLabelSysName>
+        <langLabelCompleted>已完成</langLabelCompleted>
+        <langLabelChild>兒童安全</langLabelChild>
+        <langLabelContain>包含</langLabelContain>
+        <langLabelInclude>包括</langLabelInclude>
+        <langLabelEmulator>模擬器</langLabelEmulator>
+        <langLabelSystemSelect>系統選擇</langLabelSystemSelect>
+        <langLabelSystem>系統</langLabelSystem>
+        <langLabelSystemLogo>系統標誌</langLabelSystemLogo>
+        <langLabelGF>遊戲前端</langLabelGF>
+        <langLabelPower>開機</langLabelPower>
+        <langLabelPowerby>技術支援</langLabelPowerby>
+        <langUnknown>未知</langUnknown>
+        </variables>
+    </language>
 </theme>
