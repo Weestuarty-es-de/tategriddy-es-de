@@ -18,6 +18,14 @@ Development of the Saturn began in 1992, the same year Sega's groundbreaking 3D 
         <systemColorPalette4>BD3786</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>سيجا ساتورن هو جهاز ألعاب فيديو منزلي تم تطويره من قبل شركة سيجا وتم إصداره في 22 نوفمبر 1994 في اليابان، و11 مايو 1995 في أمريكا الشمالية، و8 يوليو 1995 في أوروبا. كان جزءًا من الجيل الخامس من أجهزة ألعاب الفيديو، وكان خليفة جهاز Sega Genesis الناجح. يحتوي Saturn على بنية وحدة معالجة مركزية مزدوجة وثمانية معالجات. وألعابه في شكل أقراص مدمجة CD-ROM، وتحتوي مكتبة الألعاب الخاصة به على العديد من منافذ ألعاب الأركيد بالإضافة إلى ألعاب أصلية.
+
+بدأ تطوير ساتورن في عام 1992، وهو نفس العام الذي ظهر فيه جهاز الآركيد ثلاثي الأبعاد من طراز 1 الرائد من سيجا. تم تصميم Saturn حول وحدة معالجة مركزية جديدة من شركة الإلكترونيات اليابانية Hitachi. أضافت سيجا معالج عرض فيديو آخر في أوائل عام 1994 لمنافسة جهاز PlayStation القادم من سوني بشكل أفضل.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The Sega Saturn is a home video game console developed by Sega and released on November 22, 1994 in Japan, May 11, 1995 in North America, and July 8, 1995 in Europe. Part of the fifth generation of video game consoles, it was the successor to the successful Sega Genesis. The Saturn has a dual-CPU architecture and eight processors. Its games are in CD-ROM format, and its game library contains several ports of arcade games as well as original games.

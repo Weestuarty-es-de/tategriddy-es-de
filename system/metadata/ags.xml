@@ -16,6 +16,12 @@
         <systemColorPalette4>9FCFFF</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>استوديو ألعاب المغامرات (AGS) هو أداة تطوير مفتوحة المصدر تُستخدم بشكل أساسي لإنشاء ألعاب المغامرات الرسومية. وهو موجه لمصممي الألعاب ذوي المستوى المتوسط، ويجمع بين بيئة تطوير متكاملة (IDE) ولغة برمجة نصية تستند إلى لغة البرمجة C لمعالجة منطق اللعبة.</systemDescription>
+            <systemHardwareType>المحرك</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Avanturistički igra Studio (AGS) je otvoreni razvojni alat za razvoj sova koji se prvenstveno koristi za stvaranje grafičkih avantura. Cilja je na dizajnere igre u razini i kombinira integrirani razvojni okruženje (IDE) sa skriptnim jezikom na osnovu jezika C programiranja za obradu logike igre.</systemDescription>

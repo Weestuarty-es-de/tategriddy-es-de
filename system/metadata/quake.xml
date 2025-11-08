@@ -16,6 +16,12 @@
         <systemColorPalette4>111111</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>كويك هي لعبة تصويب من منظور الشخص الأول تم تطويرها من قبل شركة id Software ونشرتها شركة GT Interactive. وهي أول لعبة في سلسلة Quake، وقد صدرت في الأصل لأجهزة MS-DOS ومايكروسوفت ويندوز ولينكس في عام 1996، ثم أُصدرت لنظام التشغيل Mac OS وSega Saturn في عام 1997 وNintendo 64 في عام 1998. في اللعبة، يجب على اللاعبين أن يجدوا طريقهم عبر بيئات مختلفة تشبه المتاهات وتعود إلى القرون الوسطى بينما يقاتلون الوحوش باستخدام مجموعة من الأسلحة. الجو العام للعبة مظلم وشجاع، مع العديد من التركيبات الحجرية والخط الصدئ ذو الأحرف الكبيرة. تستلهم لعبة Quake من الخيال القوطي وأعمال H. P. Lovecraft.</systemDescription>
+            <systemHardwareType>المحرك</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Quake je igra putnika za prvu osobu koju je razvio ID softver i objavio GT Interactive. Prva utakmica u seriji Quake, to je 1996. prvobitno puštena za MS-DOS, Microsoft Windows i Linux, a slijede Mac OS i Sega Saturn 1997. godine i Nintendo 64 u 1998. godini. Ukupna atmosfera je tamna i mršava, s mnogim kamenim teksturama i zahrđalom, kapitaliziranim font. Potres uzima inspiraciju od gotičke fikcije i radova H. P. Lovecraft.</systemDescription>

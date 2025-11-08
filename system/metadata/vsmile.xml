@@ -20,6 +20,16 @@ Some key differentiators between systems and the ability to fully utilize all ga
         <systemColorPalette4>F0973A</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إن V.Smile (منمق باسم V.SMILE TV LEARNING SYSTEM) هو جهاز ألعاب فيديو منزلي تعليمي من الجيل السادس من تصنيع وإصدار VTech. وتتوفر العناوين على خراطيش ROM تسمى "الخراطيش الذكية"، للاستفادة من الطبيعة التعليمية للنظام. تعتمد الرسومات بشكل أساسي على العفاريت. وغالباً ما تباع وحدة التحكم مرفقة بلعبة معينة، حيث تحتوي معظمها على لعبة تسمى "مغامرة حديقة الأبجدية".
+
+وتباع عدة أنواع مختلفة من وحدة التحكم V.Smile بما في ذلك الإصدارات المحمولة باليد، أو النماذج ذات الوظائف المضافة مثل وحدات التحكم المدمجة التي تعمل باللمس أو الميكروفونات. يعد V-Motion متغيرًا رئيسيًا مع مجموعة برامج خاصة به تتضمن وحدات تحكم حساسة للحركة، ويحتوي على Smartriges مصممة للاستفادة من "التعلم النشط" المرتبط بالحركة. ومع ذلك، فإن V-Motion وSmartridges متوافقة تمامًا مع المتغيرات الأخرى من V.Smile وV.Smile Smartridges، ويمكن أيضًا تشغيل V-Motion Smartridge على وحدة تحكم V.Smile أو الجهاز المحمول باليد، وإن كان بوظائف محدودة. ومع ذلك، في عام 2010، تم إيقاف الموديلات الجديدة والقديمة من V.Smile. ظلت VTech تصنع ألعاب V.Smile حتى عام 2012.
+
+تشمل بعض الفروق الرئيسية بين الأنظمة والقدرة على الاستفادة الكاملة من جميع وظائف اللعبة خيارات الميكروفون أو اللوح اللمسي أو منفذ عصا التحكم الإضافي (للعب بلاعبين) أو وحدة التحكم المحسّنة بالقلم أو لوحة الألعاب الحساسة للحركة (مع V-Motion).</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The V.Smile (stylized as V.SMILE TV LEARNING SYSTEM) is a sixth-generation educational home video game console manufactured and released by VTech. Titles are available on ROM cartridges called "Smartridges", to play off the system's educational nature. The graphics are primarily sprite-based. The console is often sold bundled with a particular game, with most of them having a game called Alphabet Park Adventure.

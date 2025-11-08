@@ -16,6 +16,12 @@
         <systemColorPalette4>02559C</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>ZX Spectrum Next هو كمبيوتر منزلي من 8 بت، تم إصداره في البداية في عام 2017، وهو متوافق مع برامج وأجهزة ZX Spectrum لعام 1982. كما أنه يتمتع بقدرات محسّنة. وهو يهدف إلى جذب عشاق الحوسبة القديمة و"تشجيع جيل جديد من المبرمجين في غرف النوم"، وفقًا لعضو المشروع جيم باجلي.  وعلى الرغم من الاسم، فإن الآلة ليست تابعة بشكل مباشر لشركة Sinclair Research Ltd. أو السير كلايف سينكلير أو المالك الحالي للعلامات التجارية، Sky Group.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>ZX Spectrum Next is an 8-bit home computer, initially released in 2017, which is compatible with software and hardware for the 1982 ZX Spectrum. It also has enhanced capabilities. It is intended to appeal to retrocomputing enthusiasts and to "encourage a new generation of bedroom coders", according to project member Jim Bagley.  Despite the name, the machine is not directly affiliated with Sinclair Research Ltd., Sir Clive Sinclair or the current owner of the trademarks, Sky Group.</systemDescription>

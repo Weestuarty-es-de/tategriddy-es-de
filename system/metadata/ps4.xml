@@ -16,6 +16,12 @@
         <systemColorPalette4>EBECEE</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>بلاي ستيشن 4 (PS4) هو جهاز ألعاب فيديو منزلي تم تطويره من قبل شركة سوني إنترأكتيف إنترتاينمنت. تم الإعلان عنه كخليفة لجهاز بلاي ستيشن 3 في فبراير 2013، وتم إطلاقه في 15 نوفمبر 2013 في أمريكا الشمالية، وفي 29 نوفمبر 2013 في أوروبا وأمريكا الجنوبية وأستراليا، وفي 22 فبراير 2014 في اليابان. وهو وحدة تحكم من الجيل الثامن، وينافس جهاز Xbox One من Microsoft وWii U وSwitch من Nintendo.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>PlayStation 4 (PS4) je konzola za video igre koja je razvila Sony Interactive zabava. Najavio je kao nasljednik PlayStation 3 u februaru 2013. godine pokrenut je 15. novembra 2013. u Severnoj Americi, 29. novembra 2013. u Evropi, Južnoj Americi i Australiji, a 22. februara 2014. u Japanu. Konzola osme generacije, on se takmiči sa Microsoftovim Xbox jednim i Nintendovim Wii u i prekidačem.</systemDescription>

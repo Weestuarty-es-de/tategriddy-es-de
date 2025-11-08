@@ -18,6 +18,14 @@ The first version of Windows was released on November 20, 1985, as a graphical o
         <systemColorPalette4>FFC300</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>ويندوز هو مجموعة من عدة عائلات أنظمة تشغيل رسومية مملوكة تم تطويرها وتسويقها من قبل مايكروسوفت. تلبي كل عائلة احتياجات قطاع معين من صناعة الحوسبة. على سبيل المثال، ويندوز NT للمستهلكين، وويندوز سيرفر للخوادم، وويندوز IoT للأنظمة المدمجة. تتضمن عائلات Windows التي لم يعد لها وجود نظام التشغيل Windows 9x وWindows Mobile وWindows Phone.
+
+تم إصدار الإصدار الأول من ويندوز في 20 نوفمبر 1985، كنظام تشغيل رسومي غلاف لنظام التشغيل MS-DOS استجابة للاهتمام المتزايد بواجهات المستخدم الرسومية (GUIs).</systemDescription>
+            <systemHardwareType>نظام التشغيل</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Windows is a group of several proprietary graphical operating system families developed and marketed by Microsoft. Each family caters to a certain sector of the computing industry. For example, Windows NT for consumers, Windows Server for servers, and Windows IoT for embedded systems. Defunct Windows families include Windows 9x, Windows Mobile, and Windows Phone.

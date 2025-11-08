@@ -19,6 +19,15 @@ It was marketed only for a limited time before Bally decided to exit the market.
         <systemColorPalette4>C47401</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إن Bally Astrocade (المعروف أيضًا باسم Bally Arcade أو في البداية باسم Bally ABA-1000) هو جهاز ألعاب فيديو منزلي من الجيل الثاني ونظام كمبيوتر بسيط صممه فريق في Midway، في ذلك الوقت قسم ألعاب الفيديو في Bally.
+وقد تم الإعلان عنه في الأصل باسم "كمبيوتر مكتبة بالي المنزلية" في أكتوبر 1977 وتم توفيره في البداية للطلب عبر البريد في ديسمبر 1977. ولكن بسبب التأخير في الإنتاج، تم طرح الوحدات لأول مرة في المتاجر في أبريل 1978 وتغيرت علامته التجارية إلى "Bally Professional Arcade".
+
+تم تسويقها لفترة محدودة فقط قبل أن تقرر Bally الخروج من السوق. تم الحصول على حقوقها لاحقًا من قبل شركة خارجية، والتي أعادت إصدارها وبيعها حتى عام 1984 تقريبًا. تتميز Astrocade بشكل خاص بقدراتها الرسومية القوية جداً بالنسبة لوقت إصدارها وصعوبة الوصول إلى تلك القدرات.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Bally astrokada (poznata kao bally arkada ili u početku kao bally aba-1000) je konzola za video igru za video igre druge generacije i jednostavan računalni sistem koji je dizajnirao tim u sredini, u to vrijeme odjeljenje za videoigame Bally.

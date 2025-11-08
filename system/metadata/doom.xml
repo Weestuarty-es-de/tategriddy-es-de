@@ -16,6 +16,12 @@
         <systemColorPalette4>A63417</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Doom هي لعبة تصويب من منظور الشخص الأول (FPS) من إنتاج شركة id Software لنظام MS-DOS عام 1993. يتقمص اللاعبون دور جندي بحرية فضائي، معروف باسم Doomguy، يقاتل في طريقه عبر جحافل من الشياطين الغازية من الجحيم. بدأت شركة Id بتطوير Doom بعد إصدار لعبة التصويب من منظور الشخص الأول السابقة Wolfenstein 3D (1992).</systemDescription>
+            <systemHardwareType>المحرك</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Doom je igara za prvu osobu iz 1993. godine razvijena od strane ID softvera za MS-DOS. Igrači preuzimaju ulogu svemirskog morskog morskog, popularno poznatog kao Doomguy, boreći se svojim putem kroz horde kroz invaziju demona iz pakla. Počeo sam razvijati propast nakon izlaska njihovih prethodnih FPS-a, Wolfenstein 3D (1992).</systemDescription>

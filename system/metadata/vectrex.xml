@@ -18,6 +18,14 @@ The Vectrex, in contrast to other video-game systems available at the time, feat
         <systemColorPalette4>166FC1</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز Vectrex هو جهاز ألعاب فيديو منزلي قائم على شاشة عرض متجهة - الجهاز الوحيد الذي تم تصميمه وإصداره للسوق المنزلي، وقد طورته شركة Smith Engineering. تم إصداره لأول مرة لسوق أمريكا الشمالية في نوفمبر 1982 ثم أوروبا واليابان في عام 1983. تم تصنيعه في الأصل من قبل شركة جنرال للإلكترونيات الاستهلاكية العامة، ثم تم ترخيصه لاحقًا لشركة ميلتون برادلي بعد استحواذها على الشركة. أصدرت بانداي النظام في اليابان.
+
+تميز Vectrex، على عكس أنظمة ألعاب الفيديو الأخرى المتوفرة في ذلك الوقت، بشاشة CRT أحادية اللون مدمجة ولم يكن هناك حاجة إلى توصيله بجهاز تلفزيون حيث كان مزوداً بشاشة عرض مدمجة خاصة به. تم تركيب لوحة تحكم سلكية قابلة للفصل في القاعدة السفلية لوحدة التحكم، ويمكن طيها في القاعدة السفلية لوحدة التحكم. تضمنت الألعاب تراكبات صفائح ملونة شفافة يمكن وضعها فوق الشاشة أحادية اللون. تم إنتاج عدد من الأجهزة الطرفية، مثل زوج من النظارات ثلاثية الأبعاد المعروفة باسم "3D Imager" و"قلم ضوئي" يسمح للاعب بالرسم مباشرة على الشاشة. كانت هناك لعبة مدمجة، "ماين ستورم"، يمكن لعبها دون إدخال خرطوشة.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The Vectrex is a vector display-based home video game console–the only one ever designed and released for the home market, developed by Smith Engineering. It was first released for the North America market in November 1982 and then Europe and Japan in 1983. Originally manufactured by General Consumer Electronics, it was later licensed to Milton Bradley after they acquired the company. Bandai released the system in Japan.

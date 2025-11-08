@@ -19,6 +19,15 @@ It was the first video game console to include a touchscreen and the first handh
         <systemColorPalette4>186DA4</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز Game.com هو جهاز ألعاب محمول باليد من الجيل الخامس أصدرته شركة Tiger Electronics في أغسطس 1997. وصدرت نسخة أصغر، Game.com Pocket Pro، في منتصف عام 1999.
+يمكن توصيل الإصدار الأول من Game.com بمودم 14.4 كيلوبايت/ثانية للاتصال بالإنترنت، ومن هنا جاء اسمه الذي يشير إلى نطاق المستوى الأعلى .com.
+
+وكان أول جهاز ألعاب فيديو يتضمن شاشة تعمل باللمس وأول جهاز محمول باليد يتضمن اتصالاً بالإنترنت.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Game.com je peta generacija ručna igra koja je puštena od tigra elektronike koja je puštena u kolovozu 1997. manja verzija, Igrac.c.chove Pro, puštena je sredinom 1999. godine.

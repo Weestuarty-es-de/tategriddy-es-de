@@ -16,6 +16,12 @@
         <systemColorPalette4>2A2E33</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Steam هي خدمة توزيع ألعاب الفيديو الرقمية وواجهة متجر لألعاب الفيديو من Valve. تم إطلاقها كعميل برمجيات في سبتمبر 2003 كوسيلة ل Valve لتوفير تحديثات تلقائية لألعابهم، وتوسعت لتوزيع وتقديم عناوين ناشري ألعاب الطرف الثالث في أواخر عام 2005.</systemDescription>
+            <systemHardwareType>المجلد</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Steam is a video game digital distribution service and storefront by Valve. It was launched as a software client in September 2003 as a way for Valve to provide automatic updates for their games, and expanded to distributing and offering third-party game publishers' titles in late 2005.</systemDescription>

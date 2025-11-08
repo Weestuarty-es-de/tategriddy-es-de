@@ -16,6 +16,12 @@
         <systemColorPalette4>7642B6</systemColorPalette4>
         <systemCartSize>373-436</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز Game Boy Color (اختصاراً GBC) هو جهاز ألعاب محمول باليد من إنتاج شركة Nintendo، تم إصداره في 21 أكتوبر 1998 في اليابان وتم طرحه في نوفمبر من نفس العام في الأسواق العالمية. وهو خليفة Game Boy. يتميز Game Boy Color، كما يوحي الاسم، بشاشة ملونة، ولكن بدون إضاءة خلفية. وهو أكثر سمكاً وأطول قليلاً من Game Boy Pocket، وهو جهاز Game Boy معاد تصميمه والذي تم إصداره في عام 1996. وكما هو الحال مع Game Boy الأصلي، فهو يحتوي على معالج 8 بت مخصص مرتبط إلى حد ما بوحدة المعالجة المركزية Zilog Z80 (CPU). ظل الاسم الأصلي - مع تهجئة كلمة "color" بالإنجليزية الأمريكية - دون تغيير حتى في الأسواق التي كانت فيها كلمة "color" هي التهجئة الإنجليزية المقبولة. كان المنافسون الأساسيون لجهاز Game Boy Color هم Neo Geo Pocket الأكثر تقدمًا من SNK وWonderSwan من Bandai (كلاهما صدر في اليابان فقط)، على الرغم من أن Game Boy Color تفوق على هذه الأجهزة بهامش كبير. باعت Game Boy و Game Boy Color مجتمعين 118.69 مليون وحدة حول العالم. تم إيقافها في عام 2003، بعد فترة وجيزة من إصدار Game Boy Advance SP.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Boja igara, (skraćeno kao GBC) je ručna igra koja proizvodi Nintendo, koja je objavljena 21. oktobra 1998. u Japanu i puštena je u novembru iste godine na međunarodnim tržištima. To je naslednik dečaka igre. Boja dječaka igre, kako je predložio ime, sadrži ekran u boji, ali bez pozadinskog osvjetljenja. Malo je deblji i viši od džepa za igru, koji je redizajniran dječak za igru objavljen 1996. godine. Kao i kod originalnog dječaka za igru, ima prilagođeni 8-bitni procesor koji se pomalo povezuje na centralnu prerađivačku jedinicu za obradu zilog Z80 (CPU). Originalno ime - sa svojim američkim engleskim pravopisom "Boja" - ostao je nepromijenjen čak i na tržištima gdje je "boja" bio prihvaćen engleski pravopis. Igrački natjecatelji Boja Boja bili su mnogo napredniji Neo Geo džep od SNK-a i Wonderswan by Bandai (samo su pušteni u Japanu), iako ih igra dječak izvadi na raspolaganju na široku maržu. Boy i igra u boji u kombinaciji u boji prodali su 118,69 miliona jedinica širom svijeta. Ustalo je u 2003. godini, ubrzo nakon puštanja igara Boy Advance Sp.</systemDescription>

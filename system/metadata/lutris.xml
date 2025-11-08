@@ -18,6 +18,14 @@ Lutris began as a piece of software called Oblivion Launcher, which was created 
         <systemColorPalette4>FFB700</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>لوتريس هو مدير ألعاب مجاني ومفتوح المصدر لأنظمة التشغيل المستندة إلى لينكس تم تطويره وصيانته من قبل ماثيو كوماندون والمجتمع، وتم إصداره بموجب رخصة جنو العمومية.
+
+بدأ لوتريس كجزء من برنامج يُدعى Oblivion Launcher، والذي تم إنشاؤه في عام 2009 من قبل ماتيو كوماندون. كان يريد طريقة أسهل لإدارة ألعابه التي تعمل على لينكس، خاصة تلك التي تعمل باستخدام Wine. بدأ لوتريس بالتطوير على Launchpad، مع إنشاء المستودع في 5 مايو 2009. كان الإصدار العام الأول، 0.1، في 29 نوفمبر 2009.[8] في عام 2010، انتقل التطوير إلى GitHub.</systemDescription>
+            <systemHardwareType>المحرك</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Lutris je besplatan i otvoreni korektni menadžer za igru za Linux zasnovan za operativne sisteme zasnovan na Linuxu i održavao Mathieu Comandon i Zajednica, pušteni pod GNU General Licence.

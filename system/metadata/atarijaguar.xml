@@ -16,6 +16,12 @@
         <systemColorPalette4>0F0E0E</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>أتاري جاغوار هو جهاز ألعاب فيديو من الجيل الخامس (1993-2005) تم تطويره وتوزيعه من قبل شركة أتاري كوربوريشن. تم إصدارها في نوفمبر 1993 في أمريكا الشمالية بسعر تجزئة 249.99 دولارًا أمريكيًا. تم إصدار وحدة التحكم لاحقًا في أوروبا (1994) وأستراليا (1994) واليابان (1994). تم تسويق Jaguar على أنها أول وحدة تحكم لألعاب الفيديو ذات 64 بت؛ ولكن تم انتقاد هذا الادعاء على نطاق واسع. تم إيقاف وحدة التحكم في أوائل عام 1996، ربما في وقت بيع الشركة في 8 أبريل 1996.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Atari Jaguar je peta generacija (1993-2005) konzola za video igre razvijena i distribuirana od strane Atari Corporation. Pušten je u novembru 1993. u Severnoj Americi u maloprodajnoj ceni od 249,99 dolara. Konzola je kasnije objavljena u Europi (1994.), Australiji (1994), i Japan (1994). Jaguar je plasiran kao prva 64-bitna konzola za video igre;Međutim, ta je tvrdnja široko kritizirana. Konzola je prekinuta početkom 1996. godine, eventualno u trenutku prodaje kompanije 8. aprila 1996. godine.</systemDescription>

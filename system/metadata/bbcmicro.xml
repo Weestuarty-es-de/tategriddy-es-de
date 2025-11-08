@@ -16,6 +16,12 @@
         <systemColorPalette4>635B4F</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>نظام الحواسيب الصغيرة لهيئة الإذاعة البريطانية أو نظام الحواسيب الصغيرة لهيئة الإذاعة البريطانية أو المعروف باسم BBC Micro هو سلسلة من الحواسيب الصغيرة التي صممتها شركة Acorn Computers Ltd. تم إصدار الطرازات الأولى في ديسمبر 1981 في أوروبا مقابل 235 جنيه إسترليني أو 335 جنيه إسترليني، حسب الطراز. كما تم إصدار الحواسيب في أمريكا الشمالية (1983). تم تصميم أجهزة الكمبيوتر مع التركيز على التعليم، وكونها أكثر متانة من العلامات التجارية الأخرى. تم تصنيع أجهزة الكمبيوتر حتى وقت غير محدد في عام 1994.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Britanska radiodifuzno korporacija MicroCompratic sistem, BBC mikrokompjuterski sistem, ili najpoznatiji kao BBC Micro je niz mikroračunala dizajniranih od Acorn Computers Ltd. i distribuirao BBC. Prvi modeli objavljeni su u decembru 1981. u Evropi za 235 € ili 335 funti, ovisno o modelu. Računari su takođe pušteni u Sjevernoj Americi (1983). Računari su dizajnirani sa naglaskom na obrazovanje i bili su robusniji od ostalih brendova. Računari su proizvedeni do neodređenog vremena 1994. godine.</systemDescription>

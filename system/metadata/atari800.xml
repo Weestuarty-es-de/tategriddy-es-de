@@ -18,6 +18,14 @@ The Atari 400 was initially almost half the cost of the Atari 800. Instead of th
         <systemColorPalette4>BF9438</systemColorPalette4>
         <systemCartSize>373-436</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>عائلة أتاري 8 بت هي سلسلة من الحواسيب المنزلية ذات 8 بت قدمتها شركة أتاري في عام 1979 باسم أتاري 400 وأتاري 800 وتم تصنيعها حتى عام 1992. جميع أجهزة العائلة متشابهة من الناحية التقنية وتختلف بشكل أساسي في التغليف. وتعتمد هذه الأجهزة على وحدة المعالجة المركزية MOS Technology 6502 التي تعمل بسرعة 1.79 ميجاهرتز، وكانت أول أجهزة كمبيوتر منزلية مصممة مع رقائق المعالجات المشتركة المخصصة. وقد مكنت هذه البنية من توفير رسومات وصوت أكثر تقدمًا من الأجهزة المعاصرة، وكانت الألعاب من أهم عوامل الجذب. تعتبر لعبة محاكاة القتال الفضائي من منظور الشخص الأول Star Raiders التطبيق القاتل للمنصة. تم إطلاق الأنظمة مع أجهزة طرفية للتوصيل والتشغيل باستخدام الناقل التسلسلي SIO من Atari، وهو نظير مبكر ل USB.
+
+كان أتاري 400 في البداية بنصف تكلفة أتاري 800 تقريباً. فبدلاً من لوحة المفاتيح كاملة الحجم في 800، كان لدى 400 لوحة حساسة للضغط. ويحتوي الطراز 800 على فتحة خرطوشة ثانية وعلبة أكبر تسمح بترقية ذاكرة الوصول العشوائي إلى 48K. استُبدل كلا الطرازين بسلسلة XL في عام 1983، ثم - بعد بيع الشركة وإعادة تأسيسها باسم Atari Corporation - بطراز XE في عام 1985. كان الطرازان XL و XE أخف وزنًا من حيث البنية مع وجود Atari BASIC مدمج ومنفذين لعصا التحكم بدلاً من 4 منافذ. 130XE زادت الذاكرة إلى 128 كيلوبايت من ذاكرة الوصول العشوائي ذات التبديل البنكي.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Atari 8-bitna porodica serija je 8-bitnih kućnih računala koje je uvodio Atari, Inc. 1979. kao Atari 400 i Atari 800 i proizvedeni do 1992. godine. Sve mašine u porodici su tehnički slične i razlikuju se prvenstveno u pakiranju. Oni se temelje na Ministarstvu sredstava za MOS tehnologiju 6502 koji radi na 1,79 MHz, a bili su prvi kućni računari dizajnirani sa prilagođenim koprocesorskim čipovima. Ova arhitektura omogućila je grafiku i zvuče naprednije od savremenih mašina, a igranje je bio glavni izvlačenje. Prva svemirska centralna simulator Star Raiders smatra se ubojicom platforme. Sistemi su pokrenuti sa čepom i perifernima za reprodukciju koristeći serijski autobus Atari SIO, rani analogna USB-a.

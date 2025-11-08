@@ -16,6 +16,12 @@
         <systemColorPalette4>9E9C8F</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>كان Oric هو الاسم الذي استخدمته شركة Tangerine Computer Systems ومقرها المملكة المتحدة لسلسلة من الحواسيب المنزلية التي تعتمد على 6502 والتي بيعت في الثمانينيات، في أوروبا بشكل أساسي. مع نجاح ZX Spectrum ZX Spectrum من Sinclair Research، اقترح داعمو Tangerine جهاز كمبيوتر منزلي وشكلت Tangerine شركة Oric Products International Ltd لتطوير Oric-1. طُرح الحاسوب في عام 1982.[5] وخلال عام 1983، تم بيع ما يقرب من 160,000 جهاز كمبيوتر Oric-1 في المملكة المتحدة، بالإضافة إلى 50,000 جهاز آخر في فرنسا (حيث كان الجهاز الأكثر مبيعًا في العام). وقد أدى ذلك إلى الاستحواذ على Oric وتمويل الطراز الذي سيخلفه وهو Oric Atmos لعام 1984.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Orić je bilo ime koje koristi u Velikoj Britaniji mandarinski računarski sustavi za seriju od 6502 kućnih računara koji se prodaju u 1980-ima, prije svega u Europi. S uspjehom ZX spektra iz istraživanja Sinclair, bacširi za mandarine sugerirali su kućni računar i mandarine formirani Oric proizvodi International Ltd za razvoj Orića-1. Računar je predstavljen 1982. [5]Tokom 1983. godine u Velikoj Britaniji prodano je oko 160.000 računara ORIC-1, plus još 50.000 u Francuskoj (gdje je to bila najveća prodajna mašina). To je rezultiralo stečenim ORIC-om i davanje sredstava za model nasljednika, atmosferu 1984. godine.</systemDescription>

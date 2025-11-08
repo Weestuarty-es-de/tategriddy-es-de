@@ -16,6 +16,12 @@
         <systemColorPalette4>25AAE1</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>ChaiLove هو إطار عمل رائع يمكنك استخدامه لصنع ألعاب ثنائية الأبعاد في ChaiScript. إنه مجاني ومفتوح المصدر، ويعمل على أنظمة ويندوز وماك أو إس إكس ولينكس وأندرويد و ARM من خلال libretro/RetroArch.</systemDescription>
+            <systemHardwareType>المحرك</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>ChaiLove je fenomenalni okvir koji možete koristiti za izradu 2D igre u Chaistictu. Besplatno je, otvoreno i radovi na Windows-u, Mac OS X, Linux, Android i ARM kroz Libretro / Retroarch.</systemDescription>

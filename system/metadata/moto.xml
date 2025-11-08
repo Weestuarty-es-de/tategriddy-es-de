@@ -16,6 +16,12 @@
         <systemColorPalette4>2C2D2C</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>كانت مجموعة حواسيب Thomson MOTO عبارة عن سلسلة من الحواسيب ذات 8 بت التي تم بيعها في الثمانينيات من قبل شركة الإلكترونيات الفرنسية Thomson، التي تم تأميمها في عام 1982. أصبحت حواسيب MOTO جزءًا لا يتجزأ من خطة الحكومة الفرنسية "معلوماتية للجميع" (IPT) لجعل الحواسيب منتشرة في جميع أنحاء فرنسا من خلال توفير أجهزة الكمبيوتر ودروس البرمجة لأطفال المدارس الفرنسية. تم النظر في عدد من صانعي الحواسيب، بما في ذلك شركة Apple، قبل أن تفوز Thomson بالعقد.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Thomson Moto linija računara bila je serija 8-bitnih računara prodanih u 1980-ima francuske elektroničke kompanije Thomson, koje je ugrađeno 1982.. Brojni računarski proizvođači, uključujući jabuku, razmatrani su prije nego što je Thomson pobijedio u ugovoru.</systemDescription>

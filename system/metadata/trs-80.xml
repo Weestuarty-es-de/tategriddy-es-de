@@ -16,6 +16,12 @@
         <systemColorPalette4>0F7C3E</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>نظام الحاسوب الصغير TRS-80 (TRS-80، الذي أعيدت تسميته لاحقاً بالطراز الأول لتمييزه عن الأجهزة التي خلفته) هو حاسوب مكتبي صغير تم إطلاقه في عام 1977 وبيعه من قبل شركة Tandy Corporation من خلال متاجر راديو شاك. الاسم هو اختصار لاسم Tandy Radio Shack، Z80 [معالج دقيق]. وهو أحد أوائل الحواسيب المنزلية التي تم إنتاجها على نطاق واسع وتسويقها على نطاق واسع.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The TRS-80 Micro Computer System (TRS-80, later renamed the Model I to distinguish it from successors) is a desktop microcomputer launched in 1977 and sold by Tandy Corporation through their Radio Shack stores. The name is an abbreviation of Tandy Radio Shack, Z80 [microprocessor]. It is one of the earliest mass-produced and mass-marketed retail home computers.</systemDescription>

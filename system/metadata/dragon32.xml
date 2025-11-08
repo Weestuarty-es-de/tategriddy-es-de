@@ -18,6 +18,14 @@ The model numbers reflect the primary difference between the two machines, which
         <systemColorPalette4>3262D9</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>التنين 32 والتنين 64 هما حاسوبان منزليان تم تصنيعهما في الثمانينيات. وتشبه حواسيب دراغون إلى حد كبير حواسيب TRS-80 الملونة، وقد أنتجتها شركة دراغون داتا المحدودة للسوق الأوروبية في البداية في سوانسي بويلز قبل أن تنتقل إلى بورت تالبوت بويلز (حتى عام 1984) وشركة يوروهارد إس إيه في كاسار دي كاسيريس بإسبانيا (من 1984 إلى 1987)، وللسوق الأمريكية بواسطة شركة تانو في نيو أورليانز بولاية لويزيانا.
+
+تعكس أرقام الطرازات الفرق الأساسي بين الآلتين، اللتين تحتويان على 32 و64 كيلو بايت (32,768 و65,536 بايت) من ذاكرة الوصول العشوائي (RAM) على التوالي.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Zmaj 32 i Zmaj 64 su kućni računari koji su sagrađeni 1980-ih. Zmajevi su vrlo slični računarskom TRS-80 u boji, a europsko tržište su iz Dragona, doo, u početku u Svonsiru, Walesu prije preseljenja u Port Talbot, Španija (od 1984. do 1987.), a za američko tržište Tano od New Orleansa, Louisiana.

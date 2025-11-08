@@ -18,6 +18,14 @@ After a good sales start in both the U.S. and Japan with 14 launch titles (a rec
         <systemColorPalette4>25374A</systemColorPalette4>
         <systemCartSize>257-229</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز Neo Geo Pocket Color هو جهاز ألعاب فيديو محمول بالألوان 16 بت من إنتاج SNK. وهو خليفة لجهاز SNK الأحادي اللون Neo Geo Pocket المحمول باليد والذي ظهر لأول مرة في عام 1998 في اليابان، مع توافقه الكامل مع جهاز Color. تم إصدار Neo Geo Pocket Color في 16 مارس 1999 في اليابان، و6 أغسطس 1999 في أمريكا الشمالية، وفي 1 أكتوبر 1999 في أوروبا، ودخلت الأسواق التي تهيمن عليها نينتندو في جميع الأسواق التي تنافس فيها نينتندو Game Boy Color.
+
+بعد البداية الجيدة للمبيعات في كل من الولايات المتحدة واليابان مع 14 لعبة إطلاق (وهو رقم قياسي في ذلك الوقت)، أدى انخفاض دعم البيع بالتجزئة في الولايات المتحدة بعد ذلك، وعدم تواصل إدارة SNK الأمريكية مع مطوري الطرف الثالث، وشعبية امتياز بوكيمون من نينتندو وتوقع إصدار Game Boy Advance 32 بت، والمنافسة القوية من Bandai's WonderSwan في اليابان، إلى انخفاض المبيعات في كلتا المنطقتين.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Neo Geo Džepna boja je 16-bitna konzola za video igre u boji, proizvedena od strane SNK. Stručnik je SNK-ov monohrom Neo Geo džep ručni koji je u Japanu debitovao 1998. godine, a boja je u potpunosti kompatibilna. Neo Geo džepna boja puštena je 16. marta 1999. godine u Japanu, 6. avgusta 1999. u Severnoj Americi, a 1. oktobra 1999. u Evropi ulazeći na tržišta koje ulazi u Nintendo, koji se natječu sa Nintendovom bojom.

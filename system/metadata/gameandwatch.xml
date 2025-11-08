@@ -20,6 +20,16 @@ The series sold a combined of 43.4 million units worldwide.</systemDescription>
         <systemColorPalette4>4C301C</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>العلامة التجارية Game &amp; Watch عبارة عن سلسلة من الألعاب الإلكترونية المحمولة باليد تم تطويرها وتصنيعها وإصدارها وتسويقها من قبل شركة نينتندو من 1980 إلى 1991. ابتكرها مصمم الألعاب "جونبي يوكوي"، وقد استمد المنتج اسمه من احتوائه على لعبة واحدة بالإضافة إلى ساعة على شاشة LCD. تضمنت الموديلات من عام 1981 فصاعدًا منبهًا بالإضافة إلى ذلك. وكان أول منتج ألعاب فيديو من نينتندو يحقق نجاحًا كبيرًا.
+
+تعتمد الوحدات على وحدة معالجة مركزية رباعية البت من عائلة Sharp SM5xx، والتي تتضمن ذاكرة ROM وذاكرة وصول عشوائي صغيرة ودائرة تشغيل شاشة LCD، على الرغم من أنه قبل محاكاتها في MAME، كان هناك اعتقاد خاطئ بأن كل وحدة تستخدم وحدة ASIC مخصصة بدلاً من متحكم دقيق مناسب.
+
+باعت السلسلة ما مجموعه 43.4 مليون وحدة في جميع أنحاء العالم.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Marka igre i satovi je niz ručnih elektroničkih igara razvijenih, proizvedenih, objavljenih i marketiranih od strane Nintendoa od 1980. do 1991. godine. Kreiran od strane Dizajnerske igre Gunpei Yokoi, koji je izveden iz svoje igre, kao i sat na LCD ekranu. Modeli iz 1981. godine nadaljeni su alarm pored toga. Bio je to najraniji proizvod Nintendo video igre kako bi se dobio veliki uspjeh.

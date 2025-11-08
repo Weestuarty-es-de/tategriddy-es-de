@@ -16,6 +16,12 @@
         <systemColorPalette4>EE3537</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Symbian هو نظام تشغيل (OS) ومنصة حوسبة متوقفة عن العمل للهواتف الذكية. وقد تم تطويره في الأصل كنظام تشغيل برمجي مملوك للمساعدات الرقمية الشخصية في عام 1998 من قبل اتحاد سيمبيان المحدودة. نظام سيمبيان OS هو سليل نظام Psion's EPOC، وتم إصداره حصريًا على معالجات ARM، على الرغم من وجود منفذ x86 لم يتم إصداره. استُخدِم نظام سيمبيان من قبل العديد من العلامات التجارية الكبرى للهواتف المحمولة، مثل سامسونج وموتورولا وسوني إريكسون، وقبل كل شيء نوكيا. وكان منتشرًا أيضًا في اليابان من قبل علامات تجارية مثل فوجيتسو وشارب وميتسوبيشي. وباعتباره رائدًا في تأسيس صناعة الهواتف الذكية، فقد كان نظام التشغيل الأكثر شعبية للهواتف الذكية في المتوسط العالمي حتى نهاية عام 2010، في وقت كان استخدام الهواتف الذكية محدودًا، عندما تجاوزه نظامي iOS و Android. وكان أقل شعبية بشكل ملحوظ في أمريكا الشمالية.</systemDescription>
+            <systemHardwareType>نظام التشغيل</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Symbian is a discontinued mobile operating system (OS) and computing platform designed for smartphones. It was originally developed as a proprietary software OS for personal digital assistants in 1998 by the Symbian Ltd. consortium. Symbian OS is a descendant of Psion's EPOC, and was released exclusively on ARM processors, although an unreleased x86 port existed. Symbian was used by many major mobile phone brands, like Samsung, Motorola, Sony Ericsson, and above all by Nokia. It was also prevalent in Japan by brands including Fujitsu, Sharp and Mitsubishi. As a pioneer that established the smartphone industry, it was the most popular smartphone OS on a worldwide average until the end of 2010, at a time when smartphones were in limited use, when it was overtaken by iOS and Android. It was notably less popular in North America.</systemDescription>

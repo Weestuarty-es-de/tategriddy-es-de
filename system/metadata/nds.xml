@@ -16,6 +16,12 @@
         <systemColorPalette4>212121</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز نينتندو DS أو ببساطة DS، هو جهاز ألعاب محمول باليد بشاشة مزدوجة 32 بت تم تطويره وإصداره من قبل شركة نينتندو. تم طرح الجهاز للبيع في أمريكا الشمالية في 21 نوفمبر 2004. قدم DS، وهو اختصار لـ "نظام المطورين" أو "الشاشة المزدوجة"، ميزات جديدة مميزة للألعاب المحمولة باليد: شاشتا LCD تعملان جنباً إلى جنب (الشاشة السفلية تحتوي على شاشة تعمل باللمس)، وميكروفون مدمج، ودعم للاتصال اللاسلكي. كلتا الشاشتين مدمجتان في تصميم صدفي مشابه لجهاز Game Boy Advance SP. كما يتميز جهاز Nintendo DS أيضاً بقدرة وحدات تحكم DS المتعددة على التفاعل مباشرة مع بعضها البعض عبر شبكة Wi-Fi ضمن نطاق قصير دون الحاجة إلى الاتصال بشبكة لاسلكية موجودة. وبدلاً من ذلك، يمكنهم التفاعل عبر الإنترنت باستخدام خدمة Nintendo Wi-Fi Connection التي تم إغلاقها الآن.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Nintendo DS ili Jednostavno, DS, je 32-bitna dvostruka ekrana Handheld Game Console razvijena i pušta Nintendo. Uređaj je u Severnoj Americi 19. novembra 2004. godine, kratak za "sistem programera" ili "Dual ekran" uveo prepoznatljive nove funkcije: dva LCD ekrana koji rade u tandemu (donji mikrofon), ugrađeni mikrofon i podrška za bežičnu vezu. Oba ekrana su obuhvaćena u dizajnu školjke slične igri dječaka Avand Sp. Nintendo DS također sadrži sposobnost za višestruki DS konzola za izravno međusobno komuniciranje preko Wi-Fi-ja u kratkom rasponu bez potrebe za povezivanjem na postojeću bežičnu mrežu. Alternativno, mogli bi komunicirati putem interneta koristeći sada zatvoreni NINTENDO Wi-Fi servis veze.</systemDescription>

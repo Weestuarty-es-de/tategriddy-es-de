@@ -16,6 +16,12 @@
         <systemColorPalette4>1C6EB8</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز أتاري 5200 سوبر سيستم، المعروف باسم أتاري 5200، هو الجيل الثاني (1976-1992) من أجهزة ألعاب الفيديو التي طورتها ووزعتها شركة أتاري. وقد تم إصداره في نوفمبر 1982 في أمريكا الشمالية بسعر تجزئة 269 دولارًا أمريكيًا. لم يتم إصداره خارج أمريكا الشمالية. كانت الأجهزة الداخلية لجهاز 5200 متطابقة تقريباً مع أجهزة أتاري 8 بت، إلا أنه كان مزوداً بوحدة تحكم مبتكرة تتميز بعصا تحكم غير متمركزة بزاوية 360 درجة مع لوحة مفاتيح رقمية وأزرار بدء وإيقاف مؤقت وإعادة ضبط. تم إيقاف وحدة التحكم في 21 مايو 1984.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Supersystem Atari 5200, obično poznat kao ATARI 5200, je druga generacija (1976-1992) videoigračka konzola za video igre razvijena i distribuirana od strane Atari, Inc. Objavljen je u novembru 1982. u Severnoj Americi u maloprodajnoj ceni od 269 dolara. Nije pušteno izvan Sjeverne Amerike. Unutarnji hardver 5200 bio je gotovo identičan ATARI-ovim 8-bitnim računarima, ali došlo je s inovativnim kontrolerom koji sadrži brojeve od 360 stupnjeva nestorbica s numeričkom tipkovnicom, pauzijom i resetiranjem. Konzola je prekinuta 21. maja 1984. godine.</systemDescription>

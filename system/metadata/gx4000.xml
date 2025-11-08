@@ -16,6 +16,12 @@
         <systemColorPalette4>C02520</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز Amstrad GX4000، المعروف باسم GX4000، هو جهاز ألعاب فيديو من الجيل الثالث (1983-2003) تم تطويره وتوزيعه من قبل Amstrad. تم إصداره في سبتمبر من عام 1990 في أوروبا بسعر 99.99 جنيهًا إسترلينيًا. لم يتم إصدار وحدة التحكم خارج أوروبا. كانت GX4000 محاولة قصيرة الأجل من أمستراد لدخول سوق وحدات التحكم في الألعاب، حيث كانت في الأساس شركة تصنيع كمبيوتر منزلي. تم إيقاف وحدة التحكم في أواخر عام 1991.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>AMSTRAD GX4000, obično poznat kao GX4000, treća je generacija (1983-2003) konzola za video igre razvijena i distribuirana od strane Amstrada. Pušten je u septembru 1990. u Evropi u maloprodajnoj ceni od 99,99 funti. Konzola nije puštena izvan Evrope. GX4000 je bio amstradov kratkotrajni pokušaj da uđe na tržište konzole za igre, prije svega proizvođač kućnog računara. Konzola je prekinuta krajem 1991. godine.</systemDescription>

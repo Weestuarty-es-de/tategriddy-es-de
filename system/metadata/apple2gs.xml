@@ -16,6 +16,12 @@
         <systemColorPalette4>8C3E8C</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إن Apple IIGS هو كمبيوتر شخصي أصدرته شركة Apple للكمبيوتر في 15 سبتمبر 1986، وهو متوافق مع سلسلة Apple II، ولكنه يتمتع بقدرات مماثلة لقدرات Atari ST و Commodore Amiga و Macintosh. يرمز حرف "GS" في الاسم إلى "الرسومات" و"الصوت"، في إشارة إلى أجهزة الوسائط المتعددة المحسّنة، وخاصةً تركيب الصوت والموسيقى المتطورة. ويُعد هذا الجهاز خروجًا جذريًا عن أي جهاز Apple II سابقًا، حيث يتميز بمعالج 16 بت، والوصول المباشر إلى ميغابايت من ذاكرة الوصول العشوائي والماوس. وهو أول كمبيوتر تنتجه Apple يستخدم واجهة مستخدم رسومية ملونة (تم تقديم الألوان في Macintosh II بعد ستة أشهر) وواجهة ناقل Apple Desktop Bus للوحات المفاتيح والماوس وأجهزة الإدخال الأخرى. وهو أول كمبيوتر شخصي مزود بشريحة تركيب موجي مدمجة، باستخدام تقنية من شركة إنسونك.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Apple Iigs je lični računar koji je Apple Computer objavio 15. septembra 1986. godine koji je kompatibilan sa serijama Apple II, ali u protivnom su mogućnosti uporedive sa Atarim Amigom i Macintosh-om."GS" u ime predstavlja "grafiku" i "zvuk", pozivajući se na svoj poboljšani multimedijalni hardver, posebno njegovo stanje umjetničke zvučne i muzičke sinteze. Mašina je radikalni odlazak iz bilo koje prethodne Apple II, sa svojim 16-bitnim procesorom, direktnim pristupom megabajtama RAM-a i miša. To je prvi računar proizveden od strane Applea za korištenje grafičkog korisničkog sučelja u boji (boja je uvedena na Macintosh II šest mjeseci kasnije) i Apple Desktop Autobusno sučelje za klavijature, miševe i druge ulazne uređaje. To je prvi lični računar koji dolazi sa ugrađenim čipom sinteze sinteze, koristeći tehnologiju iz endonija.</systemDescription>

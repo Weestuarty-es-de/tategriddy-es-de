@@ -16,6 +16,12 @@
         <systemColorPalette4>333333</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>كان Acorn Electron (الملقب بـ Elk داخل Acorn وما بعدها) بديلاً أقل تكلفة لحاسوب BBC Micro التعليمي/المنزلي، الذي طورته شركة Acorn Computers Ltd، لتوفير العديد من ميزات ذلك الجهاز الأغلى ثمناً بسعر أكثر تنافسية مع سعر ZX Spectrum. وكان يحتوي على 32 كيلو بايت من ذاكرة الوصول العشوائي (RAM)، وتضمنت ذاكرة القراءة فقط (ROM) الخاصة به BBC BASIC II مع نظام التشغيل. وأُعلن عنه في عام 1982 لإصدار محتمل في نفس العام، وتم طرحه في نهاية المطاف في 25 أغسطس 1983 بسعر 199 جنيهاً استرلينياً</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Acorn Electron (nadimak Elk unutar žira) bio je nižina alternativa BBC Micro Educational / Početna računala, također razvio Acorn Computers Ltd, kako bi pružio mnoge karakteristike tog skupljeg stroja po cijeni konkurentnije s tim na konkurentnu cijenu. Imao je 32 kilobajta RAM-a, a njegov ROM je uključio BBC Basic II zajedno sa operativnim sistemom. Najavljeno 1982. godine za moguće puštanje iste godine, na kraju je predstavljen 25. avgusta 1983. po cijeni od 1998 godine</systemDescription>

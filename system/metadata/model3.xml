@@ -16,6 +16,12 @@
         <systemColorPalette4>4C9EFB</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>سيجا موديل 3 هي منصة أركيد أنتجتها شركة Sega بالشراكة مع شركة لوكهيد مارتن. وهي خليفة لمنصة Sega Model 2، وتم إصدارها في عام 1996. تختلف أجهزة الموديل 3 اختلافًا كبيرًا عن لوحات الموديل 1 والموديل 2 التي سبقتها. فقد صُممت لغرض واحد في الاعتبار - وهو دفع أكبر عدد ممكن من المضلعات المزخرفة بأقل قدر ممكن من المال. عند الإصدار، كانت لوحة موديل 3 أقوى من أي منصة ألعاب أخرى في السوق، بالإضافة إلى أي وحدة تحكم أو كمبيوتر منزلي.</systemDescription>
+            <systemHardwareType>أركيد</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Sega Model 3 je arkadna platforma proizvedena od strane Sega u partnerstvu sa Lockheed Martinom. Sljedbenik je platforme Sega Model 2, a objavljen je 1996. godine. Hardver modela 3 vrlo je različit od modela 1 i modela 2 ploče koje su joj prethodile. Na umu su se poljtila sa jednom svrhom - da pritisnem što je moguće više teksturiranih poligona za najmanje najmanje novca. Nakon puštanja, odbor modela 3 bio je moćniji od bilo koje druge arkadne platforme na tržištu, kao i bilo koja domaća konzola ili računar.</systemDescription>

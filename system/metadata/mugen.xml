@@ -16,6 +16,12 @@
         <systemColorPalette4>A1B687</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Mugen (منمق باسم M.U.G.E.N) هو محرك ألعاب قتال ثنائي الأبعاد مجاني صممته Elecbyte. يتم إنشاء المحتوى من قبل المجتمع، وقد تم إنشاء الآلاف من المقاتلين، سواءً الأصليين أو من القصص الخيالية الشائعة. وهو مكتوب بلغة C ويستخدم في الأصل مكتبة Allegro. تستخدم أحدث إصدارات المحرك مكتبة SDL.</systemDescription>
+            <systemHardwareType>المحرك</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Mugen (stilizirani kao m.u.g.e.n) je besplatni 2D borbeni motor koji je dizajnirao Elecbyte. Sadržaj kreira u zajednici i hiljade boraca, i originalne i od popularne fikcije, su stvorene. Napisana je u C i prvobitno je koristila Allegro biblioteku. Najnovije verzije motora koriste SDL biblioteku.</systemDescription>

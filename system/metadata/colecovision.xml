@@ -16,6 +16,12 @@
         <systemColorPalette4>A4DDF0</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>ColecoVision هو جهاز ألعاب فيديو منزلي من الجيل الثاني (1976-1992) تم تطويره وتوزيعه من قبل شركة Coleco Industries. تم إصداره في أغسطس 1982 في أمريكا الشمالية بسعر 175 دولار أمريكي. تم إصدار وحدة التحكم لاحقًا في أوروبا (1983). قدمت ColecoVision تجربة أقرب إلى ألعاب الأركيد من منافسيها في ذلك الوقت. تم إيقاف وحدة التحكم في منتصف عام 1985.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Colecovision je druga generacija (1976-1992) kućna igra video igre razvijena i distribuirana od strane Coleco Industries. Pušteno je u avgustu 1982. u Severnoj Americi u maloprodajnoj ceni od 175 dolara. Konzola je kasnije objavljena u Evropi (1983). Kolekovizija je ponudila bliže iskustvo za arkadne igre nego svoje takmičare u to vrijeme. Konzola je prekinuta sredinom 1985. godine.</systemDescription>

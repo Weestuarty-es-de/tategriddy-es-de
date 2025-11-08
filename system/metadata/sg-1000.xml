@@ -18,6 +18,14 @@ Developed in response to a downturn in arcades in 1982, the SG-1000 was created 
         <systemColorPalette4>1A1E21</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز SG-1000 هو جهاز ألعاب فيديو منزلي من إنتاج شركة سيجا وتم إصداره في اليابان وأستراليا ونيوزيلندا ومناطق أخرى. وكان أول دخول لشركة Sega في مجال أجهزة ألعاب الفيديو المنزلية. طُرح SG-1000 في عام 1983، وتم إصداره في نفس اليوم الذي أصدرت فيه شركة نينتندو كمبيوتر العائلة في اليابان. تم إصدار SG-1000 في عدة أشكال، بما في ذلك الكمبيوتر SC-3000 والكمبيوتر SG-1000 II المعاد تصميمه الذي تم إصداره في عام 1984. وصدر التكرار الثالث لوحدة التحكم، وهو Sega Mark III، في عام 1985. وقد تم تزويده بمعالج عرض فيديو مخصص عن التكرارات السابقة وكان بمثابة الأساس لنظام Master System في عام 1986، وهو أول وحدة تحكم تصدرها Sega عالميًا.
+
+وقد تم تطوير SG-1000 استجابةً للكساد الذي شهدته صالات الألعاب في عام 1982، وتم ابتكار SG-1000 بناءً على نصيحة هاياو ناكاياما، رئيس شركة Sega Enterprises, Ltd. وبعد فترة وجيزة من الإصدار، بيعت شركة Sega Enterprises إلى شركة CSK، وأعقب ذلك إصدار SG-1000 II. يدعم كل من خط SC-3000 وخط SG-1000 مكتبة تضم 76 لعبة خرطوشة ROM و29 لعبة Sega My Card، وجميعها متوافقة تمامًا مع Mark III والنسخة اليابانية من النظام الرئيسي.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The SG-1000 is a home video game console manufactured by Sega and released in Japan, Australia, New Zealand, and other regions. It was Sega's first entry into the home video game hardware business. Introduced in 1983, the SG-1000 was released on the same day that Nintendo released the Family Computer in Japan. The SG-1000 was released in several forms, including the SC-3000 computer and the redesigned SG-1000 II released in 1984. A third iteration of the console, the Sega Mark III, was released in 1985. It provided a custom video display processor over previous iterations and served as the basis for the Master System in 1986, Sega's first internationally released console.

@@ -16,6 +16,12 @@
         <systemColorPalette4>35C4EE</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>متجر Epic Games Store هو واجهة متجر ألعاب فيديو رقمية لألعاب الفيديو لنظامي التشغيل Microsoft Windows وmacOS، تديرها Epic Games. تم إطلاقه في ديسمبر 2018 كموقع إلكتروني ومشغّل مستقل، وهذا الأخير مطلوب لتنزيل الألعاب وتشغيلها. توفر واجهة المتجر كتالوجًا أساسيًا وإدارة قائمة الأصدقاء والتوفيق بين اللاعبين وميزات أخرى. لدى Epic Games المزيد من الخطط لتوسيع مجموعة ميزات واجهة المتجر ولكنها لا تخطط لإضافة العديد من الميزات مثل منصات التوزيع الرقمية الأخرى، مثل لوحات المناقشة أو مراجعات المستخدمين، وبدلاً من ذلك تستخدم منصات التواصل الاجتماعي الحالية لدعمها.</systemDescription>
+            <systemHardwareType>المجلد</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Trgovina EPIC IGRE-om je digitalna trgovina za video igre za Microsoft Windows i MacOs, koji upravljaju epske igre. Pokrenuta je u decembru 2018. godine, kao i web stranica i samostalni pokretač, od kojih je ovo potrebno za preuzimanje i reprodukciju igara. Prodavaonica pruža osnovni katalog, upravljanje listama prijatelja, matmiranje i druge karakteristike. Epske igre dodatno planira proširiti skup objekata iz trgovine, ali ne planira dodati što više funkcija kao i druge digitalne distributivne platforme, poput diskusijskih odbora ili korisničkih pregleda, umjesto toga koristeći postojeće platforme za društvene medijske platforme za podršku.</systemDescription>

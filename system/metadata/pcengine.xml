@@ -18,6 +18,14 @@ The PC Engine has an 8-bit CPU, a 16-bit video color encoder, and a 16-bit video
         <systemColorPalette4>D9D9D9</systemColorPalette4>
         <systemCartSize>3-5</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>محرك الكمبيوتر الشخصي هو جهاز ألعاب فيديو منزلي من الجيل الرابع 16 بت من تصميم Hudson Soft وبيعه من قبل شركة NEC للإلكترونيات المنزلية. تم إصداره في اليابان عام 1987 وفي أمريكا الشمالية عام 1989. تم استيراد الطراز الياباني وتوزيعه في فرنسا في عام 1989، وحصلت المملكة المتحدة وإسبانيا على نسخة مبنية على الطراز الأمريكي المعروف ببساطة باسم TurboGrafx. كانت أول وحدة تحكم تم إصدارها في عصر 16 بت، على الرغم من أنها استخدمت وحدة معالجة مركزية معدلة 8 بت. في اليابان، تم إطلاق النظام كمنافس ل Famicom، ولكن تأخر إصداره في الولايات المتحدة يعني أنه انتهى به الأمر إلى منافسة Sega Genesis ثم نظام Super Nintendo Entertainment System.
+
+يحتوي محرك الكمبيوتر الشخصي على وحدة معالجة مركزية 8 بت، ومشفّر ألوان فيديو 16 بت، ووحدة تحكم في عرض الفيديو 16 بت. وحدات معالجة الرسومات قادرة على عرض 482 لوناً في وقت واحد، من أصل 512. بأبعاد تبلغ 14 سم × 14 سم × 3.8 سم فقط (5.5 بوصة × 5.5 بوصة × 1.5 بوصة)، يعد محرك الكمبيوتر الياباني أصغر وحدة تحكم ألعاب منزلية رئيسية تم صنعها على الإطلاق. وقد تم إصدار الألعاب على خراطيش HuCard ولاحقاً على شكل قرص مدمج ضوئي.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>PC motor je 16-bitna konzola za video igre četvrte generacije koju je dizajnirao Hudson Soft i prodao se od strane elektronike NEC. Pušten je u Japanu 1987. godine, a u Sjevernoj Americi 1989. godine. Japanski model uvezen je i distribuiran u Francuskoj 1989. godine, a Ujedinjeno Kraljevstvo i Španija primili su verziju na osnovu američkog modela poznatog kao jednostavno turbografx. Bila je prva konzola puštena u 16-bitnom eri, iako je koristila izmijenjeni 8-bitni CPU. U Japanu sustav je lansiran kao natjecatelj u porodij, ali odloženo izdanje Sjedinjenih Država značilo je da je završilo natjecatelj sa sega Genezom i kasnije Super Nintendo sistem za zabavu.

@@ -16,6 +16,12 @@
         <systemColorPalette4>262626</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز أتاري لينكس، الذي يشار إليه عادةً باسم لينكس فقط، هو جهاز ألعاب فيديو محمول باليد من الجيل الرابع (1987-2004) تم تطويره بالشراكة مع شركة إبيكس ووزعته شركة أتاري. تم إصداره في سبتمبر 1989 في أمريكا الشمالية بسعر تجزئة 149.95 دولار أمريكي. كما تم إصدار الجهاز المحمول في أوروبا (1990) واليابان (1990). كانت Lynx أول لعبة إلكترونية محمولة باليد في العالم مزودة بشاشة LCD ملونة. تم إيقاف وحدة التحكم في أوائل عام 1996، ربما في وقت بيع الشركة في 8 أبريل 1996.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Atari Lynx, obično se naziva Lynx, četvrta generacija (1987-2004) ručna konzola za video igre razvijena u partnerstvu sa EPYX, Inc. i distribuirala Atari Corporation. Pušten je u septembru 1989. u Severnoj Americi u maloprodajnoj ceni od 149,95 dolara. Ručni ručni je takođe objavljen u Evropi (1990.) i Japanu (1990). Lynx je bila prva prva elektronska igra na svijetu s LCD ekranom u boji. Konzola je prekinuta početkom 1996. godine, eventualno u trenutku prodaje kompanije 8. aprila 1996. godine.</systemDescription>

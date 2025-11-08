@@ -18,6 +18,14 @@ The brand was first introduced in the United States in November 2001, with the l
         <systemColorPalette4>000000</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إكس بوكس هي علامة تجارية لألعاب الفيديو تم إنشاؤها وتملكها شركة مايكروسوفت. وهي تمثل سلسلة من وحدات تحكم ألعاب الفيديو التي طورتها مايكروسوفت، حيث تم إصدار ثلاث وحدات تحكم في الأجيال السادس والسابع والثامن على التوالي. تمثل العلامة التجارية أيضاً تطبيقات (ألعاب)، وخدمات البث، وخدمة عبر الإنترنت باسم Xbox Live، وذراع التطوير باسم Xbox Game Studios.
+
+تم تقديم العلامة التجارية لأول مرة في الولايات المتحدة في نوفمبر 2001، مع إطلاق وحدة تحكم Xbox الأصلية.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Xbox is a video gaming brand created and owned by Microsoft. It represents a series of video game consoles developed by Microsoft, with three consoles released in the sixth, seventh, and eighth generations, respectively. The brand also represents applications (games), streaming services, an online service by the name of Xbox Live, and the development arm by the name of Xbox Game Studios.

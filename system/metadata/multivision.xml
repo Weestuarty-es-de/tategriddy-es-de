@@ -16,6 +16,12 @@
         <systemColorPalette4>E8E342</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إن حاسوب Othello Multivision (オオオロロロルマチチビジョジョン) هو استنساخ مرخص من SG-1000 تم تصنيعه بواسطة شركة Tsukuda Original. وهو موجود لأن النية الأصلية لـ Sega لحاسوب SC-3000 كانت السماح للمصنعين الآخرين بإنتاج حواسيب متوافقة على أمل الحصول على معيار عالمي. ولسوء الحظ، ربما مع ظهور MSX، فشل هذا التكتيك وفشل هذا التكتيك، وتم إنتاج عدد قليل جداً من الأجهزة المتوافقة مع SG-1000/SC-3000. وكان جهاز Othello Multivision أحد هذه الأجهزة.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Othello Multivision (オセロマルチビジョン) je licencirani klon SG-1000 proizveden od strane Tsukuda original. Postoji jer je Originalna namjera SEGA za računar SC-3000 bila omogućiti drugim proizvođačima da proizvode kompatibilne računare u nadi da će imati svjetskog standarda. Nažalost, možda i uz hitan položaj MSX-a, ova taktika nije uspjela, a vrlo je malo kompatibilnih strojeva SG-1000 / SC-3000. Othello Multivision bio je jedan od tih mašina.</systemDescription>

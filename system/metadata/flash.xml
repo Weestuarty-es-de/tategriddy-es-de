@@ -16,6 +16,12 @@
         <systemColorPalette4>710000</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>كان Adobe Flash (المعروف سابقًا باسم Macromedia Flash وFutureSplash) عبارة عن منصة برمجيات وسائط متعددة تُستخدم لإنتاج الرسوم المتحركة وتطبيقات الويب الغنية وتطبيقات سطح المكتب وتطبيقات الجوال وألعاب الجوال ومشغلات الفيديو المدمجة في متصفح الويب. يعرض فلاش النصوص والرسومات المتجهة والرسومات النقطية لتوفير الرسوم المتحركة وألعاب الفيديو والتطبيقات. وهو يسمح ببث الصوت والفيديو، ويمكنه التقاط مدخلات الماوس ولوحة المفاتيح والميكروفون والكاميرا.</systemDescription>
+            <systemHardwareType>المحرك</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Adobe Flash (ranije Macromedia Flash i Futuresplash) bila je multimedijalna softverska platforma koja se koristi za proizvodnju animacija, bogate web aplikacije, radne površine, mobilne aplikacije, mobilne igre i ugrađene video playere. Flash prikazuje tekst, vektorsku grafiku i rasteru grafiku za pružanje animacija, video igara i aplikacija. Omogućuje strujanje audio i video zapisa i može snimiti miš, tastaturu, mikrofon i ulaz kamere.</systemDescription>

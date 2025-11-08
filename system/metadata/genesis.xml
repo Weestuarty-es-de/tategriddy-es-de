@@ -16,6 +16,12 @@
         <systemColorPalette4>811B15</systemColorPalette4>
         <systemCartSize>112-67</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز سيجا جينيسيس، المعروف باسم ميجا درايف في معظم المناطق خارج أمريكا الشمالية، هو جهاز ألعاب فيديو منزلي 16 بت تم تطويره وبيعه من قبل شركة سيجا إنتربرايزس المحدودة. كان جينيسيس هو وحدة التحكم الثالثة من سيجا وخليفة النظام الرئيسي. أصدرت Sega وحدة التحكم لأول مرة باسم Mega Drive في اليابان في عام 1988، ثم أطلقتها لأول مرة في أمريكا الشمالية تحت اسم Genesis في عام 1989. وفي عام 1990، تم توزيع وحدة التحكم باسم Mega Drive من قبل شركة Virgin Mastertronic في أوروبا، وشركة Ozisoft في أستراليا، وشركة Tec Toy في البرازيل. وفي كوريا الجنوبية، تم توزيع الأنظمة من قبل شركة Samsung وعُرفت باسم Super Gam*Boy، ولاحقًا باسم Super Aladdin Boy. المعالج الدقيق الرئيسي في Genesis هو وحدة المعالجة المركزية Motorola 68000 ذات 16/32 بت من موتورولا 68000 بسرعة 7.6 ميجاهرتز. تشتمل وحدة التحكم أيضاً على معالج فرعي Zilog Z80، والذي كان يستخدم بشكل أساسي للتحكم في أجهزة الصوت ويوفر أيضاً توافقاً مع النظام الرئيسي.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Sega Genesis, poznata kao Mega Pogon u većini regiona izvan Sjeverne Amerike, nalazi se 16-bitna konzola za video igre za video igre koja je razvila i prodala Sega Enterprises, doo je bila treća konzola Sega i nasljednik master sustava. Sega je u Japanu prvi put objavila kao Mega Pogon u Japanu 1988. godine, a slijedi se Sjeverni američki debi 1989. godine, 1990. godine konzola je distribuirana kao MEGA vožnja Virgin Mastertronic u Europi, a TEC igračka u Brazilu. U Južnoj Koreji su sustavi distribuirali Samsung i bili su poznati kao Super Gam * Boy, a kasnije i super Aladdin dječak. Glavni mikroprocesor geneze je 16/32-bitni Motorola 68000 CPU sa 4,6 MHz. Konzola uključuje i pod-procesor Zilog Z80, koji se uglavnom koristio za kontrolu zvučnog hardvera i pruža i unazad kompatibilnost sa master sistemom.</systemDescription>

@@ -18,6 +18,14 @@ The console was rushed to market, released several months before its initial rel
         <systemColorPalette4>D9D9D9</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>محرك الكمبيوتر الشخصي SuperGrafx (PC Engine SuperGrafx (PCエン エジン スー スー パー グ ー グ ラ フ ィ ッ ク ス)، والمعروف أيضًا باسم SuperGrafx، هو جهاز ألعاب فيديو منزلي من الجيل الرابع تم تصنيعه من قبل شركة NEC للإلكترونيات المنزلية وتم إصداره في اليابان وفرنسا في عام 1989. وهو النظام الذي خلف محرك الكمبيوتر الشخصي الذي تم إصداره قبل ذلك بعامين. كان يُعرف في الأصل باسم PC Engine 2 أثناء مراحل الإنتاج، وكان يُزعم أنه وحدة تحكم منزلية منزلية حقيقية ذات 16 بت، ويتميز برسومات وقدرات صوتية محسنة عن سابقه.
+
+تم تسريع طرح وحدة التحكم في السوق، وتم إصدارها قبل عدة أشهر من تاريخ إصدارها الأولي في عام 1990، ولم يكن لديها سوى تحديثات متواضعة على الأجهزة. مع إصدار ست ألعاب تجزئة فقط استفادت من تحديثات أجهزة وحدة التحكم، كانت لعبة SuperGrafx فاشلة تجارياً، حيث بيع منها 75,000 وحدة فقط في كلا المنطقتين. ولم تُنقل أي من التحديثات التي طرأت على أجهزتها إلى وحدات تحكم NEC اللاحقة، مثل TurboDuo.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The PC Engine SuperGrafx (PCエンジンスーパーグラフィックス, Pī Shī Enjin SūpāGurafikkusu), also known as simply the SuperGrafx, is a fourth-generation home video game console manufactured by NEC Home Electronics and released in Japan and France in 1989. It is the successor system to the PC Engine, released two years prior. Originally known as the PC Engine 2 during production stages, it was purported as a true 16-bit home console, featuring improved graphics and audio capabilities over its predecessor.

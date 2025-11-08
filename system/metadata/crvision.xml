@@ -16,6 +16,12 @@
         <systemColorPalette4>F09734</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إن Video Technology CreatiVision عبارة عن جهاز كمبيوتر هجين ووحدة تحكم بألعاب الفيديو المنزلية قدمته شركة VTech في عام 1981 وتم إصداره في عام 1982 خلال الجيل الثاني من وحدات تحكم ألعاب الفيديو. وقد صنعته شركة Salora الفنلندية. وبلغت تكلفته 295 دولاراً أسترالياً. كانت هذه الوحدة الهجينة مشابهة في مفهومها لأجهزة الكمبيوتر مثل آلة التخيل APF Imagination Machine، وكمبيوتر VideoBrain Family Computer الأقدم، وبدرجة أقل وحدة تحكم الألعاب Intellivision وكمبيوتر Coleco Adam، وكلها توقعت اتجاه أجهزة ألعاب الفيديو لتصبح أشبه بأجهزة الكمبيوتر المنخفضة. تم إيقافها في عام 1986.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Kreativizija video tehnologije je hibridna konzola za računar i kućna video igara koju je uveo VTECH 1981. godine i objavljen 1982. godine tokom druge generacije konzola za video igre. Sagradila ga je Finska kompanija Salora. Košta je 295 dolara australijskih dolara. Hibridna jedinica bila je u konceptu slični računarima, kao što su APF mašti stroj, stariji za videobratni računar, a u manjoj mjeri intelizitna igarska konzola i COLECO Adam Computer, a sve je predviđalo da se trend video igara postaju više kao što je više kao što je više nalik računarima. Prekinulo je 1986. godine.</systemDescription>

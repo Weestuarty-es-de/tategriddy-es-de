@@ -18,6 +18,14 @@ The original Macintosh is the first successful mass-market all-in-one desktop pe
         <systemColorPalette4>C45152</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز ماكنتوش (Macintosh (Mac بشكل أساسي منذ عام 1998) هو عائلة من أجهزة الكمبيوتر الشخصية التي تم تصميمها وتصنيعها وبيعها من قبل شركة Apple Inc. (في الأصل باسم Apple Computer, Inc.) منذ يناير 1984.
+
+يعد جهاز ماكنتوش الأصلي أول كمبيوتر شخصي مكتبي متعدد الإمكانات ناجح في السوق الشامل يتميز بواجهة مستخدم رسومية وشاشة مدمجة وماوس. باعت Apple جهاز ماكنتوش إلى جانب عائلاتها الشهيرة Apple II وApple IIGS وApple III وApple Lisa حتى توقفت الطرازات الأخرى في التسعينيات.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Macintosh (uglavnom Mac od 1998.) je porodica ličnih računara dizajnirana, proizvedena i prodana od strane Apple Inc. (izvorno kao Apple Computer, Inc.) od januara 1984. godine.

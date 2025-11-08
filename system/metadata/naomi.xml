@@ -18,6 +18,14 @@ The NAOMI was succeeded by the Sega Hikaru and Sega NAOMI 2 boards, though havin
         <systemColorPalette4>35FF90</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إن NAOMI (فكرة آلة تشغيل الأركيد الجديدة) هو نظام أركيد أصدرته شركة Sega في عام 1998. وقد تم تصميمه كخلف لأجهزة Sega Model 3، باستخدام بنية مشابهة لـ Sega Dreamcast.
+
+وقد خلفت جهاز NAOMI لوحتي Sega Hikaru وSega NAOMI 2، على الرغم من أنها تفوقت على NAOMI 2 وHikaru وSega Aurora. يمكن أيضًا اعتبار Sega Chihiro، أو ربما حتى Sega Lindbergh، كخليفتين.</systemDescription>
+            <systemHardwareType>أركيد</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Naomi (nova arkadna ideja operacije) je arkadni sistem koji se objavljuje iz Sega 1998. godine. Dizajniran je kao nasljednik Hardware Sega Model 3, koristeći sličnu arhitekturu sa sega dreamcast.

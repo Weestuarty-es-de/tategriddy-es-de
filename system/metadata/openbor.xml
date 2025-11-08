@@ -16,6 +16,12 @@
         <systemColorPalette4>404040</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Beats of Rage هي لعبة تحية من صنع المعجبين لسلسلة Streets of Rage من Sega. وهي تستبدل الرسومات والشخصيات الأصلية بموارد مأخوذة من سلسلة The King of Fighters، وإن كان ذلك مع إعادة تسمية ساخرة. تم تطويرها في الأصل من قِبل فريق Senile Team، وقد أصبح المحرك الأساسي الذي يعمل على تشغيل Beats of Rage لاحقًا مشروع محرك لعبة Open Beats of Rage (OpenBOR).</systemDescription>
+            <systemHardwareType>المحرك</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Beat of beage je navijačka počasna igra za Sega ulicama Sega Series. Savladava originalnu grafiku i likove sa resursima preuzetih iz serije kralja boraca, iako sa preimenovima jezika u obrazu. Prvobitno razvio senilni tim, osnovni poticanje motora Beage of Beage kasnije je postao otvoreni otkucaji bijesa (otvorenog projekta motora.</systemDescription>

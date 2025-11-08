@@ -18,6 +18,14 @@ The console was first officially announced at E3 2005, and was released at the e
         <systemColorPalette4>3DD3C8</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>بلاي ستيشن 3 (PS3) هو جهاز ألعاب فيديو منزلي تم تطويره من قبل شركة سوني كمبيوتر إنترتينمنت. وهو خليفة بلاي ستيشن 2، وهو جزء من العلامة التجارية لوحدات تحكم بلاي ستيشن. تم إصداره لأول مرة في 11 نوفمبر 2006 في اليابان، و17 نوفمبر 2006 في أمريكا الشمالية، و23 مارس 2007 في أوروبا وأستراليا. تنافس PlayStation 3 في المقام الأول ضد Xbox 360 من مايكروسوفت وWii من نينتندو كجزء من الجيل السابع من أجهزة ألعاب الفيديو.
+
+تم الإعلان عن وحدة التحكم لأول مرة رسميًا في E3 2005، وتم إصدارها في نهاية عام 2006. وكانت أول وحدة تحكم تستخدم قرص Blu-ray كوسيط تخزين أساسي. كانت وحدة التحكم أول جهاز PlayStation يدمج خدمات الألعاب الاجتماعية، بما في ذلك شبكة PlayStation Network، بالإضافة إلى أنه أول جهاز يمكن التحكم فيه من وحدة تحكم محمولة باليد، من خلال اتصاله عن بُعد مع PlayStation Portable و PlayStation Vita. في سبتمبر 2009، تم إصدار الطراز Slim من PlayStation 3 في سبتمبر 2009. ولم يعد يوفر الجهاز القدرة على تشغيل ألعاب PS2. كان أخف وزنًا وأقل سمكًا من الإصدار الأصلي، وتميز بشعار وتصميم تسويقي معاد تصميمه، بالإضافة إلى تغيير بسيط في بدء التشغيل في البرامج. ثم تم إصدار نسخة سوبر سليم في أواخر عام 2012، مما أدى إلى مزيد من التحسين وإعادة تصميم وحدة التحكم.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>PlayStation 3 (PS3) je konzola za kućnu video igru koju je razvila Sony Computer Entertainment. To je nasljednik PlayStation 2, a dio je PlayStation marke konzola. Prvo je objavljen 11. novembra 2006. u Japanu, 17. novembra 2006. u Severnoj Americi, i 23. marta 2007. u Evropi i Australiji. Playstation 3 se natjecala prvenstveno protiv Microsoftovog Xbox 360 i Wii-a Nintendoa kao dio sedme generacije konzola za video igre.

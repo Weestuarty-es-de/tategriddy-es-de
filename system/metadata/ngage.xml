@@ -18,6 +18,14 @@ N-Gage attempted to lure gamers away from the Game Boy Advance by including tele
         <systemColorPalette4>303030</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>N-Gage هو هاتف ذكي يجمع بين ميزات الهاتف المحمول ونظام الألعاب المحمول الذي طورته شركة نوكيا، وتم الإعلان عنه في 4 نوفمبر 2002 وتم إصداره في 7 أكتوبر 2003. وهو يعمل بمنصة السلسلة 60 الأصلية على نظام التشغيل Symbian OS v6.1.
+
+حاولت N-Gage جذب اللاعبين بعيداً عن Game Boy Advance من خلال تضمين وظائف الهاتف. ولم تنجح هذه المحاولة، ويرجع ذلك جزئياً إلى أن الأزرار المصممة للهاتف لم تكن مناسبة تماماً للألعاب. وقد وُصف هاتف N-Gage الأصلي بأنه يشبه التاكو، مما أدى إلى إطلاق لقب "هاتف التاكو" عليه بطريقة ساخرة.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>N-Gage je pametni telefon koji kombiniraju mobilni telefon i ručni sistem igara koji je razvio Nokia, najavljena je 4. novembra 2002. godine i objavljena je 7. oktobra 2003. godine. Trči originalnu platformu Series 60 na Symbian OS V6.1.

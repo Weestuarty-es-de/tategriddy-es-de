@@ -16,6 +16,12 @@
         <systemColorPalette4>222222</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>نظام كمبيوتر الفيديو أتاري (VCS)، والذي سمي فيما بعد أتاري 2600، هو الجيل الثاني (1976-1992) من أجهزة ألعاب الفيديو المنزلية التي طورتها ووزعتها شركة أتاري. وقد تم إصداره في 11 سبتمبر 1977 في أمريكا الشمالية بسعر تجزئة 199 دولارًا أمريكيًا. تم إصدار وحدة التحكم لاحقًا في أوروبا (1978) واليابان (1983 - باسم أتاري 2800). شاع أتاري 2600 استخدام الأجهزة القائمة على المعالجات الدقيقة والألعاب الموجودة على خراطيش ROM. تم إيقاف وحدة التحكم في 1 يناير 1992.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Atari Video Computer System (VCS), kasnije je imenovao Atari 2600, a druga generacija (1976-1992) Console za video igre razvijena i distribuira Atari, Inc. Objavljen je 11. septembra 1977. u Severnoj Americi u maloprodajnoj ceni od 19977. godine. Konzola je kasnije objavljena u Evropi (1978) i Japanu (1983. - kao Atari 2800). Atari 2600 popularizirao je upotrebu hardvera i igara na bazi mikroprocesora sadržanih na rom patronama. Konzola je prekinuta 1. januara 1992. godine.</systemDescription>

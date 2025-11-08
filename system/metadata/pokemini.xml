@@ -16,6 +16,12 @@
         <systemColorPalette4>8C8C8C</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>بوكيمون ميني هو جهاز ألعاب محمول باليد صممته وصنعته شركة نينتندو ويتمحور حول امتياز بوكيمون الإعلامي. إنه أصغر نظام ألعاب مزود بخراطيش قابلة للتبديل أنتجته شركة نينتندو على الإطلاق، حيث يزن أقل بقليل من أوقية ونصف الأوقية (70 جرام). تم إصداره لأول مرة في أمريكا الشمالية في 16 نوفمبر 2001، ثم في اليابان في 14 ديسمبر 2001، وفي أوروبا في 15 مارس 2002. تم إصدار الأنظمة بثلاثة ألوان: ووبير الأزرق، شيكوريتا الأخضر، وسموشوم البنفسجي. تتضمن ميزات بوكيمون ميني بوكيمون ساعة داخلية في الوقت الحقيقي، ومنفذ أشعة تحت الحمراء يستخدم لتسهيل اللعب متعدد اللاعبين، ومفتاح قصب لاكتشاف الاهتزازات، ومحرك يستخدم لتنفيذ ردود الفعل بالقوة. تتميز قناة لعبة GameCube Pokémon Channel بنسخ تجريبية قابلة للتشغيل من العديد من ألعاب بوكيمون المصغرة عبر محاكاة وحدة التحكم. كما تتضمن اللعبة لعبة Snorlax's Lunch Time، وهي لعبة حصرية لقناة بوكيمون. تم إصدار بعض الألعاب في اليابان فقط، مثل لعبة Togepi's Adventure.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Pokémon Mini je ručna igra za igru koja je dizajnirala i proizvela Nintendo i tematski oko pokémon Media franšize. To je najmanji sistem igre s izmjenjivim kertridžima koji je ikada proizveo Nintendo, težine ispod dvije i pol unci (70 grama). Prvo je pušten u Severnoj Americi 16. novembra 2001., a zatim u Japanu, 14. decembra 2001., a u Evropi 15. marta 2002. godine. Sistemi su pušteni u tri boje: Wooper Plava, Chikorita Green i Smoochum Ljubičasta. Značajke Pokémon Mini uključuju unutrašnji sat u stvarnom vremenu, infracrveni port koji se koristi za olakšavanje multiplayer igranja, trske prekidač za otkrivanje tresenja i motora koji se koriste za implementaciju povratnih informacija o silu. Igra Gamecube Pokémon Channel sadrži demo verzije za reprodukciju nekoliko pokemona mini igara putem emulacije konzole. Također je uključen u igru je Snorlaxov ručak, ekskluzivni kanal Pokémon. Neke su igre puštene samo u Japanu, kao što su Togepijeva avantura.</systemDescription>

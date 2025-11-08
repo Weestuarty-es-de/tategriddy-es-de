@@ -18,6 +18,14 @@ The GameCube is the first Nintendo console to use optical discs as its primary s
         <systemColorPalette4>1E1C11</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز نينتندو جيم كيوب هو جهاز ألعاب فيديو منزلي أصدرته شركة نينتندو في اليابان وأمريكا الشمالية في عام 2001 وفي مناطق PAL في عام 2002. GameCube هو جهاز نينتندو في الجيل السادس من أجهزة ألعاب الفيديو، وهو خليفة لوحدة التحكم السابقة Nintendo 64. تنافس GameCube مع PlayStation 2 من سوني وXbox من مايكروسوفت.
+
+GameCube هو أول وحدة تحكم من نينتندو تستخدم الأقراص الضوئية كوسيط تخزين أساسي. الأقراص بتنسيق يعتمد على أقراص ميني دي في دي، لكن النظام لم يصمم لتشغيل أقراص دي في دي كاملة الحجم أو أقراص صوتية مدمجة على عكس منافسيه، وركز بشكل أساسي على الألعاب بدلاً من ذلك. وتدعم وحدة التحكم الألعاب المحدودة عبر الإنترنت لعدد قليل من الألعاب عبر محول النطاق العريض أو المودم GameCube ويمكنها الاتصال بجهاز Game Boy Advance باستخدام كابل رابط، مما يسمح للاعبين بالوصول إلى ميزات حصرية داخل اللعبة باستخدام الجهاز المحمول كشاشة ثانية ووحدة تحكم مثل Wii U.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Nintendo Gamecube je konzola za video igre koja je u Japanu i u Sjevernoj Americi 2001. godine objavila u Japanu i na PAL teritorijama 2002. godine. Gamecube je ulazak Nintendoa u šestoj generaciji video igara, a nintendo 64. Gamecube se natjecala sa Sonyjevim igralištem 2 i Microsoftovom Xboxom.

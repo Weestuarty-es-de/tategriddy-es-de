@@ -16,6 +16,12 @@
         <systemColorPalette4>31AA52</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>أندرويد هو نظام تشغيل للهواتف المحمولة يعتمد على نسخة معدلة من نواة لينكس وغيرها من البرمجيات مفتوحة المصدر، وهو مصمم بشكل أساسي للأجهزة المحمولة التي تعمل باللمس مثل الهواتف الذكية والأجهزة اللوحية. تم تطوير أندرويد من قبل اتحاد المطورين المعروف باسم تحالف الأجهزة المحمولة المفتوحة، على الرغم من أن الإصدار الأكثر استخدامًا تم تطويره بشكل أساسي من قبل جوجل. تم الكشف عنه في نوفمبر 2007، وتم إطلاق أول جهاز أندرويد تجاري وهو HTC Dream في سبتمبر 2008.</systemDescription>
+            <systemHardwareType>نظام التشغيل</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Android je mobilni operativni sistem zasnovan na modificiranoj verziji Linux kernela i drugog softvera otvorenog koda, dizajniran prvenstveno za mobilne uređaje osjetljivih na dodir kao što su pametni telefoni i tableti. Android razvija konzorcijum programera poznatih kao savez otvorenih slušalica, iako je Google razvijen njegova najčešće korištena verzija. Otkriven je u novembru 2007. godine, sa prvim komercijalnim Android uređajem, HTC san, pokrenut je u septembru 2008. godine.</systemDescription>

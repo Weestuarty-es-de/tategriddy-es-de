@@ -20,6 +20,16 @@ The PC had a substantial influence on the personal computer market. The specific
         <systemColorPalette4>201D1D</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>الكمبيوتر الشخصي IBM Personal Computer (طراز 5150، المعروف باسم IBM PC) هو أول كمبيوتر شخصي من طراز IBM PC، وهو أول كمبيوتر صغير يتم إصداره في خط طراز IBM PC، وهو أساس المعيار الفعلي المتوافق مع IBM PC. وقد تم إصداره في 12 أغسطس 1981، وقام بتصميمه فريق من المهندسين والمصممين تحت إدارة دون استريدج في بوكا راتون بولاية فلوريدا.
+
+اعتمد الجهاز على بنية مفتوحة وأجهزة طرفية خارجية. ومع مرور الوقت، زادت بطاقات التوسعة وتكنولوجيا البرامج لدعمها.
+
+كان للكمبيوتر الشخصي تأثير كبير على سوق الحواسيب الشخصية. وأصبحت مواصفات حاسوب IBM الشخصي أحد أشهر معايير تصميم الحواسيب الشخصية في العالم. وكانت المنافسة الكبيرة الوحيدة التي واجهتها من منصة غير متوافقة طوال الثمانينيات من القرن الماضي من خط إنتاج Apple Macintosh. ومعظم الحواسيب الشخصية الحديثة هي أحفاد بعيدة لحاسوب IBM PC.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>IBM osobni računar (model 5150, obično poznat kao IBM PC) je prvi mikrokompjuter koji se objavljuje u liniji IBM PC modela i osnova za IBM PC kompatibilan de facto standard. Objavljeno 12. avgusta 1981. godine, stvorio ga je tim inženjera i dizajnera režija Don Estridge u Boci Raton, Florida.

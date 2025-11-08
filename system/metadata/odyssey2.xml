@@ -16,6 +16,12 @@
         <systemColorPalette4>F8D239</systemColorPalette4>
         <systemCartSize>105-170</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز Magnavox Odyssey 2 هو جهاز ألعاب فيديو منزلي من الجيل الثاني (1976-1992) تم تطويره وتوزيعه من قبل Magnavox. تم إصدارها في فبراير 1979 في أمريكا الشمالية بسعر تجزئة 179 دولارًا أمريكيًا. تم إصدار وحدة التحكم أيضًا في أوروبا (1979)، ولاحقًا في أمريكا الجنوبية (1983) واليابان (1982). تضمنت Odyssey 2 لوحة مفاتيح غشائية أبجدية رقمية كاملة، والتي كان من المقرر استخدامها للألعاب التعليمية أو تحديد الخيارات أو البرمجة. تم إيقاف وحدة التحكم في 20 مارس 1984.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Magnavox Odyssey 2 je druga generacija (1976-1992) kućna konzola za video igre razvijena i distribuirana od strane magnavox. Puštena je u februaru 1979. u Severnoj Americi u maloprodajnoj ceni od 179 dolara. Konzola je takođe objavljena u Evropi (1979), a kasnije Južna Amerika (1983.) i Japan (1982). Odyssey 2 je uključivao potpunu alfanumeričku tastaturu membrane, koja se trebala koristiti za obrazovne igre, odabir opcija ili programiranje. Konzola je prekinuta 20. marta 1984. godine.</systemDescription>

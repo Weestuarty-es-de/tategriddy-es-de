@@ -16,6 +16,12 @@
         <systemColorPalette4>AE1F19</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>راديو شاك TRS-80 الملون للكمبيوتر الملون، الذي تم تسويقه لاحقاً باسم كمبيوتر تاندي الملون والذي أطلق عليه أحياناً اسم CoCo، هو خط من أجهزة الكمبيوتر المنزلية التي طورتها شركة تاندي وباعتها. وعلى الرغم من اشتراكه في الاسم مع TRS-80 السابق، إلا أن الحاسوب الملون هو نظام مختلف تماماً وغير متوافق، وهو نظام مختلف تماماً ومغاير تماماً في التصميم والتوافق مع معالج موتورولا 6809E بدلاً من معالج Zilog Z80 الذي تم بناء النماذج السابقة حوله.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>RadioShack TRS-80 boja računar, kasnije se plasira kao tandy u boji i ponekad nadimak Coco, linija je kućnih računara razvijenih i prodaje Tandy Corporation. Unatoč dijeljenju imena sa ranijom TRS-80, računar u boji je potpuno drugačiji, nekompatibilan sistem i radikalni odlazak u dizajn i kompatibilnost sa svojim Motorola 6809E procesorom, a ne na zigu Z80 ranije.</systemDescription>

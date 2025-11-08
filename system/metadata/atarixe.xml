@@ -16,6 +16,12 @@
         <systemColorPalette4>B9A9CE</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إن نظام ألعاب الفيديو Atari XE (Atari XEGS) هو إعادة تصميم صناعي لجهاز الكمبيوتر المنزلي Atari 65XE والطراز الأخير في عائلة Atari 8 بت. تم إصداره من قبل شركة أتاري في عام 1987 وتم تسويقه كوحدة تحكم في ألعاب الفيديو المنزلية إلى جانب نظام نينتندو للترفيه ونظام سيجا الرئيسي ونظام أتاري 7800 الخاص بشركة أتاري. يتوافق XEGS مع أجهزة وبرامج عائلة أتاري 8 بت الحالية. وبدون لوحة المفاتيح، يعمل النظام كوحدة تحكم ألعاب مستقلة. أما مع لوحة المفاتيح، فيعمل بشكل مطابق لأجهزة كمبيوتر أتاري XE. قامت Atari بتعبئة XEGS كمجموعة أساسية تتكون من وحدة التحكم وعصا التحكم فقط، وكمجموعة فاخرة تتكون من وحدة التحكم ولوحة المفاتيح وعصا التحكم CX40 ومسدس XG-1 الخفيف.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Atari XE sistem video igara (Atari Xegs) je industrijski redizajn kućnog računara Atari 65XE i konačni model u atari 8-bitni porodici. Objavio ga je Atari Corporation 1987. godine i na plasirao je kao kućna konzola za video igru zajedno sa Nintendo Entertainment System, Sega master sistemom i Atari-ov vlastiti Atari 7800. XEGS je kompatibilan sa postojećim atarim 8-bitnim porodičnim hardverom i softverom. Bez tastature, sistem radi kao samostalna igraška konzola. Sa tastaturom, to se identično čizma na Atari XE računare. Atari je pakirao XEG-ove kao osnovni set koji se sastoji od samo konzole i džojstika, a kao deluxe set koji se sastoji od konzole, tastature, CX40 džojstike i XG-1 svjetlosnog pištolja.</systemDescription>

@@ -16,6 +16,12 @@
         <systemColorPalette4>EBECEE</systemColorPalette4>
         <systemCartSize>5-7</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز نينتندو سويتش هو جهاز ألعاب فيديو منزلي من الجيل الثامن (من 2012 حتى الآن) تم تطويره وتوزيعه من قبل شركة نينتندو. تم إصداره في 3 مارس 2017 في أمريكا الشمالية بسعر تجزئة 299.99 دولار أمريكي. تم إصدار وحدة التحكم في نفس الوقت في اليابان (2017) وأوروبا (2017) وأمريكا الجنوبية (2017) وأستراليا (2017) وغيرها من الأسواق العالمية (2017). تم تصميم Switch ليكون وحدة تحكم هجينة، مما يسمح بلعب الألعاب على التلفزيون، ثم أثناء التنقل عن طريق فك النظام واللعب من الوحدة المحمولة باليد نفسها. حتى هذا التاريخ، لا تزال وحدة التحكم قيد الإنتاج.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The Nintendo Switch is an eighth generation (2012-present) home video game console developed and distributed by Nintendo. It was released on March 3, 2017 in North America at a retail price of $299.99. The console was simultaneously released in Japan (2017), Europe (2017), South America (2017), Australia (2017) and other World Wide Markets (2017). The Switch is designed to be a hybrid console, allowing games to be played at a TV, and then on the go by undocking the system and playing from the handheld unit itself. As of this date, the console is still in production.</systemDescription>

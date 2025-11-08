@@ -20,6 +20,16 @@ The two cartridge slots are designed to share data between the games. The cartri
         <systemColorPalette4>1E2881</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>سوفامي توربو (ス ー ス ー ファミ ター ボ)، وغالبًا ما تتم مقارنته بمُحسِّن سطح علاء الدين، وهو ملحق أصدرته شركة بانداي لنظام سوبر فاميكوم من نينتندو وتم إصداره في عام 1996.
+
+صُمم هذا الجهاز ليوضع فوق جهاز Super Famicom، ويتميز بفتحتي خرطوشة. الفرضية هي أنه يمكن إنتاج الألعاب بتكلفة ووقت تطوير أقل بكثير، دون الحاجة إلى الاعتماد على نينتندو لإنتاج الخراطيش. وعلى عكس مُحسِّن سطح علاء الدين، تمت الموافقة على هذا الجهاز رسميًا من قبل نينتندو بموجب شرط أن تتولى بانداي تصنيع جميع الأجهزة بنفسها.
+
+تم تصميم فتحتي الخرطوشة لمشاركة البيانات بين الألعاب. الخرطوشة الموضوعة في الفتحة 1 هي اللعبة التي سيتم تشغيلها، بينما توفر الخرطوشة الموجودة في الفتحة 2 بيانات إضافية لاستخدامها في اللعبة الرئيسية. ومن بين الألعاب الثلاثة عشر التي تم إصدارها، يمكن ربط تسع منها ببعضها البعض، ضمن كل سلسلة ألعاب.</systemDescription>
+            <systemHardwareType>محيطي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The SuFami Turbo (スーファミターボ), often compared to the Aladdin Deck Enhancer, is an accessory released by Bandai for Nintendo's Super Famicom system and was released in 1996.

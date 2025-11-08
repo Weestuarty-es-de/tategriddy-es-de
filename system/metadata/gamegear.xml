@@ -18,6 +18,14 @@ Though the Game Gear was rushed to market, its unique game library and price poi
         <systemColorPalette4>0000FE</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز جيم جير هو جهاز ألعاب محمول باليد من الجيل الرابع 8 بت من الجيل الرابع أصدرته سيجا في 6 أكتوبر 1990 في اليابان، وفي أبريل 1991 في جميع أنحاء أمريكا الشمالية وأوروبا، وخلال عام 1992 في أستراليا. تنافس جهاز Game Gear في المقام الأول مع Game Boy من نينتندو وAtari Lynx وTurboExpress من NEC. وهو يشترك في الكثير من أجهزته مع نظام Master System، ويمكنه تشغيل ألعاب Master System باستخدام محول. وقد وضعت سيجا جهاز Game Gear، الذي كان يحتوي على شاشة بإضاءة خلفية كاملة الألوان بتنسيق أفقي، كجهاز محمول متفوق تقنياً على جهاز Game Boy.
+
+وعلى الرغم من أن جهاز Game Gear تم طرحه في السوق على عجل، إلا أن مكتبة الألعاب الفريدة من نوعها ونقطة السعر التي كان يتمتع بها منحته ميزة على جهاز أتاري لينكس وتيربو إكسبريس. ومع ذلك، وبسبب قصر عمر بطاريته ونقص الألعاب الأصلية وضعف الدعم المقدم من Sega، لم يتمكن Game Gear من تجاوز Game Boy، حيث تم بيع 10.62 مليون وحدة بحلول مارس 1996. تم إيقاف Game Gear في 30 أبريل 1997. وأعيد إصداره كنظام اقتصادي من قبل شركة Majesco Entertainment في عام 2000، بترخيص من Sega.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Game Gear je 8-bitna četvrta generacija ručna igra koja je objavila Sega 6. oktobra 1990. godine u Japanu, u aprilu 1991. godine širom Severne Amerike i Evrope, a tokom 1992. u Australiji. Game se prije svega natjecao s Nintendovom dječakom igrama, atari Lynx i NEC-ov turboexpress. Dijeli velik dio svog hardvera sa master sistemom i može igrati master sistemske igre pomoću adaptera. Sega je postavljala prijenosnika za igru koja je imala ekran sa punim bojama sa pejzažnim formatom, kao tehnološki superiorniji ručni za igru.

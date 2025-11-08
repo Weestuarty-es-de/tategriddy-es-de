@@ -16,6 +16,12 @@
         <systemColorPalette4>00007F</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Lutro هو إطار عمل للألعاب ثنائية الأبعاد يهدف إلى البساطة وقابلية النقل القصوى. باستخدام Lutro، يمكنك تطوير أي نوع من الألعاب ثنائية الأبعاد القديمة، مثل ألعاب NES أو Genesis، وتشغيلها على مجموعة واسعة من المنصات من خلال RetroArch. يجعل Lutro من السهل كتابة الألعاب باستخدام Lua واتباع واجهة برمجة تطبيقات LÖVE. تتحقق قابلية النقل من خلال واجهة برمجة التطبيقات libretro API: يتم تحميل Lutro فقط كمكون إضافي في واجهة أمامية مثل RetroArch التي تهتم بالعرض والصوت والمدخلات.</systemDescription>
+            <systemHardwareType>المحرك</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Lutro je 2D okvir igre koji ima za cilj jednostavnost i ekstremnu prenosivost. Upotreba Lutro-a možete razviti bilo kakve 2D retro igre, poput NSZ ili Genesis Games i pokrenuti ih na širokom rasponu platformi putem Retroarha. Lutro olakšava pisanje igara koristeći Lua i slijedeći Löve API. Prenosivost se postiže putem Libretro API-ja: Lutro se upravo učitava kao dodatak u prednjem dijelu retroarha koji vodi računa o prikazivanju, audio i ulazu.</systemDescription>

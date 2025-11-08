@@ -18,6 +18,14 @@ The NAOMI 2 is significantly more powerful than the NAOMI, including a dual CPU 
         <systemColorPalette4>35FF90</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Sega NAOMI 2 هي لوحة أركيد طورتها شركة Sega وهي خليفة لأجهزة Sega NAOMI. تم إصدارها في الأصل في عام 2000. وبما أنها تستخدم نفس بنية NAOMI (ولكن تم تعزيزها بشكل كبير)، فهي متوافقة تمامًا مع سابقتها.
+
+إن NAOMI 2 أقوى بكثير من NAOMI، بما في ذلك إعداد وحدة معالجة مركزية مزدوجة، ووحدة معالجة رسومات T&amp;L جديدة، ووحدة معالجة رسومات تنقيطية مزدوجة، وذاكرة متزايدة، ونطاق ترددي أسرع. وهذا يؤدي إلى ألعاب تحتوي على مضلعات أكثر بكثير من لعبة NAOMI، ويتم عرضها بسرعات أكبر بكثير، بينما تضيف وحدة معالجة الرسومات T&amp;L الجديدة تأثيرات إضاءة وجسيمات متقدمة. كما أنه كان أقل تكلفة من نظام Sega Hikaru للألعاب الذي سبقه (وصعب البرمجة) باهظ الثمن (وصعب البرمجة). ومع ذلك كان NAOMI 2 أقوى من الأنظمة المنزلية في ذلك الوقت.</systemDescription>
+            <systemHardwareType>أركيد</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Sega Naomi 2 je arkadna ploča koju je razvio Sega i nasljednik je hardvera Sea Naomi. Prvobitno je objavljen 2000. godine. Budući da koristi sličnu naomi arhitekturu (ali značajno se pojačala), također je u potpunosti kompatibilan sa svojim prethodnikom.

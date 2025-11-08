@@ -16,6 +16,12 @@
         <systemColorPalette4>DF739E</systemColorPalette4>
         <systemCartSize>373-436</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>PICO-8 عبارة عن آلة افتراضية ومحرك ألعاب افتراضي تم إنشاؤه بواسطة Lexaloffle Games. وهو عبارة عن وحدة تحكم ألعاب فيديو خيالية تحاكي القدرات الرسومية والصوتية المحدودة لأنظمة 8 بت في الثمانينيات.</systemDescription>
+            <systemHardwareType>المحرك</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Pico-8 je virtualna mašina i motor igre kreirali Lexaloffle igre. To je fantastična konzola za video igre koja oponaša ograničene grafičke i zvučne mogućnosti od 8-bitnih sistema iz 1980-ih.</systemDescription>

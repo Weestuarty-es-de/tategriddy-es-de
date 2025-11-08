@@ -16,6 +16,12 @@
         <systemColorPalette4>333333</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>يُعرف Gamate، المعروف باسم â € â € â € â € â € œJamate (بينيين: chāojí xiozi، حرفياً "سوبر بوي") في تايوان و â € â € â € â € に â € â € œSuper Boy) في تايوان و â € â € â € â € â € â € â € â € â € â € œSuper Boy) في الصين: chāojí shéntóng، حرفياً "معجزة الطفل الخارقة") في الصين، هو جهاز ألعاب محمول باليد تم تصنيعه بواسطة شركة Bit Corporation في أوائل التسعينيات، وتم إصداره في أستراليا وبعض أجزاء من أوروبا وآسيا (تايوان والصين) والأرجنتين والولايات المتحدة.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Gamate, poznati kao 超級小子 (Pinyin: Chāojí Xiǎozi, doslovno "Super Boy") u Tajvanu i 超级神童 (Pinyin: Chāojí Shéntóng, u Kini je ručna igra koja se proizvodi u Australiji, a neke dijelove Evrope, Azije (Tajvan i Kina), Argentina,i Sjedinjene Države.</systemDescription>

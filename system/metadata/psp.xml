@@ -18,6 +18,14 @@ Development of the PSP was announced during E3 2003, and the console was unveile
         <systemColorPalette4>F9F7F7</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>بلاي ستيشن بورتابل (PSP) هو جهاز ألعاب محمول باليد تم تطويره وتسويقه من قبل شركة سوني كمبيوتر إنترتينمنت. وقد تم إصداره لأول مرة في اليابان في 12 ديسمبر 2004، وفي أمريكا الشمالية في 24 مارس 2005، وفي مناطق PAL في 1 سبتمبر 2005، وهو أول جهاز محمول باليد في خط وحدات تحكم PlayStation. وباعتباره وحدة تحكم من الجيل السابع فقد تنافس مع جهاز Nintendo DS.
+
+تم الإعلان عن تطوير جهاز PSP خلال معرض E3 2003، وتم الكشف عن وحدة التحكم في مؤتمر صحفي لشركة سوني في 11 مايو 2004. كان النظام أقوى وحدة تحكم محمولة عند طرحه، وكان أول منافس حقيقي لوحدات تحكم Nintendo المحمولة باليد بعد فشل العديد من المنافسين، مثل N-Gage من نوكيا. وقد جعلت قدرات PSP الرسومية المتقدمة من جهاز PSP جهازاً ترفيهياً محمولاً شهيراً، حيث كان بإمكانه الاتصال بوحدات تحكم PlayStation 2 وPlayStation 3 وأي كمبيوتر مزود بواجهة USB وأنظمة PSP الأخرى والإنترنت. يحتوي PSP أيضاً على مجموعة واسعة من ميزات الوسائط المتعددة مثل تشغيل الفيديو، ولذلك تم اعتباره مشغل وسائط محمول أيضاً. جهاز PSP هو وحدة التحكم المحمولة الوحيدة التي تستخدم تنسيق الأقراص الضوئية - قرص الوسائط العالمي (UMD) - كوسيط تخزين أساسي؛ وقد تم إصدار كل من الألعاب والأفلام على هذا التنسيق.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Prijenosni playstation (PSP) je ručna igra za igru razvijena i na tržište Sony Computer Entertainment. Prvo je pušten u Japanu 12. decembra 2004., u Severnoj Americi, 24. marta 2005. godine, a u regionima u PAL-u 1. septembra 2005. godine, a prva je ručna rata u playStation liniji konzola. Kao sedmu generacijsku konzolu takmičio se sa Nintendo DS-om.

@@ -11,6 +11,12 @@
         <systemCoverSizeType>square</systemCoverSizeType>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>برامج ونصوص برمجية وأدوات مساعدة لإدارة إعداداتك.</systemDescription>
+            <systemHardwareType>المجلد</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Programs, scripts and utilities to manage your set up.</systemDescription>

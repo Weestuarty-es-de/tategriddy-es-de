@@ -18,6 +18,14 @@ The Xbox 360 features an online service, Xbox Live, which was expanded from its 
         <systemColorPalette4>9D9FA2</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Xbox 360 هو جهاز ألعاب فيديو منزلي تم تطويره من قبل شركة مايكروسوفت. وباعتباره خليفة جهاز إكس بوكس الأصلي، فهو وحدة التحكم الثانية في سلسلة إكس بوكس. تنافس مع بلاي ستيشن 3 من سوني وWii من نينتندو كجزء من الجيل السابع من أجهزة ألعاب الفيديو. تم الكشف عنه رسميًا على قناة MTV في 12 مايو 2005، مع الإعلان عن معلومات مفصلة عن إطلاقه ومعلومات عن الألعاب في وقت لاحق من ذلك الشهر في معرض الترفيه الإلكتروني 2005.
+
+يتميز Xbox 360 بخدمة Xbox Live عبر الإنترنت، والتي تم توسيعها من التكرار السابق على Xbox الأصلي وتلقى تحديثات منتظمة خلال عمر وحدة التحكم. ويتوفر إكس بوكس لايف بأنواعه المجانية والقائمة على الاشتراك، وهو يتيح للمستخدمين: ممارسة الألعاب عبر الإنترنت؛ وتنزيل الألعاب (من خلال Xbox Live Arcade) والعروض التوضيحية للألعاب؛ وشراء وبث الموسيقى والبرامج التلفزيونية والأفلام من خلال بوابتي Xbox Music و Xbox Video؛ والوصول إلى خدمات محتوى الطرف الثالث من خلال تطبيقات بث الوسائط. وبالإضافة إلى ميزات الوسائط المتعددة عبر الإنترنت، يسمح للمستخدمين ببث الوسائط من أجهزة الكمبيوتر المحلية. وقد تم إصدار العديد من الأجهزة الطرفية، بما في ذلك وحدات التحكم اللاسلكية، ومساحة تخزين موسعة للقرص الصلب، وكاميرا استشعار الحركة Kinect. وقد ساعد إصدار هذه الخدمات الإضافية والأجهزة الطرفية على نمو علامة Xbox التجارية من مجرد ألعاب فقط إلى أن تشمل جميع الوسائط المتعددة، مما حولها إلى مركز للترفيه الحاسوبي في غرفة المعيشة.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The Xbox 360 is a home video game console developed by Microsoft. As the successor to the original Xbox, it is the second console in the Xbox series. It competed with Sony's PlayStation 3 and Nintendo's Wii as part of the seventh generation of video game consoles. It was officially unveiled on MTV on May 12, 2005, with detailed launch and game information announced later that month at the 2005 Electronic Entertainment Expo.

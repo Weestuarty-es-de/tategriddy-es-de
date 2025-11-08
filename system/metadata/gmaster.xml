@@ -18,6 +18,14 @@ The design was much like the Game Gear with a D-Pad and two action buttons, alth
         <systemColorPalette4>303030</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز Game Master هو جهاز ألعاب محمول باليد تم تصنيعه من قبل شركة هارتونغ، وصُمم لمنافسة جهاز Nintendo Game Boy. في ألمانيا، تم تسويقها في ألمانيا من قبل هارتونغ نفسها، بينما تم إصدارها في المملكة المتحدة باسم Systema 2000 من قبل شركة Systema العريقة في مجال صناعة ألعاب LCD الرخيصة. كما تم بيع عدد قليل منها تحت أسماء بديلة في فرنسا، بما في ذلك Videojet Game Master بالإضافة إلى عدد قليل تم إصداره من قبل هارتونغ باسم Hartung Super Game وHartung Game Tronic. يحتوي Game Master على شاشة LCD أحادية اللون 64x64.
+
+كان التصميم يشبه إلى حد كبير جهاز Game Gear مع لوحة D-Pad وزرين للحركة، على الرغم من أن هناك إصدار آخر وهو Game Plus، يتميز بتصميم يشبه Game Boy أكثر وهو مدعوم من شركة تدعى Caterpillar وتم بيعه من قبل شركة Delplay في فرنسا. تشبه الخراطيش تلك المستخدمة من قبل واتارا الإشراف، مع بروز حافة بطاقة الخرطوشة إلى ما بعد بلاستيك الخرطوشة. وتستخدم Game Master منفذ خرطوشة ذات 40 سنًا مثل Supervision ولكنها غير متوافقة مع ألعاب Supervision.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Učitelj igre je ručna igra koja proizvodi Hartung i dizajnirana da se takmiči sa Nintendo Game Boy. U Njemačkoj ga je na Martungu napisala Hartung, dok je u Velikoj Britaniji pušteno kao SystemA 2000 po već dobro uspostavljenom proizvođaču jeftinih LCD igara Systema. Također je prodat nekolicina pod alternativnim imenima u Francuskoj, uključujući i u albumu Videojet igru kao i za nekolicina koji je Hartung i Hartung Super igra i Hartung Game Tronic. Master igra ima 64x64 jednobojni LCD ekran.

@@ -16,6 +16,12 @@
         <systemColorPalette4>303030</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>في بداية العقد الأول من القرن الحادي والعشرين بدأت الشركات المصنعة لأنظمة الأركيد في الابتعاد عن تصميمات اللوحات المخصصة، وكجزء من هذا التغيير قام العديد منهم بدلاً من ذلك بتكييف بنية الكمبيوتر الشخصي القياسية. كان هناك العديد من هذه التصاميم التي تعمل بنظام لينكس أو ويندوز، على سبيل المثال سيجا ليندبيرغ ونظام N2 من Namco و Taito Type X.</systemDescription>
+            <systemHardwareType>المجلد</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Na početku 2000-ih arkadski sustav proizvođači su se počeli odlikovati od dizajna prilagođenih ploča, a kao dio ove promjene mnogi su umjesto toga prilagodili standardnu PC arhitekturu. Bilo je brojnih takvih dizajna koji pokreću Linux ili Windows, na primjer, Sega Lindbergh, Namco System N2 i Taito Tip X.</systemDescription>

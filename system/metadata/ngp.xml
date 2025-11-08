@@ -18,6 +18,14 @@ The Neo Geo Pocket is considered to be an unsuccessful console. Lower than expec
         <systemColorPalette4>0F1520</systemColorPalette4>
         <systemCartSize>257-229</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Neo Geo Pocket هو جهاز ألعاب محمول أحادي اللون أصدرته شركة SNK. كان أول نظام محمول باليد للشركة وهو جزء من عائلة Neo Geo. ظهرت لأول مرة في اليابان في أواخر عام 1998 ولكنها لم تُطرح في الولايات المتحدة الأمريكية، حيث كانت حصرية لليابان وآسيا وأوروبا.
+
+يعتبر نيو جيو بوكيت وحدة تحكم غير ناجحة. فقد أدى انخفاض مبيعاته عن المتوقع إلى توقفه في عام 1999، وخلفه على الفور جهاز Neo Geo Pocket Color، وهو جهاز ملون كامل يسمح للنظام بالتنافس بسهولة أكبر مع جهاز Game Boy Color المحمول المهيمن، والذي شهد أيضاً إصداراً أمريكياً. على الرغم من أن النظام تمتع بعمر قصير فقط، إلا أنه تم إصدار بعض الألعاب المهمة على النظام مثل Samurai Shodown و King of Fighters R-1.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Neo Geo džep je jednobojna ručna igra za igru objavljena SNK. Bio je to prvi ručni sistem kompanije i dio je Neo Geo porodice. Debitovao je u Japanu krajem 1998. godine, ali nikada nije vidio američko puštanje na slobodu, isključivo za Japan, Aziju i Evropu.

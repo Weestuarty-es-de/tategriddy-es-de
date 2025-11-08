@@ -18,6 +18,14 @@
         <systemColorPalette4>07336A</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Uzebox عبارة عن وحدة تحكم بالألعاب مفتوحة المصدر ذات 8 بت ذات تصميم قديم ومفتوح المصدر. وهو مبني على متحكم دقيق للأغراض العامة AVR 8 بت من صنع Atmel. وتتمثل خصوصية النظام في أنه يستخدم نواة مدفوعة بالمقاطعة ولا يحتوي على مخزن مؤقت للإطار. يتم تنفيذ وظائف مثل توليد إشارات الفيديو، وتجسيد البلاط ومزج الموسيقى في الوقت الحقيقي من خلال مهمة في الخلفية بحيث يمكن تطوير لعبتك بسهولة في C.
+
+   كان الهدف من التصميم هو أن يكون بسيطًا قدر الإمكان مع الحصول على صوت ورسومات جيدة بما يكفي لتنفيذ ألعاب مثيرة للاهتمام. تم التركيز على جعلها سهلة وممتعة في التجميع والبرمجة لأي هاوٍ. يحتوي التصميم النهائي على شريحتين فقط: ATmega644 ومحول AD725 RGB إلى NTSC.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The Uzebox is a retro-minimalist 8-bit open source game console. It is based on an AVR 8-bit general purpose microcontroller made by Atmel. The particularity of the system is that it uses an interrupt driven kernel and has no frame buffer. Functions such as video signal generation, tile rendering and music mixing is done in realtime by a background task so your game can easily be developed in C.

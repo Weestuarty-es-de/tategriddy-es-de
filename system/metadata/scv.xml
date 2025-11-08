@@ -16,6 +16,12 @@
         <systemColorPalette4>FF5700</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>طرحت شركة Epoch نظام Cassette Vision الأصلي في اليابان في عام 1981، والذي حقق مبيعات ثابتة واستحوذ على 70% من سوق وحدات التحكم المنزلية اليابانية في ذلك الوقت، حيث تم بيع حوالي 400,000 وحدة. ومع ذلك، سرعان ما أدى طرح أنظمة الجيل التالي من Nintendo و Casio و Sega إلى تراجع إصدار Cassette Vision الأصلي، مما دفع Epoch إلى تطوير خليفة لها بسرعة. تم إصدار جهاز Super Cassette Vision في عام 1984 بتكلفة 14,800 ين ياباني وتميز بمعالج 8 بت وأداء أفضل يتماشى مع منافسيه. تم إصداره لاحقًا في فرنسا بواسطة ITMC تحت العلامة التجارية Yeno. تم جلب 16 لعبة على الأقل من اليابان لإصدارها في أوروبا. واستهدف إصدار من النظام سوق الإناث الشابات، وهو "سوبر ليدي كاسيت فيجن". وجاءت وحدة التحكم معبأة في حقيبة حمل وردية اللون، إلى جانب لعبة "ميلكي برينسيس". لم ينجح النظام في الإقلاع، ولم يتمكن من مجاراة الشعبية الهائلة التي حظيت بها نينتندو فاميكوم، مما أدى إلى انسحاب Epoch من سوق وحدات التحكم بحلول عام 1987.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Epoch's original Cassette Vision was introduced in Japan by Epoch in 1981, which had steady sales and took over 70% of the Japanese home console market at the time, with around 400,000 units sold. However, the introduction of next-generation systems from Nintendo, Casio and Sega quickly pushed back the original Cassette Vision, leading Epoch to quickly develop a successor. The Super Cassette Vision was released in 1984 at a cost of ¥14,800 yen, featuring an 8-bit processor and better performance more in line with its competitors. It was later released in France by ITMC under the Yeno branding. At least 16 games were brought over from Japan for a European release. A version of the system targeted the young female market, the Super Lady Cassette Vision. The console came packed in a pink carrying case, alongside the game Milky Princess. The system did not take off, and was unable to match the massive popularity of the Nintendo Famicom, leading Epoch to drop out of the console market by 1987.</systemDescription>

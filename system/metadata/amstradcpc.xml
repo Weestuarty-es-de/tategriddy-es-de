@@ -16,6 +16,12 @@
         <systemColorPalette4>3E3E3E</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>كمبيوتر أمستراد الملون الشخصي، المعروف باسم أمستراد CPC، هو سلسلة من أجهزة الكمبيوتر المنزلية ذات 8 بت من تصميم أمستراد. تم إصدار الطرازات الأولى في أبريل 1984 في أوروبا بسعر تجزئة يتراوح بين 199 جنيهًا إسترلينيًا و299 جنيهًا إسترلينيًا، حسب الحزمة التي تم شراؤها. لم يتم إصدار أجهزة الكمبيوتر خارج أوروبا. كان لسلسلة CPC خمسة نماذج متميزة: CPC464 و CPC664 و CPC6128 و CPC6128 و 464 بلس و 6128 بلس. تم تصنيع أجهزة الكمبيوتر حتى وقت غير محدد في عام 1990.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>AMSTRAD Color Lični računar, poznatiji kao ASTSTRAD CPC, je niz 8-bitnih kućnih računala koje je dizajnirao Amstrad. Prvi modeli su pušteni u aprilu 1984. godine u Europi u maloprodajnoj cijeni u rasponu od 199 do 299 do 299, ovisno o kupljenoj paketu. Računari nisu pušteni izvan Evrope. Serija CPC-a imala je pet različitih modela: CPC464, CPC664, CPC6128, 464Plus i 6128plus. Računari su proizvedeni do neodređenog vremena 1990. godine.</systemDescription>

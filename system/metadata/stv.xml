@@ -18,6 +18,14 @@ The majority of ST-V titles were released only in Japan, but a notable exception
         <systemColorPalette4>199A40</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>ST-V (سيجا تيتان فيديو) هي لوحة نظام أركيد أصدرتها شركة سيجا، في عام 1994 لليابان وعام 1995 في جميع أنحاء العالم. وبعيداً عن عمليتهم المعتادة في بناء أجهزة أركيد مخصصة، فإن ST-V من سيجا مطابق بشكل أساسي لنظام وحدة التحكم المنزلية Sega Saturn. والفرق الوحيد هو الوسائط؛ حيث استخدم ST-V خراطيش ROM بدلاً من أقراص CD-ROM لتخزين الألعاب، باستثناء لعبة Sports Fishing 2. ولأنه مشتق من أجهزة زحل، يُفترض أن ST-V سُمي على اسم القمر تيتان، وهو قمر صناعي تابع لزحل.
+
+تم إصدار معظم ألعاب ST-V في اليابان فقط، لكن الاستثناء الملحوظ كان ميناء لعبة Dynamite Deka، التي أصبحت Die Hard Arcade. تشمل الألعاب التي تم إصدارها ل ST-V إصدارات الممرات من Virtua Fighter Remix و Radiant Silvergun و Golden Axe: The Duel و Final Fight Revenge. سمحت الأجهزة المشتركة بين Saturn وST-V بمنافذ "نقية" للغاية لوحدة تحكم Saturn.</systemDescription>
+            <systemHardwareType>أركيد</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>ST-V (Sega Titan Video) is an arcade system board released by Sega, in 1994 for Japan and 1995 worldwide. Departing from their usual process of building custom arcade hardware, Sega's ST-V is essentially identical to the Sega Saturn home console system. The only difference is the media; ST-V used ROM cartridges instead of CD-ROM discs to store games, with the exception of Sports Fishing 2. Being derived from the Saturn hardware, the ST-V was presumably named after the moon Titan, a satellite of Saturn.

@@ -16,6 +16,12 @@
         <systemCartSize>1-1</systemCartSize>
         <systemColorPalette4>ffc833</systemColorPalette4>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Playdate هو جهاز ألعاب فيديو محمول باليد طورته شركة بانيك. بالإضافة إلى الأزرار ولوحة الاتجاه، يحتوي الجهاز على ذراع ميكانيكي على جانبه. تم الإعلان عن وحدة التحكم لأول مرة في 22 مايو 2019 على غلاف مجلة Edge، وتم إصدارها في 18 أبريل 2022. يشير الاسم إلى جدول الإصدار الأسبوعي للألعاب.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>PlayDate je ručna konzola za video igre razvijena od strane panike. Kao i dugmad i usmjereni jastučić, uređaj ima mehaničku ručicu na njegovoj strani. Konzola je prvi put najavljena 22. maja 2019. na naslovnici časopisa Edge, a pušten je 18. aprila 2022. godine. Ime reference u svom tjednom rasporedu igara.</systemDescription>

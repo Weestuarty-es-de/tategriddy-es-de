@@ -20,6 +20,16 @@ Differentiated from other emulators by a very large number of supported systems,
         <systemColorPalette4>FFFFFF</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>يعتمد هذا المشروع المتاح المصدر على FinalBurn، الذي أنشأه ديف في عام 2000. وقد تمت برمجته من قبل فريق مؤلف من باري هاريس (اسم المستخدم القديم: TrebleWinner)، وجان_كلاسن، وKEV، وLoopMaster، ومايك هاغار، وهايبر ياغامي وآيي.
+
+كان FinalBurn واحدًا من أوائل محاكيات Capcom CPS2. عندما توقف هذا المشروع في عام 2001، تم نشر مصادره على نطاق واسع، مما سمح بتطوير العديد من الإصدارات غير الرسمية، والتي تعد FBA أكثرها نجاحًا.
+
+يتميز FB Alpha عن غيره من المحاكيات الأخرى بعدد كبير جدًا من الأنظمة المدعومة، كما يقدم واجهة واضحة (بسيطة مثل واجهة Kawaks) وأداءً ممتازًا. والمميز فيه أنه لا يستهلك الكثير من الموارد، ولا تحتاج إلى الانغماس في إعدادات معقدة لتتمكن من استخدامه على الفور، رغم أن قوائمه باللغة الإنجليزية في الأصل.</systemDescription>
+            <systemHardwareType>المحاكي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Ovaj projekt raspoloživi izvor zasnovan je na finalBurn, koju je kreirao Dave 2000. godine. To je programirao tim koji je sastavljen od Barryja Harrisa (staro korisničko ime: treblewinner), jan_klaassen, kev, loopmaster, mike Haggar, Hyper Yagami i Ayeye.

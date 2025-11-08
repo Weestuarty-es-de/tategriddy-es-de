@@ -16,6 +16,12 @@
         <systemColorPalette4>459FD0</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>ألعاب الأركيد أو ماكينات الألعاب هي آلات ترفيهية تعمل بقطع النقود المعدنية يتم تركيبها عادةً في الشركات العامة مثل المطاعم والحانات والملاهي. معظم ألعاب الأركيد هي ألعاب فيديو، أو ماكينات الكرة والدبابيس، أو ألعاب كهربائية ميكانيكية، أو ألعاب استرداد النقود أو ألعاب ترفيهية. على الرغم من أن التواريخ الدقيقة للألعاب الآركيد محل نقاش، إلا أن العصر الذهبي لألعاب الفيديو في الممرات عادة ما يتم تعريفه على أنه فترة تبدأ في وقت ما في أواخر السبعينيات وتنتهي في منتصف الثمانينيات. وباستثناء فترة انتعاش قصيرة في أوائل التسعينيات، انخفضت صناعة ألعاب الآركيد لاحقاً في نصف الكرة الغربي مع ازدياد أجهزة ألعاب الفيديو المنزلية المنافسة مثل بلاي ستيشن وإكس بوكس في رسوماتها وقدرتها على اللعب وانخفاض تكلفتها.</systemDescription>
+            <systemHardwareType>المجموعة</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Arkadna igra ili kovanica-OP je zabavna mašina koja se radi u javnim preduzećima kao što su restorani, barovi i zabavne arkade. Većina arkadnih igara su video igre, fliper, elektro-mehaničke igre, otkupne igre ili trgovci. Iako se raspravljaju tačni datumi, zlatno doba Arcade video igara obično se definira kao period koji počinje negdje krajem 1970-ih i završetak negdje sredinom 1980-ih. Isključivši kratak regengencija, arkadna industrija, arkadna industrija je nakon toga odbila u zapadnoj hemisferi kao konkurentskih konzola za video igri za video igre, kao što su PlayStation i Xbox povećana u svojoj grafičkoj i ugrađenoj sposobnosti i smanjene u cijenu.</systemDescription>

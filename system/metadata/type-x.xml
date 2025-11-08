@@ -18,6 +18,14 @@ Based on commodity personal computer hardware architecture, Type X is not a spec
         <systemColorPalette4>303030</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Taito Type X هي لوحة نظام أركيد تم إصدارها عام 2004 من قبل مطور وناشر الألعاب Taito.
+
+استنادًا إلى بنية أجهزة الكمبيوتر الشخصية السلعية، فإن النوع X ليس مواصفات لمجموعة واحدة من الأجهزة، بل هو منصة معيارية تدعم تكوينات متعددة للأجهزة بمستويات مختلفة من القدرات الرسومية. تسمح هذه المرونة لمطوري الألعاب بخيارات محدودة في اختيار تهيئة تناسب متطلبات اللعبة المحددة، وتسمح للمنصة ككل بدعم ألعاب الألعاب بكفاءة أكبر مع احتياجات حوسبة مختلفة إلى حد كبير. على سبيل المثال، يتمتع طرازا Type X+ و Type X2 بقدرة معالجة رسومات مطورة، والتي يمكن استخدامها في تحسين مرئيات الألعاب، أو الإخراج إلى شاشات عرض عالية الدقة (HDTV). تُستخدم لوحة Type X7 بشكل أساسي في آلات الباتشينكو في اليابان. شاركت راوية في ملكية الشركة التي أنتجت لوحة النظام هذه.</systemDescription>
+            <systemHardwareType>أركيد</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The Taito Type X is an arcade system board released in 2004 by game developer and publisher Taito.

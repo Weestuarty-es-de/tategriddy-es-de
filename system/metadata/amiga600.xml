@@ -16,6 +16,12 @@
         <systemColorPalette4>ED2224</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Amiga هي عائلة من الحواسيب الشخصية التي تم تسويقها من قبل Commodore في الثمانينيات والتسعينيات. تم إطلاق النموذج الأول في عام 1985 كحاسوب منزلي متطور وأصبح شائعاً بسبب قدراته الرسومية والصوتية والمتعددة المهام. وفّر Amiga ترقية كبيرة من حواسيب 8 بت، مثل Commodore 64، وسرعان ما ازدادت شعبية المنصة بين عشاق الحواسيب. طُرح الطراز الأكثر مبيعاً، وهو Amiga 500، في عام 1987 وأصبح الكمبيوتر المنزلي الرائد في أواخر الثمانينيات وأوائل التسعينيات في معظم أنحاء أوروبا الغربية.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Amiga je porodica ličnih računara koji je marketirao Commodore u 1980-ima i 1990-ih. Prvi model predstavljen je 1985. kao vrhunski kućni računar i postao je popularan za njegove grafičke, audio i višeslojne sposobnosti. Amiga je pružila značajnu nadogradnju sa 8-bitnih računara, poput Commodore 64, a platforma je brzo rasla u popularnosti među entuzijastima računara. Najprodavaniji model, Amiga 500, predstavljen je 1987. godine i postao je vodeći kućni računar krajem 1980-ih i početkom 1990-ih u većini zapadne Evrope.</systemDescription>

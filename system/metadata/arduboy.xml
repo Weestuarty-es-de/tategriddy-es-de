@@ -16,6 +16,12 @@
         <systemColorPalette4>6442C1</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Arduboy هو جهاز ألعاب محمول باليد مزود ببرنامج مفتوح المصدر، يعتمد على منصة أجهزة Arduino.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Arduboy je ručna igra za igru s otvorenim Soverom zasnovanom na bazira na bazi Arduino hardverske platforme.</systemDescription>

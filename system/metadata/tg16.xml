@@ -18,6 +18,14 @@ The TurboGrafx-16 has an 8-bit CPU, a 16-bit video color encoder, and a 16-bit v
         <systemColorPalette4>D5E14D</systemColorPalette4>
         <systemCartSize>3-5</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز TurboGrafx-16، المعروف باسم محرك الكمبيوتر الشخصي في اليابان وفرنسا، هو جهاز ألعاب فيديو منزلي من الجيل الرابع 16 بت صممته شركة Hudson Soft وباعته شركة NEC Home Electronics. تم إصداره في اليابان عام 1987 وفي أمريكا الشمالية عام 1989. تم استيراد الطراز الياباني وتوزيعه في فرنسا في عام 1989، وحصلت المملكة المتحدة وإسبانيا على نسخة مبنية على الطراز الأمريكي المعروف ببساطة باسم TurboGrafx. كانت أول وحدة تحكم تم إصدارها في عصر 16 بت، على الرغم من أنها استخدمت وحدة معالجة مركزية معدلة 8 بت. في اليابان، تم إطلاق النظام كمنافس ل Famicom، ولكن تأخر إصداره في الولايات المتحدة يعني أنه انتهى به الأمر إلى منافسة Sega Genesis ثم نظام Super Nintendo Entertainment System.
+
+يحتوي جهاز TurboGrafx-16 على وحدة معالجة مركزية 8 بت، ووحدة تشفير ألوان فيديو 16 بت، ووحدة تحكم في عرض الفيديو 16 بت. ووحدات معالجة الرسومات قادرة على عرض 482 لوناً في وقت واحد، من أصل 512. بأبعاد تبلغ 14 سم × 14 سم × 3.8 سم فقط (5.5 بوصة × 5.5 بوصة × 1.5 بوصة)، يعتبر محرك الكمبيوتر الياباني أصغر وحدة تحكم ألعاب منزلية رئيسية تم صنعها على الإطلاق. وقد تم إصدار الألعاب على خراطيش HuCard ولاحقاً على شكل قرص مدمج بصري مع إضافة TurboGrafx-CD.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The TurboGrafx-16, known as the PC Engine in Japan and France, is a 16-bit fourth-generation home video game console designed by Hudson Soft and sold by NEC Home Electronics. It was released in Japan in 1987 and in North America in 1989. The Japanese model was imported and distributed in France in 1989, and the United Kingdom and Spain received a version based on the American model known as simply TurboGrafx. It was the first console released in the 16-bit era, although it used a modified 8-bit CPU. In Japan, the system was launched as a competitor to the Famicom, but the delayed United States release meant that it ended up competing with the Sega Genesis and later the Super Nintendo Entertainment System.

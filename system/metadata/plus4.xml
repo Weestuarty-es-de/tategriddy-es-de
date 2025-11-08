@@ -18,6 +18,14 @@ Internally, the Plus/4 shared the same basic architecture as the lower-end Commo
         <systemColorPalette3>FD4120</systemColorPalette3>
         <systemColorPalette4>00A0C6</systemColorPalette4>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>كومودور بلس/4 هو كمبيوتر منزلي أصدرته شركة كومودور إنترناشيونال في عام 1984. ويشير اسم "Plus/4" إلى مجموعة التطبيقات المكتبية المدمجة في ذاكرة القراءة فقط (ROM) المكونة من أربعة تطبيقات (معالج النصوص، وجداول البيانات، وقاعدة البيانات، والرسوم البيانية)؛ وقد وصف بأنه "الكمبيوتر الإنتاجي المزود ببرامج مدمجة".
+
+داخلياً، كان Plus/4 يشترك في نفس البنية الأساسية لطرازات Commodore 16 و116 الأقل تطوراً، وكان قادراً على استخدام البرامج والأجهزة الطرفية المصممة لها. كان Plus/4 غير متوافق مع برامج Commodore 64 وبعض أجهزته. على الرغم من أن كومودور 64 كان أكثر رسوخاً، إلا أن بلس/4 كان يستهدف الجزء الأكثر توجهاً نحو الأعمال من سوق الحواسيب الشخصية.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Commodore Plus / 4 je kućni računar koji je izdao Commodore International 1984. godine. Ime "Plus / 4" odnosi se na četverofikonični rezidencijalni apartman (reči rezervacija) (reč procesor, proračunska tablica, baza podataka i grafikon);Naplaćen je kao "računar produktivnosti sa softverom ugrađenim".

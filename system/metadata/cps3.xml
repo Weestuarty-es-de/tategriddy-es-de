@@ -16,6 +16,12 @@
         <systemColorPalette4>FFCB04</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>نظام CP System III (CPシステムIII، shīpī shisutemu surī) أو CPS-3 هو لوحة نظام أركيد تم استخدامها لأول مرة من قبل Capcom في عام 1996 مع لعبة الأركيد Red Earth. وكانت ثاني خليفة لأجهزة نظام CP System للأركيد بعد نظام CP System II. ستكون آخر لوحة نظام مملوكة لشركة Capcom قبل الانتقال إلى منصة Naomi القائمة على نظام Dreamcast.</systemDescription>
+            <systemHardwareType>أركيد</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>CP sistem III (CP システム III, Shīpī Shisutemu Surī) ili CPS-3 je arkadna matična ploča koja je prvo koristila CAPCOM 1996. godine sa arkadnom igrama Crvena Zemlja. Bio je to drugi nasljednik CP sustava Arcade hardver, nakon CP sistema II. To bi bio posljednji vlastiti sistemski odbor CAPCOM-u proizveo bi prije prelaska na Naomi platformu sa dreamcast-om.</systemDescription>

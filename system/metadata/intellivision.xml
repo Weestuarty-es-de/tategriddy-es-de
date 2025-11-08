@@ -16,6 +16,12 @@
         <systemColorPalette4>C8D463</systemColorPalette4>
         <systemCartSize>135-172</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز Mattel Intell Intellivision هو الجيل الثاني (1976-1992) من أجهزة ألعاب الفيديو المنزلية التي طورتها ووزعتها شركة Mattel Electronics. تم إصدارها في صيف 1979 في أمريكا الشمالية بسعر تجزئة 299 دولارًا أمريكيًا. تم إصدار وحدة التحكم لاحقاً في أوروبا (1981) وأمريكا الجنوبية (1982) واليابان (1982). كانت Intellivision أول وحدة تحكم منزلية تستخدم ملعباً قائماً على البلاط، وكانت أول وحدة تحكم في الألعاب توفر أصواتاً بشرية في الوقت الحقيقي في منتصف اللعب، بفضل وحدة IntelliVoice. تم إيقاف وحدة التحكم في أوائل عام 1990.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Mattel Intellivision je druga generacija (1976-1992) kućna konzola za video igre razvijena i distribuirana od strane Mattel Electronics. Pušteno je u ljeto 1979. u Severnoj Americi u maloprodajnoj ceni od 299 dolara. Konzola je kasnije objavljena u Evropi (1981), Južna Amerika (1982), i Japan (1982). Intelivizija je bila prva domaća konzola za korištenje Pyile Filli Fillied i bila je prva igračka konzola za pružanje u stvarnom vremenu ljudskih glasova u sredini igranja, ljubaznošću intelivejskog modula. Konzola je prekinuta početkom 1990. godine.</systemDescription>

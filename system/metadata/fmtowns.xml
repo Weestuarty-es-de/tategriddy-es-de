@@ -18,6 +18,14 @@ The "FM" part of the name means "Fujitsu Micro" like their earlier products, whi
         <systemColorPalette4>151619</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إن إف إم تاونزو (باليابانية: エフエムタウンズ، هيبورن: إيفو إيمو تاونزو) هو كمبيوتر شخصي ياباني صنعته شركة فوجيتسو من فبراير 1989 إلى صيف 1997. وقد بدأ كمتغير خاص بالكمبيوتر الشخصي مخصص لتطبيقات الوسائط المتعددة وألعاب الكمبيوتر، ولكنه أصبح فيما بعد أكثر توافقًا مع أجهزة كمبيوتر IBM المتوافقة. في عام 1993، تم إصدار FM Towns Marty، وهو جهاز ألعاب متوافق مع ألعاب FM Towns الموجودة.
+
+ويعني الجزء "FM" من الاسم "فوجيتسو مايكرو" مثل منتجاتها السابقة، في حين أن الجزء "تاونز" مشتق من الاسم الرمزي الذي أُطلق على النظام أثناء تطويره وهو "تاونز". يشير هذا الاسم إلى تشارلز تاونز، أحد الفائزين بجائزة نوبل في الفيزياء لعام 1964، وذلك اتباعًا لعادة فوجيتسو في ذلك الوقت بتسمية منتجات الكمبيوتر الشخصي بأسماء الفائزين بجائزة نوبل. تم إسقاط حرف e في كلمة "Townes" عندما بدأ إنتاج النظام لتوضيح أن المصطلح كان يجب أن يُلفظ مثل كلمة "تاونز" بدلاً من كلمة "تاونز" المحتملة.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>FM gradovi (japanski: エフエムタウンズ, Hepburn: EFU EMU Taunzu) je japansko osobno računalo koje je Fujitsu izgradio od februara 1989. do ljeta 1997. godine. Počeo je kao vlasnička PC varijanta namijenjena multimedijskim aplikacijama i PC igre, ali kasnije su postale kompatibilnije s kompatibilnim sa IBM PC-om. Godine 1993. godine, FM gradovi Marty pušten je, igraće konzola kompatibilna sa postojećim igrama FM gradovima.

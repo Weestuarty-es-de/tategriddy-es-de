@@ -16,6 +16,12 @@
         <systemColorPalette4>23B14D</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز 3DO التفاعلي متعدد اللاعبين (غالباً ما يُطلق عليه ببساطة 3DO) هو جهاز ألعاب فيديو أنتجته باناسونيك في الأصل عام 1993. وتم إصدار إصدارات أخرى من الجهاز في عام 1994 من قبل Sanyo وGoldstar. تم تصنيع وحدات التحكم وفقًا للمواصفات التي أنشأتها شركة 3DO، وتم تصميمها في الأصل من قبل ديف نيدل وRJ Mical من مجموعة التكنولوجيا الجديدة. تم تصميم النظام من قبل رجل الأعمال ومؤسس شركة Electronic Arts تريب هوكينز.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>3DO interaktivni multiplayer (često se naziva jednostavno 3DO) je konzola za video igre koju je izvorno proizvela Panasonic 1993. godine. Daljnje preispitivanje hardvera objavljene su 1994. godine Sanyo i Goldstar. Konzole su proizvedene u skladu sa specifikacijama koje je stvorila 3DO kompanija, a izvorno su dizajnirala Dave igla i RJ MICAL iz nove tehnološke grupe. Sistem je zamišljen po osnivaču za osnivač preduzetnika i elektroničkog umetnosti.</systemDescription>

@@ -16,6 +16,12 @@
         <systemColorPalette4>00FFEE</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز واتارا الإشراف، المعروف أيضًا باسم QuickShot Supervision في المملكة المتحدة، هو جهاز ألعاب محمول أحادي اللون، نشأ في آسيا، وتم تقديمه في عام 1992 كمنافس بسعر مخفض لجهاز Game Boy من نينتندو. وكانت تأتي مرفقة بلعبة تدعى Crystball، والتي تشبه لعبة Breakout. كانت إحدى الميزات الفريدة في جهاز Supervision هي أنه يمكن ربطه بالتلفزيون عبر كابل توصيل. كانت الألعاب التي تُلعب بهذه الطريقة تُعرض بأربعة ألوان، مثلها مثل إضافة Nintendo's Super Game Boy لجهاز SNES. كان هناك أيضاً وصلة تلفاز بالألوان الكاملة قيد الإعداد، ولكن بسبب فشل جهاز Supervision في ترك انطباع كبير بين اللاعبين تم إلغاؤه مع الألعاب التي كانت قيد التطوير من أجله.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The Watara Supervision, also known as the QuickShot Supervision in the UK, is a monochrome handheld game console, originating from Asia, and introduced in 1992 as a cut-price competitor for Nintendo's Game Boy. It came packaged with a game called Crystball, which is similar to Breakout. One unique feature of the Supervision was that it could be linked up to a television via a link cable. Games played in this way would display in four colors, much like Nintendo's Super Game Boy add-on for the SNES. A full color TV link was also in the works, but because of the Supervision's failure to make a major impression among gamers it was cancelled, along with the games which were in development for it.</systemDescription>

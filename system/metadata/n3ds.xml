@@ -16,6 +16,12 @@
         <systemColorPalette4>347A7A</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز نينتندو 3DS، الذي يُعرف اختصاراً باسم 3DS، هو جهاز ألعاب محمول من إنتاج شركة نينتندو. وهو قادر على عرض تأثيرات مجسمة ثلاثية الأبعاد دون استخدام نظارات ثلاثية الأبعاد أو ملحقات إضافية. أعلنت نينتندو عن الجهاز في مارس 2010 وكشفت عنه رسمياً في E3 2010 في 15 يونيو 2010. ويحل الجهاز محل جهاز Nintendo DS، ويتميز بتوافقه مع ألعاب الفيديو الأقدم من Nintendo DS و Nintendo DSi.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Nintendo 3DS, skraćeni na 3DS, prijenosna je konzola za igru koju proizvodi Nintendo. Sposoban je prikazati stereoskopske 3D efekte bez upotrebe 3D naočala ili dodatnih dodataka. Nintendo je najavio u martu 2010. godine i službeno je predstavio na E3 2010 15. juna 2010. godine. Konzola uspijeva Nintendo DS, nalaze se na pozadinskom kompatibilnosti sa starijim Nintendo DS i Nintendo DSI video igrama.</systemDescription>

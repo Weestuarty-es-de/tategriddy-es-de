@@ -24,6 +24,20 @@ Both parts (the C++ engine and the Lua scripts of your quest) communicate throug
         <systemColorPalette4>647A54</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>صُممت سولاروس خصيصًا مع وضع كلاسيكيات ألعاب تقمص الأدوار ثنائية الأبعاد في الاعتبار، مثل The Legend of Zelda: A Link to the Past وScret of Mana على سوبر نينتندو، أو Soleil على Sega Megadrive/Genesis.
+
+تمت برمجة المحرك بلغة C++، مع مكتبة SDL وخلفية OpenGL. الألعاب المصنوعة باستخدام سولاروس تسمى المهام، وهي مبرمجة بلغة Lua.
+
+يقوم المحرك بجميع العمليات الحسابية الثقيلة (على سبيل المثال، عمليات التحقق من التصادم) والعمليات منخفضة المستوى مثل رسم الشاشة وتحريك العفاريت وتشغيل الأصوات.
+
+كصانع مهام، أنت لست مهتمًا كثيرًا بتنفيذ هذه الخوارزميات. على العكس، أنت تريد تحديد منطق اللعبة. نصوص Lua النصية الخاصة بك تصف سلوك الأعداء، وما يحدث عند الضغط على مفتاح على خريطة معينة. ستنفذ أيضًا أشياء مثل شاشة العنوان وشاشة العرض الأمامية.
+
+يتواصل كلا الجزأين (محرك C++ المحرك ونصوص Lua البرمجية الخاصة بمهمتك) من خلال واجهة برمجة تطبيقات Solarus Lua. يعمل الاتصال في كلا الاتجاهين: يمكنك استدعاء وظائف المحرك (على سبيل المثال: تريد تحريك شخصية لا تلعب) ويستدعي المحرك وظائفك الخاصة (على سبيل المثال: أن يتم إعلامك بأن عدوًا قد قُتل للتو). لكن قبل استخدام واجهة برمجة تطبيقات سولاروس هذه، عليك أن تتعلم أساسيات لغة Lua (لغة سهلة وبسيطة لكنها قوية).</systemDescription>
+            <systemHardwareType>المحرك</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Solarus was specifically designed with cult 2D action-RPG classics in mind, such as The Legend of Zelda: A Link to the Past and Secret of Mana on the Super Nintendo, or Soleil on the Sega Megadrive/Genesis.

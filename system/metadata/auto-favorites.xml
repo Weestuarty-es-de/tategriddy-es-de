@@ -11,6 +11,12 @@
         <systemCoverSizeType>square</systemCoverSizeType>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>عرض ألعابك المفضلة وتشغيلها عبر المكتبة بأكملها.</systemDescription>
+            <systemHardwareType>المجموعة</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Pogledajte i igrajte svoje omiljene igre u cijeloj biblioteci.</systemDescription>

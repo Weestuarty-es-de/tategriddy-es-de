@@ -18,6 +18,14 @@ The first model features a 10 MHz Motorola 68000 CPU (hence the name), 1 MB of R
         <systemColorPalette4>41BC83</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>X68000 (باليابانية: エッ ッ ク ス ク ろくんははっせん، هيبورن: Ekkusu Rokuman Hassen) هو كمبيوتر منزلي تم إنشاؤه بواسطة شركة Sharp، وتم إصداره لأول مرة في عام 1987، وتم بيعه في اليابان فقط.
+
+يتميز الموديل الأول بوحدة معالجة مركزية من موتورولا 68000 بتردد 10 ميجاهرتز (ومن هنا جاءت التسمية)، وذاكرة وصول عشوائي سعتها 1 ميجا بايت، ولا يحتوي على قرص صلب؛ أما الموديل الأخير فقد صدر في عام 1993 بوحدة معالجة مركزية من موتورولا 68030 بتردد 25 ميجاهرتز، وذاكرة وصول عشوائي سعتها 4 ميجا بايت، وقرص صلب اختياري من نوع SCSI سعة 80 ميجا بايت. ذاكرة الوصول العشوائي في هذه الأنظمة قابلة للتوسيع إلى 12 ميغابايت، على الرغم من أن معظم الألعاب والتطبيقات لا تتطلب أكثر من 2 ميغابايت.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The X68000 (Japanese: エックス ろくまんはっせん, Hepburn: Ekkusu Rokuman Hassen) is a home computer created by Sharp Corporation, first released in 1987, sold only in Japan.

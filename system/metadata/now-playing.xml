@@ -11,6 +11,12 @@
         <systemCoverSizeType>square</systemCoverSizeType>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>العب وأكمل الألعاب المتراكمة لديك.</systemDescription>
+            <systemHardwareType>المجموعة</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Igrajte i dovršite igre na svom zaostatku.</systemDescription>

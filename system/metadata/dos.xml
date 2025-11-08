@@ -16,6 +16,12 @@
         <systemColorPalette4>111111</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>كان MS-DOS، وهو اختصار لنظام تشغيل الأقراص من مايكروسوفت، نظام تشغيل لأجهزة الكمبيوتر الشخصية القائمة على x86، تم تطويره في الغالب من قبل مايكروسوفت. وكان هو العضو الأكثر استخداماً في عائلة أنظمة التشغيل DOS، وكان نظام التشغيل الرئيسي لأجهزة الكمبيوتر الشخصية المتوافقة مع IBM PC خلال الثمانينيات وحتى منتصف التسعينيات، عندما تم استبداله تدريجياً بأنظمة تشغيل تقدم واجهة مستخدم رسومية (GUI)، في أجيال مختلفة من نظام التشغيل Microsoft Windows.</systemDescription>
+            <systemHardwareType>نظام التشغيل</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>MS-DOS, kratak za operativni sistem Microsoft Disk, bio je operativni sistem za X86 lični računari koji su uglavnom razvijen od strane Microsofta. To je bio najčešće korišten član Obiteljskih sistema DOS-a i bio je glavni operativni sistem za IBM PC kompatibilne osobne računare tokom 1980-ih do sredine 1990-ih, kada su ga postepeno zamijenili operativnim sistemima koji nude grafičko korisničko sučelje (GUI), u različitim generacijama operativnog sistema Microsoft Windows.</systemDescription>

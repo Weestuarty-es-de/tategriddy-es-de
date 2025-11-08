@@ -16,6 +16,12 @@
         <systemColorPalette4>232326</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>قرص أتاري جاغوار المدمج هو قرص مضغوط طرفي من الجيل الخامس (1993-2005) لوحدة تحكم ألعاب الفيديو أتاري جاغوار الذي طورته ووزعته شركة أتاري. تم إصداره في سبتمبر 1995 في أمريكا الشمالية بسعر تجزئة 149.95 دولارًا أمريكيًا. كما تم إصدار الجهاز الطرفي في أوروبا (1995). وتميزت وحدة الأقراص المضغوطة Jaguar بمحرك أقراص مزدوج السرعة (2×) وفتحة خرطوشة خاصة بها للسماح بتشغيل ألعاب الخراطيش دون إزالة محرك الأقراص المضغوطة. تم إيقاف الجهاز الطرفي في أوائل عام 1996، ربما في وقت بيع الشركة في 8 أبريل 1996.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Atari Jaguar CD je peta generacija (1993-2005) CD-ROM periferna za Atari Jaguar Video Game Console razvijena i distribuirana od strane Atari Corporation. Pušten je u septembru 1995. u Severnoj Americi u maloprodajnoj ceni od 149,95 dolara. Periferna je takođe objavljena u Evropi (1995). Jaguar CD jedinicom sadržavao je dvostruku brzinu (2 ×) pogon i vlastiti utor za uložak kako bi se omogućilo reprodukciju kertridža koje se mogu reproducirati bez uklanjanja CD pogona. Periferna je prekinuta početkom 1996., eventualno u vrijeme prodaje kompanije 8. aprila 1996. godine.</systemDescription>

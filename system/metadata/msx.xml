@@ -18,6 +18,14 @@ MSX systems were popular in Japan and several other countries. Sony was the prim
         <systemColorPalette4>DEE0E0</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>MSX هي بنية حاسوبية منزلية موحدة للكمبيوتر المنزلي، أعلنت عنها شركة مايكروسوفت وشركة ASCII في 16 يونيو 1983. تم تصميمه في البداية من قبل مايكروسوفت كمنتج للقطاع الشرقي، وتم تسويقه بشكل مشترك من قبل كازوهيكو نيشي، الذي كان يشغل منصب نائب رئيس مايكروسوفت ومدير شركة ASCII. وتصورت مايكروسوفت ونيشي المشروع كمحاولة لإنشاء معايير موحدة بين مختلف الشركات المصنعة لأنظمة الحوسبة المنزلية في تلك الفترة، على غرار معيار VHS لأجهزة الفيديو المنزلية.
+
+كانت أنظمة MSX شائعة في اليابان والعديد من البلدان الأخرى. وكانت سوني هي المصنع الرئيسي لأنظمة MSX في وقت الإصدار، وطوال معظم عمر المنتجات، حيث أنتجت وحدات أكثر من أي مصنع آخر. وفي نهاية المطاف تم بيع 5 ملايين وحدة من أنظمة MSX في اليابان وحدها. وعلى الرغم من مشاركة Microsoft، إلا أنه تم إصدار عدد قليل من الأجهزة القائمة على MSX في الولايات المتحدة.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>MSX je standardizovana kućna računarska arhitektura, najavljena od strane Microsofta i ASCII Corporation 16. juna 1983. godine. Microsoft je u početku zamislio kao proizvod za istočni sektor, a zatim potpredsjednik na Microsoftu i direktoru ASCII Corporation. Microsoft i Nishi zamišljeni su projekt kao pokušaj stvaranja jedinstvenih standarda među raznim proizvođačima kućnog računarskog sistema razdoblja, na isti način kao i VHS standard za kućne video kasete.

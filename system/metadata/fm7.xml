@@ -16,6 +16,12 @@
         <systemColorPalette4>333333</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>FM-7 ("فوجيتسو مايكرو 7") هو كمبيوتر منزلي من إنتاج فوجيتسو. تم إصداره لأول مرة في عام 1982 وتم بيعه في اليابان وإسبانيا. وهو نسخة مجردة من كمبيوتر فوجيتسو السابق FM-8، وكان يشار إليه أثناء تطويره باسم "FM-8 جونيور".</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>FM-7 ("Fujitsu Micro 7") je kućni računar koji je stvorio Fujitsu. Prvo je pušten 1982. godine i prodat je u Japanu i Španiji. To je oduzeta verzija Fujitsua ranijeg FM-8 računara, a tokom razvoja naziva se "FM-8 Jr.".</systemDescription>

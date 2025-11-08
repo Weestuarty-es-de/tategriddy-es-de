@@ -12,6 +12,12 @@
         <systemColor>0374d1</systemColor>
         <systemCartSize>112-67</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز Mega Drive هو جهاز ألعاب فيديو منزلي من الجيل الرابع من الجيل الرابع 16 بت تم تطويره وبيعه من قبل Sega. إنه وحدة التحكم الثالثة من Sega وخليفة نظام Master System. تم اقتباس ميجا درايف من لوحة أركيد سيستم 16 من سيجا.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Mega Drive je 16-bitna konzola za video igre četvrte generacije koju je razvio i prodao po sega. To je treća konzola Sega i nasljednik master sistema. Mega pogon prilagođen je iz Seganog sistema 16 arkadenih ploča.</systemDescription>

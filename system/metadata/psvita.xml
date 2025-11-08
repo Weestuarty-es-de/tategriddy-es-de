@@ -16,6 +16,12 @@
         <systemColorPalette4>2C2C2C</systemColorPalette4>
         <systemCartSize>5-7</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز PlayStation Vita (PS Vita أو Vita) هو جهاز ألعاب فيديو محمول باليد تم تطويره وتسويقه من قبل شركة Sony Interactive Entertainment. تم إصداره لأول مرة في اليابان في 17 ديسمبر 2011، وفي أمريكا الشمالية وأوروبا ومناطق دولية أخرى ابتداءً من 22 فبراير 2012. وحدة التحكم هي خليفة بلاي ستيشن بورتابل، وجزء من العلامة التجارية بلاي ستيشن لأجهزة الألعاب؛ وكجزء من الجيل الثامن من أجهزة ألعاب الفيديو، تنافس بشكل أساسي مع جهاز نينتندو 3DS.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Playstation Vita (PS Vita ili Vita) je ručna konzola za video igre razvijena i na tržište Sony interaktivna zabava. Prvo je pušten u Japanu 17. decembra 2011, i u Severnoj Americi, Evropi i drugim međunarodnim teritorijama počevši od 22. februara 2012. godine. Konzola je naslednik PlayStation Prijenosa i deo playStation marke za igranje uređaja za igranje;Kao dio osme generacije konzola za video igre, prvenstveno se natjecalo sa Nintendo 3DS-om.</systemDescription>

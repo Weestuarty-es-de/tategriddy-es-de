@@ -14,6 +14,12 @@
         <systemColorPalette3>F57900</systemColorPalette3>
         <systemColorPalette4>26353C</systemColorPalette4>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Stratagus هو محرك ألعاب مجاني ومفتوح المصدر متعدد المنصات يُستخدم لبناء ألعاب فيديو استراتيجية في الوقت الحقيقي. مرخّص بموجب GNU GPL-2.0 فقط،[2] وهو مكتوب في الغالب بلغة C++ مع لغة التكوين وهي لغة Lua.</systemDescription>
+            <systemHardwareType>المحرك</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Stratagus is a free and open-source cross-platform game engine used to build real-time strategy video games. Licensed under the GNU GPL-2.0-only,[2] it is written mostly in C++ with the configuration language being Lua.</systemDescription>

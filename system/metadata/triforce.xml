@@ -16,6 +16,12 @@
         <systemColorPalette4>1E1C11</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>اللوحة الثلاثية (ト ライフォース) هي لوحة أركيد تم تطويرها في مشروع مشترك بين سيجا ونينتندو ونامكو. وهي مبنية على وحدة تحكم ألعاب الفيديو Nintendo GameCube لتقليل تكاليف التطوير، وسمحت بمنافذ ألعاب الأركيد لألعاب وحدة التحكم المنزلية، والعكس صحيح. وقد سُميت على اسم الكائن السحري الذي غالبًا ما يكون مرغوبًا في سلسلة The Legend of Zelda الشهيرة من Nintendo.</systemDescription>
+            <systemHardwareType>أركيد</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The Triforce (トライフォース) is an arcade board developed in a joint venture between Sega, Nintendo, and Namco. It is based upon the Nintendo GameCube video game console to reduce development costs, and allowed for arcade ports of home console games, and vice versa. It is named after the magical, often sought-after object in Nintendo's popular The Legend of Zelda series.</systemDescription>

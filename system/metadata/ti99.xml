@@ -18,6 +18,14 @@ It includes a simplified internal design, a full-travel keyboard, improved graph
         <systemColorPalette4>FD7F34</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إن TI-99/4 هو كمبيوتر منزلي تم إصداره في أواخر عام 1979 من قبل شركة تكساس إنسترومنتس. واستناداً إلى المعالج الدقيق TMS9900 من تكساس إنسترومنتس TMS9900 المستخدم أصلاً في الحواسيب الصغيرة، كان أول حاسوب منزلي 16 بت. توفر وحدة التحكم في عرض الفيديو المرتبطة به رسومات ملونة ومن بين أفضل دعم للعفاريت في عصره.
+
+وهو يتضمن تصميم داخلي مبسط ولوحة مفاتيح كاملة الحركة ورسومات محسّنة ونظام توسعة فريد من نوعه. وبنصف سعر الطراز الأصلي، ارتفعت المبيعات بشكل كبير. دعمت TI الطراز 4A بالأجهزة الطرفية، بما في ذلك مُركِّب الكلام وصندوق "نظام التوسعة الطرفية" لاحتواء الأجهزة الإضافية. وأصدرت TI معلومات وأدوات المطورين، ولكن الإصرار على البقاء ناشرًا وحيدًا استمر في تجويع المنصة من البرامج.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The TI-99/4 is a home computer released in late 1979 by Texas Instruments. Based on the Texas Instruments TMS9900 microprocessor originally used in minicomputers, it was the first 16-bit home computer. The associated video display controller provides color graphics and among the best sprite support of its era.

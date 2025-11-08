@@ -16,6 +16,12 @@
         <systemColorPalette4>FFD183</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>النظام الخارق متعدد المحاكي المتعدد (MESS) هو محاكي لمختلف وحدات التحكم وأنظمة الكمبيوتر، يعتمد على نواة MAME. اعتاد أن يكون برنامجاً مستقلاً (تم إيقافه منذ ذلك الحين)، لكنه الآن مدمج في MAME (الذي يتم تطويره بنشاط). يحاكي MESS أنظمة الألعاب المحمولة ووحدات التحكم، ومنصات الكمبيوتر، والآلات الحاسبة. يسعى المشروع إلى الدقة وقابلية النقل، وبالتالي فهو ليس دائمًا أسرع محاكي لأي نظام معين. دقته تجعله مفيدًا أيضًا لتطوير الألعاب المنزلية.</systemDescription>
+            <systemHardwareType>المحاكي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Multi emulator Super sistem (nered) je emulator za razne konzole i računarske sisteme, zasnovan na srži Mame. Nekada je bio samostalan program (koji je od tada prekinut), ali je sada integriran u mame (koja se aktivno razvija). Nered emulira prenosive i konzolne igračke sisteme, računarske platforme i kalkulatore. Projekt teži za tačnost i prenosivost i stoga nije uvijek najbrži emulator za bilo koji određeni sistem. Njegova tačnost čini korisnim i za razvojni razvoj igara.</systemDescription>

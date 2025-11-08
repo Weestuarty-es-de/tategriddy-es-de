@@ -16,6 +16,12 @@
         <systemColorPalette4>00A0C6</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>كومودور 64 هو كمبيوتر منزلي من 8 بت تم طرحه في يناير 1982 من قبل شركة كومودور العالمية. تم إدراجه في موسوعة غينيس للأرقام القياسية كأعلى طراز كمبيوتر فردي مبيعاً على الإطلاق، حيث تشير تقديرات مستقلة إلى أن العدد المباع يتراوح بين 10 و17 مليون وحدة. وقد بدأ الإنتاج بكميات كبيرة في أوائل عام 1982، وتم تسويقه في أغسطس مقابل 595 دولارًا أمريكيًا (ما يعادل 1,461 دولارًا أمريكيًا في عام 2015). وقد سبقها كومودور VIC-20 وكومودور PET، وقد استمدت C64 اسمها من ذاكرة الوصول العشوائي التي تبلغ 64 كيلو بايت (65,536 بايت). وكان يتمتع بمواصفات صوتية ورسومية متفوقة مقارنة بأنظمة أخرى سابقة مثل Apple II و Atari 800، مع وجود رسوم متحركة متعددة الألوان ومعالج صوت أكثر تقدمًا.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Commodore 64 je 8-bitni kućni računar predstavljen u januaru 1982. godine Commodore International. Navedena je u Guinnessovoj svjetskim zapisima kao najprodavaniji jedinstveni model računara svih vremena, sa neovisnim procjenama postavljanje broja prodanog između 10 i 17 miliona jedinica. Proizvodnja volumena počela je početkom 1982. godine, marketing u kolovozu za 595 USD (ekvivalentno 1.461 USD u 2015.). Predvdjeli Commodore VIC-20 i Commodore PET, C64 je uzeo ime od svojih 64 kilobajta (65.536 bajtova) RAM-a. Imao je vrhunske zvučne i grafičke specifikacije u odnosu na druge ranije sustave poput Apple II i Atari 800, s višebojnim spritesom i naprednijim procesorom zvuka.</systemDescription>

@@ -20,6 +20,16 @@ Initially conceived as a solution for industrial and office applications, by 198
         <systemColorPalette4>3B3431</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>كان الكمبيوتر الشخصي NEC PC-9800 عبارة عن مجموعة من أجهزة الكمبيوتر الشخصية التي طورتها شركة NEC في عام 1982 في اليابان استنادًا إلى شركة IBM، وكانت تستهدف السوق اليابانية حصريًا.
+
+كان الطراز الأول من هذا الحاسوب مزودًا بمعالج Intel 8086 مزودًا بمعالج Intel 8086 بسرعة 5 ميجاهرتز وذاكرة وصول عشوائي سعتها 128 كيلوبايت. وتم شحنه ببطاقات رسومات قادرة على عرض 8 ألوان بدقة 640 × 400، وهو ما كان يميزه بوضوح عن أجهزة الكمبيوتر الشخصية في ذلك الوقت.
+
+تم تصميمه في البداية كحل للتطبيقات الصناعية والمكتبية، وبحلول عام 1987، استحوذت سلسلة PC-9801 على ما يقرب من 90% من سوق الحواسيب الشخصية اليابانية. وبمرور الوقت، ومع زيادة الطاقة وتقدير المستخدمين المنزليين (خاصة اللاعبين) للرسومات والمؤثرات الصوتية، أصبحت هذه السلسلة شائعة أيضًا في التطبيقات غير التجارية - على سبيل المثال، ظهرت سلسلة Touhou Project لأول مرة.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Nec PC-9800 bio je linija ličnih računara razvijenih 1982. godine u Japanu od strane korporacije, zasnovanim na IBM-u, čiji je cilj isključivo na japanskom tržištu.

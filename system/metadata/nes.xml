@@ -16,6 +16,12 @@
         <systemColorPalette4>212121</systemColorPalette4>
         <systemCartSize>373-436</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>نظام نينتندو إنترتينمنت سيستم هو جهاز ألعاب فيديو 8 بت تم إصداره من قبل نينتندو في أمريكا الشمالية خلال عام 1985، وفي أوروبا خلال عام 1986 وأستراليا في عام 1987. في معظم دول آسيا، بما في ذلك اليابان (حيث تم إطلاقه لأول مرة في عام 1983) والصين وفيتنام وسنغافورة والشرق الأوسط وهونج كونج، تم إصداره باسم كمبيوتر العائلة، والذي يُعرف عادةً باسم فاميكوم بالحروف اللاتينية أو اختصارًا إلى FC. في كوريا الجنوبية، عُرف في كوريا الجنوبية باسم Hyundai Comboy، وتم توزيعه بواسطة شركة Hynix التي كانت تُعرف آنذاك باسم Hyundai Electronics.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Nintendo Entertainment sistem je 8-bitna konzola za video igara koja je u Evropi 1983. objavila Nintendo u Severnoj Americi, u Evropi, Kine, u Kini, u Kini, u Kini, na Bliskom Istoku i Hong Kongu, koji je bio u hong Kongu, koji se obično skraćuje kao obiteljsko računalo, što je obično skraćeno kao u romaniziranoj kontrakciji porodici ili skraćeno u FC. U Južnoj Koreji bilo je poznato kao Hyundai Comoy, a distribuirao je Hynix koji je tada bio poznat kao Hyundai Electronics.</systemDescription>

@@ -18,6 +18,14 @@ It's notable that there are few exclusives on this console as Microsoft had star
         <systemColorPalette4>7CB74E</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز Xbox One هو جهاز ألعاب فيديو منزلي من الجيل الثامن تم تطويره من قبل شركة مايكروسوفت. تم إصداره في عام 2013 كخليفة لجهاز Xbox 360، وفي حين أن التسويق الأولي كان يركز على ميزات الوسائط المتعددة بدلاً من قدرات الألعاب، إلا أن هذا الأمر تغير طوال فترة استخدام وحدة التحكم.
+            
+من الملاحظ أن هناك القليل من الألعاب الحصرية على وحدة التحكم هذه حيث بدأت Microsoft في التركيز بشكل متزايد على توفير معظم الألعاب أيضاً على نظام التشغيل Windows الخاص بها.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The Xbox One is an eighth-generation home video game console developed by Microsoft. It was released in 2013 as the successor to the Xbox 360, and while initial marketing was focused on its multimedia features rather than its gaming capabilities, this changed throughout the lifetime of the console.

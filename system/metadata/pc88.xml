@@ -18,6 +18,14 @@ The PC-8800 series sold extremely well and became one of the four major Japanese
         <systemColorPalette4>77B7C6</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إن سلسلة PC-8800 (باليابانية: PC-8800シリーズ، هيبورن: بي شي شي هاسن هاسن هابيكو شيريزو)، والتي عادةً ما يتم اختصارها إلى PC-88، هي علامة تجارية من أجهزة الكمبيوتر المنزلية ذات 8 بتات القائمة على Zilog Z80 التي أصدرتها شركة نيبون إلكتريك (NEC) في عام 1981 وتباع بشكل أساسي في اليابان.
+
+وقد بيعت سلسلة PC-8800 بشكل جيد للغاية وأصبحت واحدة من الحواسيب المنزلية اليابانية الأربعة الرئيسية في الثمانينات، إلى جانب حواسيب Fujitsu FM-7 وSharp X1 وMSX. وقد تفوقت عليه لاحقًا سلسلة PC-9800 ذات 16 بت من NEC، على الرغم من أنها حافظت على مبيعاتها القوية حتى أوائل التسعينيات.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>PC-8800 serija (japanski: PC-8800 シリーズ, HEpburn: Pī shī Hassen Happyku Shirīzu), obično je skraćeno na PC-88, marka je žilog Z80 8-bitne kućne računare koji su objavili Nippon Electric Company (nec) u Japanu, a prvenstveno prodaje u Japanu.

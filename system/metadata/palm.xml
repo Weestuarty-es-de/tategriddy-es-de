@@ -16,6 +16,12 @@
         <systemColorPalette4>363636</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز PalmPilot Personal وجهاز PalmPilot Professional هما الجيل الثاني من أجهزة Palm PDA التي أنتجتها شركة Palm Inc (التي كانت آنذاك شركة تابعة لشركة U.S. Robotics، ثم شركة 3Com). تم إطلاق هذه الأجهزة في 10 مارس 1997</systemDescription>
+            <systemHardwareType>نظام التشغيل</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>PalmPilot lični i palmilot profesionalci su druga generacija Palm PDA uređaja proizvedenih od Palm Inc (zatim podružnica američkih robotike, kasnijih 3COM). Ovi su uređaji predstavljeni 10. marta 1997. godine</systemDescription>

@@ -16,6 +16,12 @@
         <systemColorPalette4>029205</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إن Atomiswave هي لوحة وخزانة نظام أركيد مخصصة من شركة Sammy Corporation. وهي تستند إلى لوحة نظام NAOMI من Sega (وبالتالي من الشائع رؤية شعار "Sega" على شاشة التشغيل). تستخدم Atomiswave خراطيش ألعاب قابلة للتبديل ويمكن تبديل لوحة التحكم في الخزانة بسهولة بمجموعات تحكم مختلفة، بما في ذلك عصا التحكم المزدوجة والبنادق الخفيفة المزدوجة وعجلة القيادة. مع تقاعد نظام Neo Geo MVS القديم، اختارت SNK Playmore نظام Atomiswave كنظامها التالي لتطوير الألعاب من أجله. في عقد مع سامي، وافقت SNK Playmore على تطوير خمس ألعاب لنظام Atomiswave. كانت لعبة Metal Slug 6 هي اللعبة الخامسة لـ SNK Playmore لنظام Atomiswave، وبعد ذلك انتقلت SNK إلى لوحة أركيد Taito Type X2.</systemDescription>
+            <systemHardwareType>أركيد</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Atomiswave je prilagođena arkadna matična ploča i ormar iz Sammy Corporation. Zasnovan je na Sega's Naomi sistemskoj ploči (na taj način je uobičajeno vidjeti logo "sega" na njegovom zaslonu za pokretanje). Atomiswave koristi izmjenjive kertridže za igru, a kontrolna ploča kabineta može se lako isključiti s različitim upravljačkim skupovima, uključujući dvostruke džojstike, dvostruke lightgea i upravljača. Uz penzionisanje starenja Neo Geo MVS sistema, SNK Playmore izabrao je atomiswave kao svoj sljedeći sistem za razvoj igara za. U ugovoru sa Sammyjem, SNK Playmore je pristao razviti pet utakmica za Atomiswave sistem. Metal Slug 6 bio je peta igra SNK Playmore za Atomiswave, nakon čega je SNK prešao na taito tip X2 Arcade Board.</systemDescription>

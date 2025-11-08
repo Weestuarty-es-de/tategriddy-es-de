@@ -16,6 +16,12 @@
         <systemColorPalette4>5C5599</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>عرض اختصارات سطح المكتب وتشغيلها</systemDescription>
+            <systemHardwareType>المجلد</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Pogledajte i pokrenite svoje prečice radne površine</systemDescription>

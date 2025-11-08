@@ -16,6 +16,12 @@
         <systemColorPalette4>FFFFFF</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>AdvanceMAME، هو منفذ لمحاكيات MAME 0.106 و MESS 0.106 لمحاكيات شاشات الأركيد وأجهزة التلفاز وكذلك لشاشات LCD وشاشات الكمبيوتر الشخصي.</systemDescription>
+            <systemHardwareType>المحاكي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>AdvanceMame, luka je mame 0.106 i nered 0,106 emulatora za arkadne monitore i televizore, ali i za LCDS i PC monitore.</systemDescription>

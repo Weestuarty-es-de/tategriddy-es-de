@@ -16,6 +16,12 @@
         <systemColorPalette4>212121</systemColorPalette4>
         <systemCartSize>112-67</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جيم بوي أدفانس (اختصاراً GBA) هو جهاز ألعاب فيديو محمول 32 بت تم تطويره وتصنيعه وتسويقه من قبل نينتندو ليكون خليفة لجيم بوي كولر. تم إصداره في اليابان في 21 مارس 2001، وفي أمريكا الشمالية في 11 يونيو 2001، وفي أستراليا وأوروبا في 22 يونيو 2001، وفي البر الرئيسي للصين في 8 يونيو 2004 (iQue Player). وكان منافسو نينتندو في سوق الأجهزة المحمولة باليد في ذلك الوقت هم Neo Geo Pocket Color وWonderSwan وGP32 وTapwave Zodiac وN-Gage. وعلى الرغم من جهود المنافسين، حافظت Nintendo على حصة الأغلبية في السوق مع Game Boy Advance. واعتبارًا من 30 يونيو 2010، باعت سلسلة جيم بوي أدفانس 81.51 مليون وحدة في جميع أنحاء العالم. تم إصدار خليفته، Nintendo DS، في نوفمبر 2004 وهو متوافق أيضًا مع برامج Game Boy Advance.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Unapređenje dječaka (skraćeno kao GBA) je 32-bitna ručna konzola za video igre razvijena, proizvedena i prodaje Nintendo kao nasljednik igre Boy Boja. Pušten je u Japanu 21. marta 2001., u Severnoj Americi 11. juna 2001., u Australiji i Evropi, 22. juna 2001., a na kopnu Kina 8. juna 2004. (Ique Player). Nintendo-ovi konkurenti na ručnom tržištu u to vrijeme su bile neogene džepne boje, Wonderswan, GP32, Tapwave Zodijak i N-Gage. Uprkos najboljim naporima na konkurentima, Nintendo je održavao većinski tržišni udio s igračem za igru. Od 30. juna 2010. godine, ADVERS serija za igru prodala je 81,51 miliona jedinica širom svijeta. Njegov nasljednik, Nintendo DS, pušten je u novembru 2004. godine, a također je kompatibilan sa igračem za igru Advance softver.</systemDescription>

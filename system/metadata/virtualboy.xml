@@ -18,6 +18,14 @@ The games use a parallax effect to create the illusion of depth. Sales failed to
         <systemColorPalette4>232323</systemColorPalette4>
         <systemCartSize>257-229</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>فيرتشوال بوي هو جهاز ألعاب فيديو محمول 32 بت تم تطويره وتصنيعه من قبل شركة نينتندو. صدر في عام 1995، وتم تسويقه كأول وحدة تحكم قادرة على عرض رسومات مجسمة "ثلاثية الأبعاد". ويستخدم اللاعب وحدة التحكم مثل شاشة العرض المثبتة على الرأس، ويضع رأسه على العدسة ليرى شاشة عرض أحادية اللون حمراء.
+
+تستخدم الألعاب تأثير المنظر لخلق وهم العمق. فشلت المبيعات في تحقيق الأهداف، وتوقفت نينتندو عن التوزيع وتطوير الألعاب في عام 1996، بعد أن أصدرت 22 لعبة فقط للنظام.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The Virtual Boy is a 32-bit tabletop portable video game console developed and manufactured by Nintendo. Released in 1995, it was marketed as the first console capable of displaying stereoscopic "3D" graphics. The player uses the console like a head-mounted display, placing the head against the eyepiece to see a red monochrome display.

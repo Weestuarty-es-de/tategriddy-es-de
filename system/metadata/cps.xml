@@ -18,6 +18,14 @@ Among the 33 titles released for the original CP System included Street Fighter 
         <systemColorPalette4>111111</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>نظام CP System (CPシステム, shīpī shīpī shisutemu, CPS اختصارًا) هو لوحة نظام أركيد تم تطويرها بواسطة Capcom والتي كانت تدير برامج ألعاب مخزنة على لوحات ابنة قابلة للإزالة. تم إصدار أكثر من عشرين لعبة أركيد لنظام CPPS-1، قبل أن تحول Capcom تطوير الألعاب إلى خليفته نظام CP II.
+
+ومن بين ال 33 لعبة التي تم إصدارها لنظام CP الأصلي لعبة Street Fighter II: The World Warrior وأول لعبتين تابعتين لها، Street Fighter II: Champion Edition وStreet Fighter II: Hyper Fighting.</systemDescription>
+            <systemHardwareType>أركيد</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>CP sistem (CP システム, Shīpī Shisutemu, CPS za kratko je arkadna matična ploča koju je razvio CAPCOM koji je RAN softver za igre pohranjen na izmjenjivim kćernim pločama. Više od dva desetaka arkadnih naslova objavljena je za CPS-1, prije nego što je CAPCOM pomaknuo razvoj igru na svog nasljednika, CP sustava II.

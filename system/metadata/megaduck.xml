@@ -16,6 +16,12 @@
         <systemColorPalette4>819B73</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>البطة الميجا داك من ويلباك هولدينجز، والتي يشار إليها عادةً باسم ميجا داك فقط، هي جهاز ألعاب فيديو محمول باليد من الجيل الرابع (1987-2004) تم تطويره وتوزيعه من قبل شركة ويلباك هولدينجز، ولكن تم تسويقه تحت أسماء مختلفة مثل كرياترونيك وفيديو جيت وكوجر الولايات المتحدة الأمريكية وهارتونج. تم إصدارها في أغسطس 1993 في هولندا بسعر تجزئة 129 فلوري هولندي باسم Creatronic Mega Duck. وصدرت وحدة التحكم أيضًا في ألمانيا (1993) ووزعتها شركة هارتونج، وفي فرنسا (1993) ووزعتها شركة Videojet، وفي البرازيل (1993) ولكن باسم Cougar USA Cougar Boy. كانت Mega Duck نسخة واضحة من Game Boy من حيث الشكل، وللأسف كانت تفتقر إلى أي ألعاب مبتكرة تميزها لتصبح منافسًا. تم إيقاف وحدة التحكم بهدوء في وقت ما في أوائل عام 1995.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Wholdings Mega Patka, obično se naziva kao Mega Duck, četvrta generacija (1987-2004) (1987-2004) ručna konzola za video igre razvijena i distribuira se za udjela u korištenju, ali na tržištem pod različitim imenima poput Creatronic, Videot, Cougar USA i Hartung. Pušten je u avgustu 1993. godine u Holandiji u maloprodajnoj cijeni FL 129 kao kreatronic mega patka. Konzola je objavljena i u Njemačkoj (1993) distribuiranu od strane Hartung, Francuska (1993) distribuirala je Videojet i Brazil (1993), ali kao Cougar USA Cougar Boy. Mega patka je bila očigledna klon igre u izgledu, a tužno nedostajalo je bilo kakvih inovativnih inovativnih inovativnih utakmica da bi ga izdvojeno postale konkurent. Konzola je ukinuta tiho negde početkom 1995. godine.</systemDescription>

@@ -18,6 +18,14 @@ Released in 1999 in the fifth generation of video game consoles, the WonderSwan 
         <systemColorPalette4>162B4F</systemColorPalette4>
         <systemCartSize>112-67</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>جهاز WonderSwan هو جهاز ألعاب محمول باليد تم إصداره في اليابان من قبل بانداي. تم تطويره من قبل شركة كوتو لابوراتوري Koto Laboratory التي يملكها غونبي يوكوي وبانداي، وكان آخر جهاز طوره يوكوي قبل وفاته في عام 1997.
+
+صدر جهاز WonderSwan في عام 1999 في الجيل الخامس من أجهزة ألعاب الفيديو، وقد تم دعم جهاز WonderSwan ونموذجيها اللاحقين WonderSwan Color وSwanCrystal رسمياً حتى توقفت بانداي عن تطويره في عام 2003. وخلال فترة حياتها، لم يتم إصدار أي نسخة مختلفة من WonderSwan خارج اليابان.</systemDescription>
+            <systemHardwareType>محمول</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The WonderSwan is a handheld game console released in Japan by Bandai. It was developed by Gunpei Yokoi's company Koto Laboratory and Bandai, and was the last piece of hardware Yokoi developed before his death in 1997.

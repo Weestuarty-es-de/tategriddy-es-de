@@ -20,6 +20,16 @@ The ST was sold with either Atari's color monitor or the less expensive monochro
         <systemColorPalette4>ECECEC</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>أتاري ST هو خط من الحواسيب المنزلية من شركة أتاري كوربوريشن وخليفة عائلة أتاري 8 بت. شهد الطراز الأول، 520ST، إصدارًا محدودًا في أبريل-يونيو 1985، وكان متاحًا على نطاق واسع في يوليو. يعد 520ST أول كمبيوتر شخصي مزود بواجهة مستخدم رسومية ملونة ذات خرائط بت، باستخدام نسخة من برنامج GEM من Digital Research الذي تم إصداره في فبراير 1985. أما جهاز 1040ST، الذي صدر في 1986، فهو أول كمبيوتر شخصي يتم شحنه بذاكرة وصول عشوائي (RAM) بسعة ميغابايت في التكوين الأساسي، وهو أيضًا أول كمبيوتر شخصي بتكلفة أقل من دولار أمريكي واحد لكل كيلوبايت.
+
+يُعد أتاري ST جزءًا من جيل منتصف الثمانينيات من الحواسيب المنزلية التي تحتوي على معالجات 16 أو 32 بت، وذاكرة وصول عشوائي سعتها 256 كيلوبايت أو أكثر وواجهات مستخدم رسومية يتم التحكم فيها بالماوس. ويشمل هذا الجيل أجهزة Macintosh وAmiga وApple IIGS، وفي بعض الأسواق Acorn Archimedes. وترمز كلمة "ST" رسميًا إلى "ستة عشر/اثنين وثلاثين"، والتي تشير إلى ناقل موتورولا 68000 الخارجي ذي 16 بت والداخلي ذي 32 بت.
+
+تم بيع ST مع شاشة أتاري الملونة أو الشاشة أحادية اللون الأقل تكلفة. ولا تتوفر أوضاع الرسومات الملونة في النظام إلا في الوضع الأول بينما يحتاج الوضع الأعلى دقة إلى الشاشة أحادية اللون.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Atari St je linija kućnih računara iz kompanije Atari Corporation i nasljednika Atari 8-bitne porodice. Početni model, 520st, ograničen izdanje u aprilu-juni 1985. i bio je široko dostupan u julu.520st je prvi lični računar koji je došao sa bitmapnim bojama GUI-ja, koristeći verziju digitalnog istraživanja GEM objavljenog u februaru 1985. godine. 1040ST, objavljen 1986. godine, prvi je lični računar koji se isporučuje sa megabajtom RAM-a u osnovnoj konfiguraciji, a također i prva s cijenom po kilogramu manje od 1 USD.

@@ -16,6 +16,12 @@
         <systemColorPalette4>303030</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>تعديل إعدادات المحاكي وتكويناته</systemDescription>
+            <systemHardwareType>المجلد</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Izmijenite svoje postavke i konfiguracije emulatora</systemDescription>

@@ -16,6 +16,12 @@
         <systemColorPalette4>303030</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>لعبة الكرة والدبابيس المستقبلية ("FP") هو تطبيق مجاني ثلاثي الأبعاد لتحرير وألعاب الكرة والدبابيس لمايكروسوفت ويندوز. وهو يشبه Visual Pinball ("VP") وتطبيقات محاكاة الكرة والدبابيس الحديثة الأخرى. تماماً كما هو الحال مع شراكة VP مع Visual PinMAME، يستخدم FP تطبيقات شريكة لمحاكاة رمز ROM الأصلي للكرة والدبابيس. في حالة FP، تتم محاكاة النتائج النهائية لرمز ROM بواسطة وضع أركيد أفضل ("BAM") وأدوات مثل "متصفح الكرة والدبابيس" ومكونات برامج العرض النقطية. تم إيقاف تطوير FP الأساسي في عام 2010، ولكن استؤنف في عام 2013 عبر BAM. يتميز BAM بالعديد من التطورات الجديدة، مثل الفيزياء المحسنة والبصريات ودعم الواقع الافتراضي.</systemDescription>
+            <systemHardwareType>المحرك</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Budući Pinball ("FP") je besplatna aplikacija za uređivanje i igranje za igru za Microsoft Windows. Slično je vizuelnim pinskim ("VP") i drugim modernim aplikacijama za simulaciju Pinball-a. Baš kao i sa partnerstvom VP sa vizualnim pinmom, FP koristi partnerske aplikacije za oponašanje originalnog Pinball ROM-a. U FP-ovim slučajevima, krajnji rezultati ROM-a simulirani su boljim arkadnim režimom ("BAM") i alati poput "Pinball pretraživača" i dodataka za softver. Core FP razvoj prekinut je 2010. godine, ali nastavljen u 2013. godini putem KM. KM sadrži mnoga nova dešavanja, poput poboljšane fizike, optike i podrške virtualnom stvarnošću.</systemDescription>

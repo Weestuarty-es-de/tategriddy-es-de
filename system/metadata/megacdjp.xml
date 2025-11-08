@@ -18,6 +18,14 @@ The main benefit of CD technology was greater storage, which allowed for games t
         <systemColorPalette4>732A46</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>القرص المدمج Sega CD، الذي تم إصداره باسم Mega-CD في معظم المناطق خارج أمريكا الشمالية والبرازيل، هو ملحق قرص مدمج (CD-ROM) لجهاز Mega Drive/Genesis صممته وأنتجته شركة Sega كجزء من الجيل الرابع من أجهزة ألعاب الفيديو. تم إصداره في 12 ديسمبر 1991 في اليابان، و15 أكتوبر 1992 في أمريكا الشمالية، و2 أبريل 1993 في أوروبا. يلعب القرص المضغوط Sega CD ألعاباً تعتمد على الأقراص المضغوطة ويضيف وظائف للأجهزة مثل وحدة معالجة مركزية أسرع وتحسينات رسومية مثل تحجيم العفاريت والدوران. ويمكنه أيضاً تشغيل الأقراص المدمجة الصوتية وأقراص CD+G.
+
+كانت الميزة الرئيسية لتقنية الأقراص المدمجة هي زيادة سعة التخزين، مما سمح للألعاب بأن تكون أكبر بحوالي 320 مرة من خراطيش Genesis. وقد تجلت هذه الميزة في ألعاب الفيديو بالحركة الكاملة (FMV) مثل لعبة Night Trap المثيرة للجدل، والتي أصبحت محور جلسات الاستماع في الكونغرس عام 1993 حول قضايا العنف في ألعاب الفيديو وتصنيفاتها. دخلت شركة Sega اليابانية في شراكة مع JVC لتصميم قرص Sega CD ورفضت التشاور مع شركة Sega الأمريكية حتى اكتمال المشروع. قامت شركة Sega الأمريكية بتجميع أجزاء من وحدات "وهمية" مختلفة للحصول على نموذج أولي فعال. أعيد تصميمه عدة مرات من قبل Sega ومطوري الطرف الثالث المرخصين.</systemDescription>
+            <systemHardwareType>محيطي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Sega CD, objavljen kao Mega-CD u većini regija izvan Sjeverne Amerike i Brazila, je CD-ROM dodatak za Mega Drive / Genesing dizajniran i proizveden od strane Sega kao dio konzola za video igre. Objavljen je 12. decembra 1991. u Japanu, 15. oktobra 1992. u Severnoj Americi, a 2. aprila 1993. u Evropi. Sega CD reprodukuje igre zasnovane na CD-u i dodaje funkcionalnost hardvera kao što je brže središnje jedinice za obradu i grafička poboljšanja poput sprite skaliranja i rotacije. Takođe može reproducirati audio CD-ove i CD + G diskove.

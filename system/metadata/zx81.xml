@@ -20,6 +20,16 @@ The ZX81 could be bought by mail order preassembled or, for a lower price, in ki
         <systemColorPalette4>191222</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>ZX81 هو كمبيوتر منزلي أنتجته شركة سنكلير للأبحاث وصنعته شركة تايمكس في دندي باسكتلندا. وقد تم إطلاقه في المملكة المتحدة في مارس 1981 كخليفة لسنكلير ZX80، وصُمم ليكون مقدمة منخفضة التكلفة للحوسبة المنزلية لعامة الناس. وقد حقق نجاحًا كبيرًا؛ حيث تم بيع أكثر من 1.5 مليون وحدة منه. في الولايات المتحدة تم بيعه في البداية باسم ZX-81 بموجب ترخيص من Timex. أنتجت Timex لاحقًا إصداراتها الخاصة من ZX81: Timex Sinclair 1000 وTimex Sinclair 1500. وتم إنتاج نسخ غير مرخصة من ZX81 في عدة بلدان.
+
+صُممت ZX81 لتكون صغيرة وبسيطة وفوق كل ذلك غير مكلفة، مع أقل عدد ممكن من المكونات. يتم إخراج الفيديو إلى جهاز تلفاز بدلاً من شاشة مخصصة. يتم تحميل البرامج والبيانات وحفظها على أشرطة صوتية مدمجة. ويستخدم أربع شرائح سيليكون فقط وذاكرة بسعة 1 كيلوبايت فقط. لا يوجد مفتاح طاقة أو أي أجزاء متحركة باستثناء مفتاح اختيار قناة تلفزيونية ذات تردد عالٍ جداً موجود في بعض الطرازات. ويحتوي على لوحة مفاتيح غشائية حساسة للضغط. دفعت محدودية ZX81 إلى ظهور سوق في الأجهزة الطرفية الخارجية لتحسين قدراته. وقد جلبت غلافه المميز ولوحة المفاتيح المميزة للمصمم ريك ديكنسون جائزة مجلس التصميم.
+
+يمكن شراء ZX81 عن طريق طلب الشراء بالبريد مُجمَّعًا مسبقًا أو بسعر أقل في شكل مجموعة أدوات. وقد كان أول كمبيوتر منزلي رخيص الثمن يباع في المتاجر الكبرى وعلى رأسها W. H. Smith، وسرعان ما تم بيعه من قبل العديد من تجار التجزئة الآخرين. كان حاسوب ZX81 علامة على النقطة التي أصبحت فيها الحوسبة في بريطانيا نشاطًا لعامة الناس بدلاً من أن تكون حكرًا على رجال الأعمال وهواة الإلكترونيات. فقد أنتجت مجتمعاً ضخماً من المتحمسين، الذين أسس بعضهم شركاتهم الخاصة لإنتاج البرمجيات والأجهزة الخاصة بال ZX81. واستمر العديد منهم في لعب أدوار رئيسية في صناعة الكمبيوتر البريطانية. جعل النجاح التجاري الذي حققه جهاز ZX81 من شركة Sinclair Research إحدى الشركات الرائدة في بريطانيا في مجال تصنيع الحواسيب وحقق ثروة كبيرة وحصل مؤسس الشركة السير كلايف سينكلير على لقب فارس.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>The ZX81 is a home computer that was produced by Sinclair Research and manufactured in Dundee, Scotland, by Timex Corporation. It was launched in the United Kingdom in March 1981 as the successor to Sinclair's ZX80 and designed to be a low-cost introduction to home computing for the general public. It was hugely successful; more than 1.5 million units were sold. In the United States it was initially sold as the ZX-81 under licence by Timex. Timex later produced its own versions of the ZX81: the Timex Sinclair 1000 and Timex Sinclair 1500. Unauthorized ZX81 clones were produced in several countries.

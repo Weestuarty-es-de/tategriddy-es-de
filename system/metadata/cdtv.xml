@@ -16,6 +16,12 @@
         <systemColorPalette4>F62717</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إن CDTV (وهو اختصار لعبارة "Commodore Dynamic Total Vision"، وهو اختصار لمختصر "تلفزيون القرص المضغوط"، مما يعطيها معنى مزدوجاً) هو عبارة عن منصة وسائط متعددة طورتها شركة كومودور إنترناشيونال وأطلقتها في مارس 1991. وكان الهدف من CDTV أن يكون جهاز وسائط وليس كمبيوتر شخصي.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>CDTV (akronim za "Commodore dinamičku totalnu viziju", akronim za "kompaktni disk televiziju", dajući mu dvostruko značenje) je multimedijska platforma koju je razvio Commodore International i pokrenut je u martu 1991. godine.</systemDescription>

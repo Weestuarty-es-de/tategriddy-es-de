@@ -16,6 +16,12 @@
         <systemColorPalette4>333333</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إن Acorn Archimedes هي عائلة من الحواسيب الشخصية التي صممتها شركة Acorn Computers في كامبريدج بإنجلترا. وتعتمد هذه الأنظمة على معالجات بنية ARM الخاصة بشركة Acorn وأنظمة التشغيل الخاصة بها Arthur و RISC OS. طُرحت النماذج الأولى في عام 1987، وتم بيع أنظمة عائلة أرخميدس حتى منتصف التسعينيات.</systemDescription>
+            <systemHardwareType>الحاسب الآلي</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Arhimed ACORN je porodica ličnih računara koju su dizajnirali Acorn Computers of Cambridge, Engleska. Sistemi se zasnivaju na organu ARNOR-ovih arhitektura arhitektura i vlasničkim operativnim sistemima Arthur i RISC OS. Prvi modeli uvedeni su 1987. godine, a sustavi u porodici Arhimeda prodani su do sredine 1990-ih.</systemDescription>

@@ -16,6 +16,12 @@
         <systemColorPalette4>4A9BE4</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>إن جهاز Amiga CD32، الذي يحمل اسم "CD32" واسمه الرمزي "Spellbound"، هو أول جهاز ألعاب فيديو منزلي 32 بت تم إصداره في أوروبا الغربية وأستراليا وكندا والبرازيل. تم الإعلان عنها لأول مرة في متحف العلوم في لندن في 16 يوليو 1993، وتم إصدارها في سبتمبر من نفس العام. يستخدم CD32 وسائط الأقراص المدمجة CD-ROM، وتم تطويره من قبل Commodore، مبتكر كمبيوتر Commodore Amiga. وقد استند إلى مجموعة شرائح هندسة الرسومات المتقدمة من Commodore، وهو ذو مواصفات مشابهة لحاسوب Amiga 1200. وباستخدام أجهزة طرف ثالث، يمكن ترقية CD32 بلوحة مفاتيح ومحرك أقراص مرنة وقرص صلب وذاكرة وصول عشوائي وماوسة، مما يجعله مكافئاً لحاسوب Amiga 1200 الشخصي. كما تم إصدار وحدة فك ضغط MPEG للأجهزة لتشغيل قرص الفيديو المضغوط. في فترة عيد الميلاد التي أعقبت إطلاقه، استحوذ CD32 على 38% من إجمالي مبيعات محركات الأقراص المضغوطة في المملكة المتحدة، متجاوزًا مبيعات القرص المضغوط؛ ولكن سرعان ما طغت عليه وحدات تحكم الألعاب القائمة على الأقراص المضغوطة من شركات أخرى، وتم إيقافه مع إفلاس Commodore.</systemDescription>
+            <systemHardwareType>وحدة التحكم</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Amiga CD32, stilizirani "CD32" i kod "Spellbound", prva je 32-bitna konzola za video igre u zapadnoj Evropi, Australiji, Kanadi i Brazilu. Prvo je najavljeno u naučnom muzeju u Londonu 16. jula 1993., a pušten je u septembru iste godine. CD32 koristi CD-ROM medije, a razvio ga je Commodore, Stvoritelj Commodore Amiga računara. Temeljila se na Commodoreu naprednoj grafičkoj arhitekturi čipsetu, a slične je specifikacije računara Amiga 1200. Upotreba uređaja trećih strana, moguće je nadograditi CD32 s tipkovnicom, disketom, tvrdom diskom, RAM-u i mišem, prevrtanja u ekvivalent ličnog računara Amiga 1200. Objavljen je i hardver MPEG dekompresijski modul za reprodukciju video CD-a. U božićnom periodu nakon pokretanja, CD32 je činio 38% svih prodaje CD-ROM uređaja u Velikoj Britaniji, prekoračenjem prodaje Mega CD-a;Međutim, ubrzo je zasjenjeno CD-ROM-u zasnovanim igarskim konzolama iz drugih kompanija, a prekinuta je kao što je Commodore ušao u bankrot.</systemDescription>

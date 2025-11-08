@@ -16,6 +16,12 @@
         <systemColorPalette4>BF2E31</systemColorPalette4>
         <systemCartSize>1-1</systemCartSize>
     </variables>
+    <language name="ar_SA">
+        <variables>
+            <systemDescription>Kodi هو تطبيق برمجيات مشغل وسائط مجاني ومفتوح المصدر طورته مؤسسة XBMC، وهي اتحاد تكنولوجي غير ربحي. يتوفر Kodi للعديد من أنظمة التشغيل ومنصات الأجهزة، مع واجهة مستخدم برمجية ذات 10 أقدام للاستخدام مع أجهزة التلفاز وأجهزة التحكم عن بعد.</systemDescription>
+            <systemHardwareType>المجلد</systemHardwareType>
+        </variables>
+    </language>
     <language name="bs_BA">
         <variables>
             <systemDescription>Kodi je besplatan i open-medijski softver za medijsku plejeru razvijen od strane XBMC fondacije, neprofitnog tehnološkog konzorcijuma. Kodi je dostupan za više operativnih sistema i hardverske platforme, sa softverom za korisničko sučelje 10 stopa za upotrebu sa televizorima i daljinskim upravljačem.</systemDescription>
